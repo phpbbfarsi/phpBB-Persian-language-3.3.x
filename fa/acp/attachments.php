@@ -71,7 +71,6 @@ $lang = array_merge($lang, array(
 	'ATTACH_QUOTA_EXPLAIN'				=> 'حداکثر فضا جهت در اختیار قرار دادن پیوست ها در انجمن. عدد 0 به معنای نامحدود بودن است.',
 	'ATTACH_TO_POST'					=> 'پيوست فايل در پست',
 
-	'CAT_FLASH_FILES'			=> 'فایل های فلش',
 	'CAT_IMAGES'				=> 'تصاویر',
 	'CHECK_CONTENT'				=> 'کنترل فایل های پیوست',
 	'CHECK_CONTENT_EXPLAIN'		=> 'بعضی از مرورگر ها ممکن هست دچار اشتباه شوند و آپلود بعضی از فایل های نامجاز را که نوع فرمت آنها (mimetype) تغییر یافته است،قبول کنند. این گزینه باعث اطمینان از این نوع فایل ها خواهد شد.',
@@ -102,7 +101,6 @@ $lang = array_merge($lang, array(
 	'EXT_GROUP_ARCHIVES'			=> 'آرشیو',
 	'EXT_GROUP_DOCUMENTS'			=> 'اسناد',
 	'EXT_GROUP_DOWNLOADABLE_FILES'	=> 'فایل های قابل بارگیری',
-	'EXT_GROUP_FLASH_FILES'			=> 'فایل های فلش',
 	'EXT_GROUP_IMAGES'				=> 'تصاویر',
 	'EXT_GROUP_PLAIN_TEXT'			=> 'متن ساده',
 

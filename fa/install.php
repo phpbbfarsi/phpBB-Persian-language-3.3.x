@@ -73,7 +73,7 @@ $lang = array_merge($lang, array(
 
 	<p>phpBB این پایگاه های داده را پشتیبانی می کند :</p>
 	<ul>
-		<li>MySQL 3.23 or above (MySQLi supported)</li>
+		<li>MySQL 4.1.3 or above (MySQLi supported)</li>
 		<li>PostgreSQL 8.3+</li>
 		<li>SQLite 3.6.15+</li>
 		<li>MS SQL Server 2000 or above (directly or via ODBC)</li>
@@ -109,7 +109,7 @@ $lang = array_merge($lang, array(
 
 	// Server requirements
 	'PHP_VERSION_REQD'					=> 'نسخه PHP',
-	'PHP_VERSION_REQD_EXPLAIN'			=> 'phpBB نیاز به نسخه 5.4.0 PHP دارد.',
+	'PHP_VERSION_REQD_EXPLAIN'			=> 'phpBB نیاز به نسخه 7.1.0 PHP دارد.',
 	'PHP_GETIMAGESIZE_SUPPORT'			=> 'تابع phpBB getimagesize() در دسترس است',
 	'PHP_GETIMAGESIZE_SUPPORT_EXPLAIN'	=> '<strong>ضروری</strong> - برای این که phpBB عملکرد درستی داشته باشد، باید تابع getimagesize در دسترس باشد.',
 	'PCRE_UTF_SUPPORT'			     	=> 'PCRE UTF-8 پشتیبانی',
@@ -190,7 +190,6 @@ $lang = array_merge($lang, array(
 	// Database options
 	'DB_OPTION_MSSQL_ODBC'	=> 'MSSQL Server 2000+ via ODBC',
 	'DB_OPTION_MSSQLNATIVE'	=> 'MSSQL Server 2005+ [ Native ]',
-	'DB_OPTION_MYSQL'		=> 'MySQL',
 	'DB_OPTION_MYSQLI'		=> 'MySQL with MySQLi Extension',
 	'DB_OPTION_ORACLE'		=> 'Oracle',
 	'DB_OPTION_POSTGRES'	=> 'PostgreSQL',
@@ -569,7 +568,7 @@ $lang = array_merge($lang, array(
 
 	// Finish conversion
 	'CONVERT_COMPLETE'			=> 'فرآیند تبدیل اتمام یافت',
-    'CONVERT_COMPLETE_EXPLAIN'	=> 'انجمن شما با موفقیت به نسخه phpBB 3.2 ارتقا پیدا کرد شما میتوانید هم اکنوان وارد اکانت خود شوید.<a href="../">دسترسی به انجمن</a>. لطفا قبل از حذف پوشه نصب و فعال سازی انجمن از تغییر تمامی تنظیمات جدید اطمینان حاصل نمایید. راهنمای استفاده از این سیستم در این آدرس موجود است. <a href="https://www.phpbb.com/support/docs/en/3.2/ug/">Documentation</a> و <a href="https://www.phpbb.com/community/viewforum.php?f=466">انجمن پشتیبانی</a>.',
+    'CONVERT_COMPLETE_EXPLAIN'	=> 'انجمن شما با موفقیت به نسخه phpBB 3.3 ارتقا پیدا کرد شما میتوانید هم اکنوان وارد اکانت خود شوید.<a href="../">دسترسی به انجمن</a>. لطفا قبل از حذف پوشه نصب و فعال سازی انجمن از تغییر تمامی تنظیمات جدید اطمینان حاصل نمایید. راهنمای استفاده از این سیستم در این آدرس موجود است. <a href="https://www.phpbb.com/support/docs/en/3.2/ug/">Documentation</a> و <a href="https://www.phpbb.com/community/viewforum.php?f=466">انجمن پشتیبانی</a>.',
 
 	'CONV_ERROR_ATTACH_FTP_DIR'			=> 'در تالار قدیمی،آپلود FTP برای پیوست ها فعال می باشد. لطفا آپلود پیوست با FTP را غیر فعال کنید و مطمئن باشید که دایرکتوری مشخصی برای آپلود تایین شده است. و سپس تمام پیوست ها را به این دایرکتوری قابل دسترس آپلود کرده و تبدیل گر را دوباره فعال کنید.',
 	'CONV_ERROR_CONFIG_EMPTY'			=> 'اطلاعات پیکربندی برای تبدیل گر وجود ندارد.',

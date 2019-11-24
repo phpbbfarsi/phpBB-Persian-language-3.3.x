@@ -132,6 +132,8 @@ $lang = array_merge($lang, array(
 	'GENERAL_FORUM_SETTINGS'	=> 'تنظیمات عمومی انجمن',
 
 	'LINK'						=> 'لینک',
+	'LIMIT_SUBFORUMS'			=> 'Limit legend to direct child-subforums',
+	'LIMIT_SUBFORUMS_EXPLAIN'	=> 'Limits the subforums to be displayed to subforums that are direct descendants (children) of the current forum. Disabling this will display all subforums with the “List subforums in legend” option enabled, regardless of depth.',
 	'LIST_INDEX'				=> 'نمايش زير انجمنها در فهرست',
 	'LIST_INDEX_EXPLAIN'		=> 'با فعال کردن اين گزينه, انجمن مورد نظر در هر کجاي انجمنها باشد در نخستين صفحه قابل نمايش ميباشد. براي آنکه تمامي زير انجمنها فقط در انجمن والد خود نمایش داده شوند گزینه "نمايش فهرست زير انجمنها در انجمن والد" را انتخاب نمائید.',
 	'LIST_SUBFORUMS'			=> 'نمايش فهرست زير انجمنها در انجمن والد',

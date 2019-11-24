@@ -269,7 +269,6 @@ $lang = array_merge($lang, array(
 	'TOPIC_BUMPED'				=> 'این موضوع با موفقیت بامپ(bump) شد',
 
 	'UNAUTHORISED_BBCODE'		=> 'از BBCode های مقابل نمیتوانید استفاده کنید : %s.',
-	'UNGLOBALISE_EXPLAIN'		=> 'برای بازگردانی این موضوع از حالت سراسری به حالت معمولی،باید انجمنی را انتخاب کنید که میخواهید موضوع در آن انجمن ذخیره شود.',
 	'UNSUPPORTED_CHARACTERS_MESSAGE'	=> 'متن شما حاوی کاراکترهای غیر مجاز زیر است:<br />%s',
 	'UNSUPPORTED_CHARACTERS_SUBJECT'	=> 'متن شما حاوی کاراکترهای غیر مجاز زیر است:<br />%s',
 	'UPDATE_COMMENT'			=> 'بروزرسانی نظر',
