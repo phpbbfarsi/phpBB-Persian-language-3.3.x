@@ -3,7 +3,7 @@
 *
 * phpBB 3.3.X Project - Persian Translation
 * Translators: PHP-BB.IR Group Meis@M Nobari
-* Version: 3.3.b2
+* Version: 3.3.0 - 1398/10/16
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
@@ -280,7 +280,7 @@ $lang = array_merge($lang, array(
 	'FILESYSTEM_CANNOT_DUMP_FILE'				=> 'فایل مورد نظر قابل حذف نیست',
 	'FILESYSTEM_CANNOT_MIRROR_DIRECTORY'		=> 'دایرکتوری قابل کپی برداری نیست',
 	'FILESYSTEM_CANNOT_RENAME_FILE'				=> 'فایل داخل سیستم قابل تغییر نام نیست',
-	'FILESYSTEM_CANNOT_TOUCH_FILES'				=> 'مشخص نیست پرونده ای وجود دارد یا نه',
+	'FILESYSTEM_CANNOT_TOUCH_FILES'				=> 'قابلیت ایجاد یا تغییر فایل وجود ندارد',
 
 	'FTP_FSOCK_HOST'				=> 'هاست FTP',
 	'FTP_FSOCK_HOST_EXPLAIN'		=> 'سرور FTP (سروری که برای اتصال به سایتتان استفاده میکنید)',
