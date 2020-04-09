@@ -238,7 +238,7 @@ $lang = array_merge($lang, array(
 	'CRON_NO_SUCH_TASK'		=> 'وظیفه “%s” در سیستم cron یافت نشد.',
 	'CRON_NO_TASK'			=> 'هیچ سیستم وظیفه گر cron در قابل اجرا شدن نیست.',
 	'CRON_NO_TASKS'			=> 'سیستم وظیفه گر cron یافت نشد.',
-	'CURRENT_VERSION'		=> 'نسخه فعلیّ',
+	'CURRENT_VERSION'		=> 'نسخه فعلی',
 
 	'DEACTIVATE'				=> 'غیرفعال سازی',
 	'DIRECTORY_DOES_NOT_EXIST'	=> 'مسیر وارد شده “%s” ، موجود نمی باشد.',
