@@ -138,7 +138,7 @@ $lang = array_merge($lang, array(
 	'ACP_MASS_EMAIL'			=> 'ایمیل دسته جمعی',
 	'ACP_MESSAGES'				=> 'پیغام ها',
 	'ACP_MESSAGE_SETTINGS'		=> 'تنظیمات پیغام های خصوصی',
-	'ACP_MODULE_MANAGEMENT'		=> 'مدیریت مازول ها',
+	'ACP_MODULE_MANAGEMENT'		=> 'مدیریت ماژول ها',
 	'ACP_MOD_LOGS'				=> 'اعمال مديرانجمن',
 	'ACP_MOD_ROLES'				=> 'نوع دسترسي مدير انجمن',
 
@@ -238,12 +238,12 @@ $lang = array_merge($lang, array(
 	'CRON_NO_SUCH_TASK'		=> 'وظیفه “%s” در سیستم cron یافت نشد.',
 	'CRON_NO_TASK'			=> 'هیچ سیستم وظیفه گر cron در قابل اجرا شدن نیست.',
 	'CRON_NO_TASKS'			=> 'سیستم وظیفه گر cron یافت نشد.',
-	'CURRENT_VERSION'		=> 'Current version',
+	'CURRENT_VERSION'		=> 'نسخه فعلیّ',
 
 	'DEACTIVATE'				=> 'غیرفعال سازی',
 	'DIRECTORY_DOES_NOT_EXIST'	=> 'مسیر وارد شده “%s” ، موجود نمی باشد.',
 	'DIRECTORY_NOT_DIR'			=> 'مسیر وارد شده “%s” ، دایرکتوری نمی باشد.',
-	'DIRECTORY_NOT_WRITABLE'	=> 'مسیر وارد شده “%s” ،قابل نوشتن نیست.',
+	'DIRECTORY_NOT_WRITABLE'	=> 'مسیر وارد شده “%s” ،قابل نوشتن نیست.',ّ
 	'DISABLE'					=> 'غيرفعال',
 	'DOWNLOAD'					=> 'دانلود',
 	'DOWNLOAD_AS'				=> 'دانلود نتيجه',
