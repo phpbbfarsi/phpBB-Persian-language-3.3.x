@@ -3,7 +3,7 @@
 *
 * phpBB 3.3.X Project - Persian Translation
 * Translators: PHP-BB.IR Group Meis@M Nobari
-* Version: 3.3.0 - 1398/10/16
+* Version: 3.3.1 - 1399/04/05
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
@@ -170,6 +170,7 @@ $lang = array_merge($lang, array(
 	),
 	'COLLAPSE_VIEW'			=> 'حالت کشویی',
 	'CLOSE_WINDOW'			=> 'حالت کشویی',
+	'CODE'					=> 'کد',
 	'COLOUR_SWATCH'			=> 'تغییر رنگ',
 	'COLON'					=> ':',
 	'COMMA_SEPARATOR'		=> ', ',	// Comma used to join lists into a single string, use localised comma if appropriate, eg: Ideographic or Arabic
@@ -207,6 +208,7 @@ $lang = array_merge($lang, array(
 	'DISPLAY_MESSAGES'		=> 'نمایش پیغام ها از آخر به اول',
 	'DISPLAY_POSTS'			=> 'نمایش پست ها از آخر به اول',
 	'DISPLAY_TOPICS'		=> 'نمایش موضوعات از آخر به اول',
+	'DOMAIN_NO_MX_RECORD_EMAIL'	=> 'The entered email domain has no valid MX record.',
 	'DOWNLOADED'			=> 'دانلود شده',
 	'DOWNLOADING_FILE'		=> 'دانلود فایل',
 	'DOWNLOAD_COUNTS'		=> array(
@@ -312,7 +314,6 @@ $lang = array_merge($lang, array(
 	'GB'						=> 'گیگابایت',
 	'GIB'						=> 'گیگابایت',
 	'GO'						=> 'برو',
-	'GOOGLEPLUS'				=> 'گوگل پلاس (Google +)',
 	'GOTO_FIRST_POST'			=> 'برو به پست اول',
 	'GOTO_LAST_POST'			=> 'برو به آخرین پست',
 	'GOTO_PAGE'					=> 'برو به صفحه',
@@ -625,6 +626,9 @@ $lang = array_merge($lang, array(
 	'POST_UNAPPROVED_EXPLAIN'	=> 'این پست قابل مشاهده برای کاربران دیگر تا زمانی که مدیران آن را تایید نکنند، نیست',
 	'POST_UNAPPROVED'		=> 'این پست با موفقیت تایید شد.',
 	'POWERED_BY'			=> 'توسعه یافته توسط %s',
+	
+	'QUOTE'					=> 'نقل قول',
+
 	'PREVIEW'				=> 'پیشنمایش',
 	'PREVIOUS'				=> 'قبلی',		// Used in pagination
 	'PREVIOUS_STEP'			=> 'قبلی',

@@ -183,7 +183,6 @@ $lang = array_merge($lang, array(
 	'DEMOTE_SELECTED'			=> 'تنزل دادن گزینه انتخاب شده',
 	'DISABLE_CENSORS'			=> 'فعال بودن سانسور کلمات',
 	'DISPLAY_GALLERY'			=> 'نمايش گالري',
-	'DOMAIN_NO_MX_RECORD_EMAIL'	=> 'ايميل وارد شده صحيح نمي باشد.',
 	'DOWNLOADS'					=> 'دريافت ها',
 	'DRAFTS_DELETED'			=> 'کل پيش نويس هاي انتخاب شده با موفقيت حذف شدند.',
 	'DRAFTS_EXPLAIN'			=> 'شما مي توانيد پيش نويس هاي خود را مشاهده ، حذف ، ويرايش يا ذخيره کنيد.',

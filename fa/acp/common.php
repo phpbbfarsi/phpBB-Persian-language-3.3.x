@@ -502,13 +502,13 @@ $lang = array_merge($lang, array(
 	'LOG_ACL_ADD_ADMIN_GLOBAL_A_'		=> '<strong>مدیران ویرایش و یا اضافه شدند </strong><br />» %s',
 	'LOG_ACL_ADD_MOD_GLOBAL_M_'			=> '<strong>مدیران انجمن ها ویرایش و یا اضافه شدند.</strong><br />» %s',
 
-	'LOG_ACL_ADD_USER_LOCAL_F_'			=> '<strong>دسترسی کاربران به انجمن ویرایش و یا اضافه شدند</strong> from %1$s<br />» %2$s',
-	'LOG_ACL_ADD_USER_LOCAL_M_'			=> '<strong>دسترسی کاربران به مدیریت انجمن ویرایش و یا اضافه شدند</strong> from %1$s<br />» %2$s',
-	'LOG_ACL_ADD_GROUP_LOCAL_F_'		=> '<strong>دسترسی گروه ها به انجمن ویرایش و یا اضافه شدند</strong> from %1$s<br />» %2$s',
-	'LOG_ACL_ADD_GROUP_LOCAL_M_'		=> '<strong>دسترسی گروه ها به مدیریت انجمن ویرایش و یا اضافه شدند</strong> from %1$s<br />» %2$s',
+	'LOG_ACL_ADD_USER_LOCAL_F_'			=> '<strong>دسترسی کاربران به انجمن ویرایش و یا اضافه شدند</strong> به %1$s<br />» %2$s',
+	'LOG_ACL_ADD_USER_LOCAL_M_'			=> '<strong>دسترسی کاربران به مدیریت انجمن ویرایش و یا اضافه شدند</strong> به %1$s<br />» %2$s',
+	'LOG_ACL_ADD_GROUP_LOCAL_F_'		=> '<strong>دسترسی گروه ها به انجمن ویرایش و یا اضافه شدند</strong> به %1$s<br />» %2$s',
+	'LOG_ACL_ADD_GROUP_LOCAL_M_'		=> '<strong>دسترسی گروه ها به مدیریت انجمن ویرایش و یا اضافه شدند</strong> به %1$s<br />» %2$s',
 
-	'LOG_ACL_ADD_MOD_LOCAL_M_'			=> '<strong>مدیران انجمن ویرایش و یا اضافه شدند</strong> از %1$s<br />» %2$s',
-	'LOG_ACL_ADD_FORUM_LOCAL_F_'		=> '<strong>سطوح دسترسی انجمن ویرایش و یا اضافه شدند</strong> از %1$s<br />» %2$s',
+	'LOG_ACL_ADD_MOD_LOCAL_M_'			=> '<strong>مدیران انجمن ویرایش و یا اضافه شدند</strong> برای %1$s<br />» %2$s',
+	'LOG_ACL_ADD_FORUM_LOCAL_F_'		=> '<strong>سطوح دسترسی انجمن ویرایش و یا اضافه شدند</strong> برای %1$s<br />» %2$s',
 
 	'LOG_ACL_DEL_ADMIN_GLOBAL_A_'		=> '<strong>حذف مدیران</strong><br />» %s',
 	'LOG_ACL_DEL_MOD_GLOBAL_M_'			=> '<strong>حذف مدیران انجمن ها</strong><br />» %s',
