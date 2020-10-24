@@ -154,6 +154,7 @@ $lang = array_merge($lang, array(
 	'LOGIN_EXPLAIN_QUOTE'		=> 'برای نقل قول پست ها در این انجمن باید ابتدا وارد شوید.',
 	'LOGIN_EXPLAIN_REPLY'		=> 'برای پاسخ به موضوعی باید ابتدا وارد شوید.',
 
+	'MAX_ATTACHMENT_FILESIZE'	=> 'حداکثر حجم فایل برای پیوست: %s.',
 	'MAX_FONT_SIZE_EXCEEDED'	=> 'فونت ها را تا اندازه %1$d میتوانید استفاده کنید.',
 	'MAX_FLASH_HEIGHT_EXCEEDED'	=> array(
 		1	=> 'طول فایل فلش باید تا %1$d پیکسل باشد.',

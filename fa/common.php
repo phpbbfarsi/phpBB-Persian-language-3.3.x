@@ -3,7 +3,7 @@
 *
 * phpBB 3.3.X Project - Persian Translation
 * Translators: PHP-BB.IR Group Meis@M Nobari
-* Version: 3.3.1 - 1399/04/05
+* Version: 3.3.2 - 1399/08/03
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
@@ -50,7 +50,7 @@ $lang = array_merge($lang, array(
 	'USER_LANG'			=> 'fa',
 
 	// You can define different rules for the determination of plural forms here.
-	// See https://area51.phpbb.com/docs/dev/32x/language/plurals.html for more informatio
+	// See https://area51.phpbb.com/docs/dev/3.3.x/language/plurals.html for more information
 	// or ask the translation manager for help.
 	'PLURAL_RULE'		=> 1,
 
@@ -112,6 +112,8 @@ $lang = array_merge($lang, array(
 	'AVATAR_NOT_UPLOADED'			=> 'امکان بارگزاری فایل وجود ندارد.',
 	'AVATAR_NO_TEMP_DIR'			=> 'پوشه موقت یافت نشد یا قابل خواندن نیست.',
 	'AVATAR_NO_SIZE'				=> 'طول و عرض نمایه لینک داده شده مشخص نیست،لطفا این اطلاعات را دستی وارد کنید',
+	'AVATAR_NO_UPLOAD_DIR'			=> 'محل ذخیره سازی نمایه ها مشخص یا قابل خواندن نیست.',
+	'AVATAR_NO_UPLOAD_PATH'			=> 'قابلیت بارگزاری آواتار فعال است اما مسیر ذخیره سازی آن مشخص نیست.',
 	'AVATAR_PARTIAL_UPLOAD'			=> 'فقط قسمتی از نمایه مشخص شده بارگزاری شد.',
 	'AVATAR_PHP_SIZE_NA'			=> 'حجم فایل نمایه بسیار زیاد است<br />حداکثر حجم فایل مورد قبول در php.ini قابل تشخیص نیست',
 	'AVATAR_PHP_SIZE_OVERRUN'		=> 'حجم فایل نمایه بسیار زیاد است . حداکثر حجم مورد قبول %1$d %2$s است.<br />توجه داشته باشید مه این اطلاعات از php.ini اقتباس شده است و قابل بازنویسی است',
@@ -495,6 +497,7 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_REFERENCE'			=> '"%1$s"',
 	'NOTIFICATION_REASON'				=> '<em>دلیل:</em> %1$s.',
 	'NOTIFICATION_REPORT_PM'			=> '<strong>گزارش پیغام خصوصی</strong> توسط %1$s:',
+	'NOTIFICATION_REPORT_PM_CLOSED'		=> '<strong>گزارش پیغام بسته شده </strong> توسط %1$s:',
 	'NOTIFICATION_REPORT_POST'			=> '<strong>گزارش پست</strong> توسط %1$s:',
 	'NOTIFICATION_REPORT_CLOSED'   		=> '<strong>بستن گزارش</strong> توسط %1$s برای:',
 	'NOTIFICATION_TOPIC'				=> '<strong>موضوع جدید</strong> توسط %1$s:',
