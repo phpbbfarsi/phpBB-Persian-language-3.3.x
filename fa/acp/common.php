@@ -374,9 +374,11 @@ $lang = array_merge($lang, array(
 	'ERROR_MBSTRING_ENCODING_TRANSLATION'			=> 'Transparent character encoding به طور نامناسب پیکربندی شده است',	
 	'ERROR_MBSTRING_ENCODING_TRANSLATION_EXPLAIN'	=> '<var>mbstring.encoding_translation</var> باید به 0 تنظیم شود . می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',
 	'ERROR_MBSTRING_HTTP_INPUT'						=> 'HTTP input character conversion به طور نامناسب پیکربندی شده است',	
-	'ERROR_MBSTRING_HTTP_INPUT_EXPLAIN'				=> '<var>mbstring.http_input</var> باید به <samp>pass</samp> تنظیم شود. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',
+	'ERROR_MBSTRING_HTTP_INPUT_EXPLAIN'				=> '<var>mbstring.http_input</var> باید خالی بگذارید. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',
 	'ERROR_MBSTRING_HTTP_OUTPUT'					=> 'HTTP output character conversion به طور نامناسب پیکربندی شده است',	
-	'ERROR_MBSTRING_HTTP_OUTPUT_EXPLAIN'			=> '<var>mbstring.http_output</var>باید به <samp>pass</samp> تنظیم شود. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',
+ 	'ERROR_MBSTRING_HTTP_OUTPUT_EXPLAIN'			=> '<var>mbstring.http_output</var>باید خالی بگذارید. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',
+	'ERROR_DEFAULT_CHARSET'							=> 'تنظیمات پیشفرض نادرست پیکر بندی شده است.',
+	'ERROR_DEFAULT_CHARSET_EXPLAIN'					=> '<var>default_charset</var> باید به این شکل تنظیم شود. <samp>UTF-8</samp>. مقدار فعلی را اینجا بررسی کنید <samp>PHP اطلاعات</samp> page.',
 
 	'FILES_PER_DAY'		=> 'تعداد پیوست در هر روز',
 	'FORUM_STATS'		=> 'آمار تالار',
