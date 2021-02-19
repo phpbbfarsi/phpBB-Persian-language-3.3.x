@@ -74,4 +74,5 @@ $lang = array_merge($lang, array(
 	'RECAPTCHA_V3_THRESHOLD_REPORT'				=> 'Report threshold',
 	'RECAPTCHA_V3_THRESHOLDS'					=> 'Thresholds',
 	'RECAPTCHA_V3_THRESHOLDS_EXPLAIN'			=> 'ریکپچا ورژن۳ یک نمیره را برمیگرداند (<samp>1.0</samp> به احتمال زیاد یک تعامل خوب است، <samp>0.0</samp> به احتمال زیاد یک ربات است). در اینجا می توانید حداقل امتیاز را برای هر اقدام تعیین کنید.',
+	'EMPTY_RECAPTCHA_V3_REQUEST_METHOD'			=> 'reCAPTCHA v3 requires to know which available method you want to use when verifying the request.',
 ));
