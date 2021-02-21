@@ -46,7 +46,7 @@ $lang = array_merge($lang, array(
 	'FORUM_PERMISSIONS'		=> 'سطوح دسترسی انجمن',
 
 	'ICON_ANNOUNCEMENT'		=> 'اطلاعیه ها',
-	'ICON_STICKY'			=> 'چسبنده',
+	'ICON_STICKY'			=> 'چسبناک',
 
 	'LOGIN_NOTIFY_FORUM'		=> 'شما در مورد این انجمن مطلع شده اید، لطفاً برای مشاهده آن وارد شوید .',
 
