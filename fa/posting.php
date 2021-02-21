@@ -136,7 +136,7 @@ $lang = array_merge($lang, array(
 	'FONT_NORMAL'				=> 'معمولی',
 	'FONT_SIZE'					=> 'اندازه فونت',
 	'FONT_SMALL'				=> 'کوچک',
-	'FONT_TINY'					=> 'نازک',
+	'FONT_TINY'					=> 'بسیار کوچک',
 
 	'GENERAL_UPLOAD_ERROR'		=> 'بارگذاری پیوست به %s صورت نگرفت.',
 
