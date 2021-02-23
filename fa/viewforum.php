@@ -46,24 +46,24 @@ $lang = array_merge($lang, array(
 	'FORUM_PERMISSIONS'		=> 'سطوح دسترسی انجمن',
 
 	'ICON_ANNOUNCEMENT'		=> 'اطلاعیه ها',
-	'ICON_STICKY'			=> 'سنجاق',
+	'ICON_STICKY'			=> 'سنجاق شده',
 
-	'LOGIN_NOTIFY_FORUM'		=> 'شما در مورد این انجمن مطلع شده اید، لطفاً برای مشاهده آن وارد شوید .',
+	'LOGIN_NOTIFY_FORUM'		=> 'شما در مورد این انجمن مطلع شده اید، لطفاً برای مشاهده آن وارد شوید.',
 
 	'MARK_TOPICS_READ'		=> 'نشانه گذاری موضوعات بعنوان خوانده شده',
 
-	'NEW_POSTS_HOT'		=> 'پست های جديد (محبوب)',	// Not used anymore
-	'NEW_POSTS_LOCKED'		=> 'پست های جديد (قفل است)',	// Not used anymore
-	'NO_NEW_POSTS_HOT'		=> 'بدون پست جديد (محبوب)',	// Not used anymore
-	'NO_NEW_POSTS_LOCKED'	=> 'بدون پست جديد (قفل شده)',	// Not used anymore
-	'NO_READ_ACCESS'		=> 'شما اجازه خواندن و دیدن موضوعات اين انجمن را نداريد.',
+	'NEW_POSTS_HOT'		=> 'پست های جدید (محبوب)',	// Not used anymore
+	'NEW_POSTS_LOCKED'		=> 'پست های جدید (قفل است)',	// Not used anymore
+	'NO_NEW_POSTS_HOT'		=> 'بدون پست جدید (محبوب)',	// Not used anymore
+	'NO_NEW_POSTS_LOCKED'	=> 'بدون پست جدید (قفل شده)',	// Not used anymore
+	'NO_READ_ACCESS'		=> 'شما اجازه خواندن و دیدن موضوعات این انجمن را ندارید.',
 	'NO_FORUMS_IN_CATEGORY'	=> 'این شاخه زیر انجمنی ندارد',
 	'NO_UNREAD_POSTS_HOT'	=> 'بدون پست خوانده نشده [ مشهور]',
 	'NO_UNREAD_POSTS_LOCKED'	=> 'بدون پست خوانده نشده [قفل شده]',
 
 	'POST_FORUM_LOCKED'		=> 'انجمن قفل شده است.',
 
-	'TOPICS_MARKED'		=> 'موضوعات اين انجمن بعنوان خوانده شده نشانه گذاری شدند.',
+	'TOPICS_MARKED'		=> 'موضوعات این انجمن بعنوان خوانده شده نشانه گذاری شدند.',
 
 	'UNREAD_POSTS_HOT'		=> 'پست های خوانده نشده [ مشهور ]',
 	'UNREAD_POSTS_LOCKED'	=> 'پست های خوانده نشده [ قفل شده ]',
