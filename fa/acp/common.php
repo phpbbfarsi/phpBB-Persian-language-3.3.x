@@ -60,7 +60,7 @@ $lang = array_merge($lang, array(
 	'ACP_BOARD_FEATURES'		=> 'خصوصیات انجمن',
 	'ACP_BOARD_MANAGEMENT'		=> 'مدیریت انجمن',
 	'ACP_BOARD_SETTINGS'		=> 'تنظیمات انجمن',
-	'ACP_BOTS'					=> 'روبات/عنکبوت های جستجوگر',
+	'ACP_BOTS'					=> 'روبات/عنکبوت های جست‌وجوگر',
 
 	'ACP_CAPTCHA'				=> 'کپچا',
 
@@ -167,9 +167,9 @@ $lang = array_merge($lang, array(
 	'ACP_FEED'					=> 'مدیریت خوراک',
 	'ACP_FEED_SETTINGS'			=> 'تنظیمات خوراک',
 
-	'ACP_SEARCH'				=> 'پیکربندی جستجو',
-	'ACP_SEARCH_INDEX'			=> 'شاخص های جستجو',
-	'ACP_SEARCH_SETTINGS'		=> 'تنظیمات جستجو',
+	'ACP_SEARCH'				=> 'پیکربندی جست‌وجو',
+	'ACP_SEARCH_INDEX'			=> 'شاخص های جست‌وجو',
+	'ACP_SEARCH_SETTINGS'		=> 'تنظیمات جست‌وجو',
 
 	'ACP_SECURITY_SETTINGS'		=> 'تنظیمات امنیتی',
 	'ACP_SERVER_CONFIGURATION'	=> 'پیکربندی سرور',
@@ -383,7 +383,7 @@ $lang = array_merge($lang, array(
 
 	'GZIP_COMPRESSION'	=> 'GZip فشرده ساز',
 
-	'NO_SEARCH_INDEX'	=> 'سیستم مدیریتی جستجوی انتخاب شده فاقد صفحه اصلی است.<br />لطفا صفحه ای برای “%1$s” در %2$sصفحه جستجو%3$s ایجاد کنید.',
+	'NO_SEARCH_INDEX'	=> 'سیستم مدیریتی جست‌وجوی انتخاب شده فاقد صفحه اصلی است.<br />لطفا صفحه ای برای “%1$s” در %2$sصفحه جست‌وجو%3$s ایجاد کنید.',
 	'NOT_AVAILABLE'		=> 'در دسترس نیست',
 	'NUMBER_FILES'		=> 'تعداد پیوست ',
 	'NUMBER_POSTS'		=> 'تعداد پست ',
@@ -570,7 +570,7 @@ $lang = array_merge($lang, array(
 	'LOG_CONFIG_POST'			=> '<strong>تنظیمات پست تغییر یافتند</strong>',
 	'LOG_CONFIG_REGISTRATION'	=> '<strong>تنظیمات ثبت نام کاربران تغییر یافتند</strong>',
 	'LOG_CONFIG_FEED'			=> '<strong>تنظیمات خوراک تغییر یافتند</strong>',
-	'LOG_CONFIG_SEARCH'			=> '<strong>تنظیمات جستجو تغییر یافتند</strong>',
+	'LOG_CONFIG_SEARCH'			=> '<strong>تنظیمات جست‌وجو تغییر یافتند</strong>',
 	'LOG_CONFIG_SECURITY'		=> '<strong>تنظیمات امنیت تغییر یافتند</strong>',
 	'LOG_CONFIG_SERVER'			=> '<strong>تنظیمات سرور تغییر یافتند</strong>',
 	'LOG_CONFIG_SETTINGS'		=> '<strong>تنظیمات تالار تغییر یافتند</strong>',
@@ -737,8 +737,8 @@ $lang = array_merge($lang, array(
 	'LOG_RESYNC_POST_MARKING'	=> '<strong>موضوعات نقطه گذاری شده بازشماری شد. </strong>',
 	'LOG_RESYNC_STATS'			=> '<strong>آمار کاربران،موضوعات و پست ها بازشماری شدند.</strong>',
 
-	'LOG_SEARCH_INDEX_CREATED'	=> '<strong>شاخص جستجو ایجاد شد</strong><br />» %s',
-	'LOG_SEARCH_INDEX_REMOVED'	=> '<strong>شاخص جستجو حذف شد</strong><br />» %s',
+	'LOG_SEARCH_INDEX_CREATED'	=> '<strong>شاخص جست‌وجو ایجاد شد</strong><br />» %s',
+	'LOG_SEARCH_INDEX_REMOVED'	=> '<strong>شاخص جست‌وجو حذف شد</strong><br />» %s',
 	'LOG_SPHINX_ERROR'			=> '<strong>Sphinx خطا</strong><br />» %s',
 	'LOG_STYLE_ADD'				=> '<strong>قالب جدید اضافه شد</strong><br />» %s',
 	'LOG_STYLE_DELETE'			=> '<strong>قالب حذف شد</strong><br />» %s',
