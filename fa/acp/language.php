@@ -57,7 +57,7 @@ $lang = array_merge($lang, array(
 	'LANGUAGE_PACK_LOCALNAME'			=> 'نام محلی',
 	'LANGUAGE_PACK_NAME'				=> 'نام',
 	'LANGUAGE_PACK_NOT_EXIST'			=> 'بسته زبانی انتخاب شده موجود نیست.',
-	'LANGUAGE_PACK_USED_BY'				=> 'استفاده شده توسط(شامل موتورهای جستجو)',
+	'LANGUAGE_PACK_USED_BY'				=> 'استفاده شده توسط(شامل موتورهای جست‌وجو)',
 	'LANGUAGE_VARIABLE'					=> 'متغیر های زبان',
 	'LANG_AUTHOR'						=> 'نویسنده بسته زبانی',
 	'LANG_ENGLISH_NAME'					=> 'نام انگلیسی',
@@ -77,5 +77,5 @@ $lang = array_merge($lang, array(
 
 	'UNINSTALLED_LANGUAGE_PACKS'	=> 'بسته های زبانی حذف شده',
 	
-	'BROWSE_LANGUAGE_PACKS_DATABASE'	=> 'جستجو بسته های زبانی در پایگاه',
+	'BROWSE_LANGUAGE_PACKS_DATABASE'	=> 'جست‌وجو بسته های زبانی در پایگاه',
 ));

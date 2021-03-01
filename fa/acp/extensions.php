@@ -130,7 +130,7 @@ $lang = array_merge($lang, array(
 	'FORCE_UNSTABLE'					=> 'بررسی همیشگی جهت نسخه های ناپایدار',
 	'EXTENSIONS_VERSION_CHECK_SETTINGS'	=> 'تنظیمات بررسی نسخه',
 
-	'BROWSE_EXTENSIONS_DATABASE'		=> 'جستجو در پایگاه افزونه ها',
+	'BROWSE_EXTENSIONS_DATABASE'		=> 'جست‌وجو در پایگاه افزونه ها',
 	
 	'META_FIELD_NOT_SET'	=> 'بخش متا دیتا %s تنظیم نشده است.',
 	'META_FIELD_INVALID'	=> 'بخش متا %s نامعتبر است.',

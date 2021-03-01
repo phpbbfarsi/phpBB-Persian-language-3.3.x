@@ -84,12 +84,12 @@ $lang = array_merge($lang, [
 	'STYLE_UNINSTALL_DEPENDENT'	=> 'قالب "%s" قابل حذف شدن نیست زیرا دارای فرزند است.',
 	'STYLE_UNINSTALLED'			=> 'قالب "%s" با موفقیت حذف شد.',
 	'STYLE_PHPBB_VERSION'		=> 'نسخه phpBB',
-	'STYLE_USED_BY'				=> 'استفاده توسط جستجوگرها',
+	'STYLE_USED_BY'				=> 'استفاده توسط جست‌وجوگرها',
 	'STYLE_VERSION'				=> 'نسخه قالب',
 
 	'UNINSTALL_DEFAULT'		=> 'نمی توانید قالب پیش فرض را حذف کنید.',
 	'UNINSTALL_PROSILVER'						=> 'نمیتوانید قالب prosilver را حذف کنید.',
 	'UNINSTALL_DEFAULT'							=> 'نمیتوانید قالب پیشفرض را حذف کنید.',
  
-	'BROWSE_STYLES_DATABASE'	=> 'جستجوی قالب در پایگاه',
+	'BROWSE_STYLES_DATABASE'	=> 'جست‌وجوی قالب در پایگاه',
 ]);
