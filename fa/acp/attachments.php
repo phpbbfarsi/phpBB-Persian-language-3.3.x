@@ -118,7 +118,7 @@ $lang = array_merge($lang, array(
 	'IMAGE_STRIP_METADATA_EXPLAIN'	=> 'تعیین متادیتا, مثلا. نام نویسنده, مختصات GPS , و یا جزئیات دوربین. تنظیم فقط درصورتی اعمال می شود که حداکثر ابعاد تصویر به مقداری غیر از 0px توسط 0px روی مقداری تنظیم شود.',
 
 	'MAX_ATTACHMENTS'				=> 'حداکثر تعداد پیوست در هر پست',
-	'MAX_ATTACHMENTS_PM'			=> 'حداکثر تعداد پیوست در هر پیغام خصوصی',
+	'MAX_ATTACHMENTS_PM'			=> 'حداکثر تعداد پیوست در هر پیام خصوصی',
 	'MAX_EXTGROUP_FILESIZE'			=> 'حداکثر حجم فایل',
 	'MAX_IMAGE_SIZE'				=> 'حداکثر ابعاد تصویر',
 	'MAX_IMAGE_SIZE_EXPLAIN'		=> 'حداکثر ابعاد پیوست تصویر.برای غیر فعال کردن کنترل ابعاد، در هر دو فیلد 0 px و 0 px وارد کنید.',
@@ -134,7 +134,7 @@ $lang = array_merge($lang, array(
 	'NOT_ASSIGNED'				=> 'شناسایی نشد',
 	'NO_ATTACHMENTS'			=> 'هیچ پیوستی در این دوره پیدا نشد.',
 	'NO_EXT_GROUP'				=> 'هیچکدام',
-	'NO_EXT_GROUP_ALLOWED_PM'	=> '<a href="%s">مجوز پیشوند گروه</a> برای پیغام های خصوصی وجود ندارد.',
+	'NO_EXT_GROUP_ALLOWED_PM'	=> '<a href="%s">مجوز پیشوند گروه</a> برای پیام های خصوصی وجود ندارد.',
 	'NO_EXT_GROUP_ALLOWED_POST'	=> '<a href="%s">مجوز پیشوند گروه ها</a> برای پست ها وجود ندارد.',
 	'NO_EXT_GROUP_NAME'			=> 'نام گروهی وارد نشده است.',
 	'NO_EXT_GROUP_SPECIFIED'	=> 'هیچ گروه پسوندی انتخاب نشده است.',
@@ -147,7 +147,7 @@ $lang = array_merge($lang, array(
 	'ORDER_ALLOW_DENY'		=> 'اجازه',
 	'ORDER_DENY_ALLOW'		=> 'عدم اجازه',
 
-	'ONLY_ALLOWED_IN_PM'	=> 'فقط در پیغام های خصوصی مورد قبول است.',
+	'ONLY_ALLOWED_IN_PM'	=> 'فقط در پیام های خصوصی مورد قبول است.',
 	'ORDER_ALLOW_DENY'		=> 'پذیرفتن',
 	'ORDER_DENY_ALLOW'		=> 'رد کردن',
 
