@@ -154,7 +154,7 @@ $lang = array_merge($lang, array(
 	'ACP_POST_SETTINGS'			=> 'تنظیمات پست',
 	'ACP_PRUNE_FORUMS'			=> 'هرس کردن انجمن ها',
 	'ACP_PRUNE_USERS'			=> 'هرس کردن کاربران',
-	'ACP_PRUNING'				=> 'هرس كردن',
+	'ACP_PRUNING'				=> 'هرس کردن',
 
 	'ACP_QUICK_ACCESS'			=> 'دسترسی سریع',
 
@@ -208,10 +208,10 @@ $lang = array_merge($lang, array(
 	'ACP_VC_SETTINGS'					=> 'مقابله با هرزنامه ها',
 	'ACP_VC_CAPTCHA_DISPLAY'			=> 'پیش نمایش تصویر CAPTCHA',
 	'ACP_VERSION_CHECK'					=> 'بررسی جهت به روزرسانی',
-	'ACP_VIEW_ADMIN_PERMISSIONS'		=> 'نمایش سطوح دسترسی موسس (مدیر كل)',
+	'ACP_VIEW_ADMIN_PERMISSIONS'		=> 'نمایش سطوح دسترسی موسس (مدیر کل)',
 	'ACP_VIEW_FORUM_MOD_PERMISSIONS'	=> 'نمایش سطوح دسترسی مدیر انجمن',
 	'ACP_VIEW_FORUM_PERMISSIONS'		=> 'نمایش اجازه نامه های انجمن محور',
-	'ACP_VIEW_GLOBAL_MOD_PERMISSIONS'	=> 'نمایش سطوح دسترسی مدیر كل',
+	'ACP_VIEW_GLOBAL_MOD_PERMISSIONS'	=> 'نمایش سطوح دسترسی مدیر کل',
 	'ACP_VIEW_USER_PERMISSIONS'			=> 'نمایش سطوح دسترسی مستقر کاربر',
 
 	'ACP_WORDS'					=> 'سانسور کلمات',
@@ -417,7 +417,7 @@ $lang = array_merge($lang, array(
 	'RESYNC_POSTCOUNTS_SUCCESS'			=> 'بازنشانی پست ها انجام شد.',
 	'RESYNC_POST_MARKING'			=> 'بازنشانی دوباره مباحث علامت گذاری شده.',
 	'RESYNC_POST_MARKING_CONFIRM'	=> 'آیا از بازنشانی مباحث علامت گذاری شده اطمینان دارید؟',
-	'RESYNC_POST_MARKING_EXPLAIN'	=> 'ابتدا علامت گذاری تمام تاپیك ها از بین می رود و سپس تاپیك هایی كه در 6 ماه گذشته در انها هرگونه فعالیتی دیده شده علامت گذاری می شوند.',
+	'RESYNC_POST_MARKING_EXPLAIN'	=> 'ابتدا علامت گذاری تمام تاپیک ها از بین می رود و سپس تاپیک هایی که در 6 ماه گذشته در انها هرگونه فعالیتی دیده شده علامت گذاری می شوند.',
 	'RESYNC_POST_MARKING_SUCCESS'	=> 'بازنشانی مباحث علامت گذاری شده انجام شد',
 	'RESYNC_STATS'					=> 'بازنشانی اطلاعات و آمار',
 	'RESYNC_STATS_CONFIRM'			=> 'آیا از بازنشانی اطلاعات و آمار اطمینان دارید؟',
