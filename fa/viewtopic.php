@@ -40,21 +40,21 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'APPROVE'								=> 'تایید',
+	'APPROVE'							=> 'تایید',
 	'ATTACHMENT'						=> 'پیوست',
 	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'قابلیت پیوست غیرفعال شده است.',
 
 	'BOOKMARK_ADDED'		=> 'موضوع با موفقیت نشانه گذاری شد.',
-	'BOOKMARK_ERR'			=> 'نشانه گذاری  این موضوع با شکست مواجه شد.لطفا مجددا تلاش کنید',
+	'BOOKMARK_ERR'			=> 'نشانه گذاری  این موضوع با شکست مواجه شد. لطفا مجددا تلاش کنید.',
 	'BOOKMARK_REMOVED'		=> 'نشانه گذاری موضوع با موفقیت حذف شد.',
 	'BOOKMARK_TOPIC'		=> 'نشانه گذاری موضوع',
 	'BOOKMARK_TOPIC_REMOVE'	=> 'حذف از نشانه گذاری ها',
 	'BUMPED_BY'				=> 'آخرین بالا اندازی (Bump) توسط %1$s در %2$s.',
-	'BUMP_TOPIC'			=> 'بالا انداختن (Bump کردن) ',
+	'BUMP_TOPIC'			=> 'بالا انداختن (Bump کردن)',
 
 	'DELETE_TOPIC'			=> 'حذف موضوع',
 	'DELETED_INFORMATION'	=> 'حذف شده توسط %1$s در %2$s',
-	'DISAPPROVE'					=> 'تایید نشده',
+	'DISAPPROVE'			=> 'تایید نشده',
 	'DOWNLOAD_NOTICE'		=> 'شما برای مشاهده فایل پیوست شده در این پست، دسترسی ندارید.',
 
 	'EDITED_TIMES_TOTAL'	=> array(
@@ -69,13 +69,13 @@ $lang = array_merge($lang, array(
 	'FULL_EDITOR'			=> 'ارسال پیشرفته و پیش نمایش',
 
 	'LINKAGE_FORBIDDEN'		=> 'شما مجاز به مشاهده، بارگیری یا پیوند از/به این سایت نیستید.',
-	'LOGIN_NOTIFY_TOPIC'	=> 'شما در مورد این موضوع مطلع شده اید، لطفاً برای مشاهده آن وارد شوید..',
+	'LOGIN_NOTIFY_TOPIC'	=> 'شما در مورد این موضوع مطلع شده اید، لطفاً برای مشاهده آن وارد شوید.',
 	'LOGIN_VIEWTOPIC'		=> 'برای مشاهده این موضوع حتما باید عضو شوید و با شناسه کاربری خود وارد شوید.',
 
-	'MAKE_ANNOUNCE'				=> 'تغییر به “اطلاعیه”',
-	'MAKE_GLOBAL'				=> 'تغییر به “اطلاعیه سراسری (درهمه انجمن ها)”',
-	'MAKE_NORMAL'				=> 'تغییر به “موضوع استاندارد”',
-	'MAKE_STICKY'				=> 'تغییر به “سنجاق شده”',
+	'MAKE_ANNOUNCE'				=> 'تغییر به ”اطلاعیه“',
+	'MAKE_GLOBAL'				=> 'تغییر به ”اطلاعیه سراسری“',
+	'MAKE_NORMAL'				=> 'تغییر به ”موضوع استاندارد“',
+	'MAKE_STICKY'				=> 'تغییر به ”سنجاق شده“',
 	'MAX_OPTIONS_SELECT'		=> array(
 		1	=> 'شما می توانید <strong>%d</strong> گزینه را انتخاب نمایید',
 		2	=> 'شما می توانید حداکثر تا <strong>%d</strong> گزینه را انتخاب نمایید',
@@ -89,13 +89,13 @@ $lang = array_merge($lang, array(
 	'NO_UNREAD_POSTS'		=> 'پست ناخوانده دیگری در این انجمن موجود نیست.',
 	'NO_VOTE_OPTION'		=> 'در هنگام ارسال رأی، باید یک گزینه را انتخاب کنید.',
 	'NO_VOTES'				=> 'بدون رأی',
-	'NO_AUTH_PRINT_TOPIC'	=> 'شما اجازه پرینت موضوع را ندارید.',
+	'NO_AUTH_PRINT_TOPIC'	=> 'شما اجازه چاپ موضوع را ندارید.',
 
 	'POLL_ENDED_AT'			=> 'پایان نظرسنجی در %s',
 	'POLL_RUN_TILL'			=> 'مدت زمان نظر سنجی تا %s ادامه خواهد داشت.',
 	'POLL_VOTED_OPTION'		=> 'شما به این گزینه رأی داده اید',
 	'POST_DELETED_RESTORE'	=> 'این پست حذف شده، اما قابل بازگردانی میباشد.',
-	'PRINT_TOPIC'			=> 'نمایش حالت پرینت',
+	'PRINT_TOPIC'			=> 'نمایش حالت چاپ',
 
 	'QUICK_MOD'				=> 'ابزار فوری',
 	'QUICKREPLY'			=> 'پاسخ سریع',
