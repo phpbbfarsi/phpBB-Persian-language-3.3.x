@@ -112,7 +112,7 @@ $lang = array_merge($lang, array(
 	'ACP_GROUPS_POSITION'			=> 'مدیریت محل قرارگیری گروه ها',
 
 	'ACP_HELP_PHPBB'			=> 'کمک پشتیبانی phpBB',
-		
+
 	'ACP_ICONS'					=> 'نماد های مبحث',
 	'ACP_ICONS_SMILIES'			=> 'آیکون های/شکلک های موضوعات',
 	'ACP_INACTIVE_USERS'		=> 'کاربران غیرفعال',
@@ -142,7 +142,7 @@ $lang = array_merge($lang, array(
 	'ACP_MOD_LOGS'				=> 'اعمال مدیرانجمن',
 	'ACP_MOD_ROLES'				=> 'نوع دسترسی مدیر انجمن',
 
-        'ACP_NO_ITEMS'				=> 'هنوز چیزی موجود نیست.',
+	'ACP_NO_ITEMS'				=> 'هنوز چیزی موجود نیست.',
 
 	'ACP_ORPHAN_ATTACHMENTS'	=> 'پیوست های بدون صاحب',
 
@@ -377,6 +377,8 @@ $lang = array_merge($lang, array(
 	'ERROR_MBSTRING_HTTP_INPUT_EXPLAIN'				=> '<var>mbstring.http_input</var> باید به <samp>pass</samp> تنظیم شود. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',
 	'ERROR_MBSTRING_HTTP_OUTPUT'					=> 'HTTP output character conversion به طور نامناسب پیکربندی شده است',	
 	'ERROR_MBSTRING_HTTP_OUTPUT_EXPLAIN'			=> '<var>mbstring.http_output</var>باید به <samp>pass</samp> تنظیم شود. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',
+	'ERROR_DEFAULT_CHARSET'							=> 'Default charset is improperly configured',
+	'ERROR_DEFAULT_CHARSET_EXPLAIN'					=> '<var>default_charset</var> must be set to <samp>UTF-8</samp>. You can check the current value on the <samp>PHP information</samp> page.',
 
 	'FILES_PER_DAY'		=> 'تعداد پیوست در هر روز',
 	'FORUM_STATS'		=> 'آمار تالار',
@@ -393,6 +395,7 @@ $lang = array_merge($lang, array(
 
 	'PHP_VERSION'		=> 'PHP نسخه',
 	'PHP_VERSION_OLD'	=> 'نسخه PHP این سرور (%1$s) دیگر توسط نسخه های بعدی phpBB پشتیبانی نخواهد شد حداقل نسخه مورد نیاز برای آینده PHP ورژن %2$sاست %3$sجزئیات%4$s',
+
 	'POSTS_PER_DAY'		=> 'تعداد پست در هر روز',
 
 	'PURGE_CACHE'			=> 'پاکسازی نهانگاه',
@@ -438,7 +441,7 @@ $lang = array_merge($lang, array(
 	'VALUE'						=> 'مقدار',
 	'VERSIONCHECK_FAIL'			=> 'دریافت آخرین اطلاعات نسخه موفقیت آمیز نبود!',
 	'VERSIONCHECK_FORCE_UPDATE'	=> 'کنترل دوباره ی نسخه',
-    'VERSION_CHECK'				=> 'بررسی نسخه',
+	'VERSION_CHECK'				=> 'بررسی نسخه',
 	'VERSION_CHECK_EXPLAIN'		=> 'بررسی به روز بودن نسخه انجمن',
 	'VERSIONCHECK_INVALID_ENTRY'	=> 'اطلاعات مربوط به آخرین نسخه شامل مطلب پشتیبانی نشده است.',
 	'VERSIONCHECK_INVALID_URL'		=> 'اطلاعات آخرین نسخه شامل آدرس لینک نا معتبر است.',
@@ -591,7 +594,6 @@ $lang = array_merge($lang, array(
 	'LOG_MOVED_TOPIC'			=> '<strong>انتقال موضوع</strong><br />» %s',
 	'LOG_PM_REPORT_CLOSED'		=> '<strong>گزارش پیام خصوصی بسته شد</strong><br />» %s',
 	'LOG_PM_REPORT_DELETED'		=> '<strong>گزارش پیام خصوصی حذف شد</strong><br />» %s',
-
 	'LOG_POST_APPROVED'			=> '<strong>پست تایید شد</strong><br />» %s',
 	'LOG_POST_DISAPPROVED'		=> '<strong>پست تایید نشده “%1$s” نوشته شده توسط “%3$s” به دلیل</strong><br />» %2$s',
 	'LOG_POST_EDITED'			=> '<strong>پست ویرایش شد “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
