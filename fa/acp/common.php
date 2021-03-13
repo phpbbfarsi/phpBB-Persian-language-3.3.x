@@ -584,7 +584,6 @@ $lang = array_merge($lang, array(
 	'LOG_BUMP_TOPIC'			=> '<strong>موضوع کاربر بامپ (bump) شد</strong><br />» %s',
 	'LOG_DELETE_POST'			=> '<strong>حذف پست “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_DELETE_SHADOW_TOPIC'	=> '<strong>موضوع سایه دار حذف شد</strong><br />» %s',
-	'LOG_DELETE_TOPIC'			=> '<strong>موضوع حذف شد</strong><br />» %2$s',
 	'LOG_DELETE_TOPIC'			=> '<strong>موضوع حذف شد “%1$s” توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_FORK'					=> '<strong>موضوع کپی شد</strong><br />» from %s',
 	'LOG_LOCK'					=> '<strong>موضوع قفل شد</strong><br />» %s',
