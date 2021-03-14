@@ -143,10 +143,6 @@ $lang = array_merge($lang, array(
 	'NO_UPLOAD_DIR'				=> 'دایرکتوری upload انتخاب شده موجود نیست',
 	'NO_WRITE_UPLOAD'			=> 'دایرکتوری upload قابل نوشتن نیست،لطفا سطوح دسترسی آن را تغییر دهید تا سرور بتواند بر روی آن بنویسد.',
 
-	'ONLY_ALLOWED_IN_PM'	=> 'فقط در پیام های خصوصی مجاز است.',
-	'ORDER_ALLOW_DENY'		=> 'اجازه',
-	'ORDER_DENY_ALLOW'		=> 'عدم اجازه',
-
 	'ONLY_ALLOWED_IN_PM'	=> 'فقط در پیام های خصوصی مورد قبول است.',
 	'ORDER_ALLOW_DENY'		=> 'پذیرفتن',
 	'ORDER_DENY_ALLOW'		=> 'رد کردن',
