@@ -87,9 +87,8 @@ $lang = array_merge($lang, [
 	'STYLE_USED_BY'				=> 'استفاده توسط جست‌وجوگرها',
 	'STYLE_VERSION'				=> 'نسخه قالب',
 
-	'UNINSTALL_DEFAULT'		=> 'نمی توانید قالب پیش فرض را حذف کنید.',
-	'UNINSTALL_PROSILVER'						=> 'نمیتوانید قالب prosilver را حذف کنید.',
-	'UNINSTALL_DEFAULT'							=> 'نمیتوانید قالب پیشفرض را حذف کنید.',
+	'UNINSTALL_PROSILVER'		=> 'نمیتوانید قالب prosilver را حذف کنید.',
+	'UNINSTALL_DEFAULT'			=> 'نمیتوانید قالب پیشفرض را حذف کنید.',
  
 	'BROWSE_STYLES_DATABASE'	=> 'جست‌وجوی قالب در پایگاه',
 ]);
