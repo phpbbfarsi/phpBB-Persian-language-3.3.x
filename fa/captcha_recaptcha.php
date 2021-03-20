@@ -50,6 +50,7 @@ $lang = array_merge($lang, [
 	'RECAPTCHA_NOSCRIPT'			=> 'لطفا جاوا اسکریپت مرورگر خود را فعال کنید.',
 	'RECAPTCHA_NOT_AVAILABLE'		=> 'برای استفاده از کد ریکپچا, باید یک اکانت در سایت گوگل ایجاد کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
 	'RECAPTCHA_INVISIBLE'			=> 'این کپچا در واقع مخفی خواهد بود. برای تأیید صحت عملکرد آن ، باید یک نماد کوچک در گوشه سمت راست پایین این صفحه ظاهر شود.',
+	'RECAPTCHA_V3_LOGIN_ERROR_ATTEMPTS'	=> 'You have exceeded the maximum number of login attempts allowed.<br>In addition to your username and password the invisible reCAPTCHA v3 will be used to authenticate your session.',
 
 	'RECAPTCHA_PUBLIC'				=> 'کلید سایت',
 	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'کلید ریکپچا سایت شما. کلید را میتوانید از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا, از ریکپچا ورژن۲ استفاده کنید که از نوع مخفی است.',
