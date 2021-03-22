@@ -1,8 +1,8 @@
-Subject: پست تایید نشد - "{POST_SUBJECT}"
+Subject: پست تأیید نشد - "{POST_SUBJECT}"
 
 سلام {USERNAME}،
 
-پست "{POST_SUBJECT}" در سایت "{SITENAME}" توسط مدیر انجمن و یا مدیر تایید نشده است.
+پست "{POST_SUBJECT}" در سایت "{SITENAME}" توسط مدیر انجمن و یا مدیر تأیید نشده است.
 
 دلیل تأیید نشدن پست :
 

@@ -1,8 +1,8 @@
-Subject: موضوع نیاز به تایید - "{TOPIC_TITLE}"
+Subject: موضوع نیاز به تأیید - "{TOPIC_TITLE}"
 
 سلام {USERNAME}،
 
-موضوع "{TOPIC_TITLE}" در سایت "{SITENAME}" نیاز به تایید دارد.
+موضوع "{TOPIC_TITLE}" در سایت "{SITENAME}" نیاز به تأیید دارد.
 
 برای مشاهده موضوع بر روی لینک زیر کلیک کنید:
 {U_VIEW_TOPIC}
