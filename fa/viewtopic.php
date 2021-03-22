@@ -40,7 +40,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'APPROVE'							=> 'تایید',
+	'APPROVE'							=> 'تأیید',
 	'ATTACHMENT'						=> 'پیوست',
 	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'قابلیت پیوست غیرفعال شده است.',
 
@@ -54,7 +54,7 @@ $lang = array_merge($lang, array(
 
 	'DELETE_TOPIC'			=> 'حذف موضوع',
 	'DELETED_INFORMATION'	=> 'حذف شده توسط %1$s در %2$s',
-	'DISAPPROVE'			=> 'تایید نشده',
+	'DISAPPROVE'			=> 'تأیید نشده',
 	'DOWNLOAD_NOTICE'		=> 'شما برای مشاهده فایل پیوست شده در این پست، دسترسی ندارید.',
 
 	'EDITED_TIMES_TOTAL'	=> array(

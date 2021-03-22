@@ -151,7 +151,7 @@ $lang = array_merge($lang, array(
 	'TEAMPAGE_SETTINGS'			=> 'تنظیمات لیست مدیران',
 	'TOTAL_MEMBERS'				=> 'اعضا',
 
-	'USERS_APPROVED'				=> 'اعضا با موفقیت تایید شدند',
+	'USERS_APPROVED'				=> 'اعضا با موفقیت تأیید شدند',
 	'USER_DEFAULT'					=> 'پیشفرض کاربر',
 	'USER_DEF_GROUPS'				=> 'گروه های ساخته شده جدید',
 	'USER_DEF_GROUPS_EXPLAIN'		=> 'این ها گروه هایی هستند که توسط شما و یا سایر مدیران ایجاد شده اند.می توانید آن ها را ویرایش کنید و یا حتی حذف کنید.',

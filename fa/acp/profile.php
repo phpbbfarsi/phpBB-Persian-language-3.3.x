@@ -109,7 +109,7 @@ $lang = array_merge($lang, array(
 	'FIELD_TYPE'				=> 'نوع فیلد',
 	'FIELD_TYPE_EXPLAIN'		=> 'نمیتوانید بعدا نوع فیلد را تغییر دهید.',
 	'FIELD_URL'					=> 'لینک',
-	'FIELD_VALIDATION'			=> 'تایید فیلد',
+	'FIELD_VALIDATION'			=> 'تأیید فیلد',
 	'FIRST_OPTION'				=> 'اولین گزینه',
 
 	'HIDE_PROFILE_FIELD'			=> 'مخفی کردن فیلد پروفایل',
