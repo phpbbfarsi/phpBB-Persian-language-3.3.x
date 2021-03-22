@@ -51,7 +51,7 @@ $lang = array_merge($lang, array(
 	'BAN_LENGTH'			=> 'تاریخ انقضای تحریم شدگان',
 	'BAN_REASON'			=> 'دلیل تحریم',
 	'BAN_GIVE_REASON'		=> 'دلیل نمایش داده شده به کاربر تحریم شده',
-	'BAN_UPDATE_SUCCESSFUL'	=> 'لیست تحریم با موفقیت بروزرسانی شد.',
+	'BAN_UPDATE_SUCCESSFUL'	=> 'لیست تحریم با موفقیت به‌روز رسانی شد.',
 	'BANNED_UNTIL_DATE'		=> 'تا %s', // برای مثال : "until Mon 13.Jul.2009, 14:44"
 	'BANNED_UNTIL_DURATION'	=> '%1$s (تا %2$s)', // Example: "7 days (until Tue 14.Jul.2009, 14:44)"
 

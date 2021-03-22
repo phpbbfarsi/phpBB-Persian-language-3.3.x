@@ -233,7 +233,7 @@ $lang = array_merge($lang, array(
 	'EXCEPTION' => 'استثنا',
 
 	'COLOUR_SWATCH'			=> ' تغییر رنگ Web-safe swatch',
-	'CONFIG_UPDATED'		=> 'پیکربندی با موفقیت بروزرسانی شد.',
+	'CONFIG_UPDATED'		=> 'پیکربندی با موفقیت به‌روز رسانی شد.',
 	'CRON_LOCK_ERROR'		=> 'سیستم cron قابل بسته شدن نیست.',
 	'CRON_NO_SUCH_TASK'		=> 'وظیفه “%s” در سیستم cron یافت نشد.',
 	'CRON_NO_TASK'			=> 'هیچ سیستم وظیفه گر cron در قابل اجرا شدن نیست.',
@@ -530,7 +530,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_ATTACH_EXT_ADD'		=> '<strong>پسوندها پیوست ویرایش و یا حذف شدند</strong><br />» %s',
 	'LOG_ATTACH_EXT_DEL'		=> '<strong>پسوندها پیوست حذف شدند</strong><br />» %s',
-	'LOG_ATTACH_EXT_UPDATE'		=> '<strong>پسوندها پیوست بروزرسانی شدند</strong><br />» %s',
+	'LOG_ATTACH_EXT_UPDATE'		=> '<strong>پسوندها پیوست به‌روز رسانی شدند</strong><br />» %s',
 	'LOG_ATTACH_EXTGROUP_ADD'	=> '<strong>گروه پسوندها اضافه شدند</strong><br />» %s',
 	'LOG_ATTACH_EXTGROUP_EDIT'	=> '<strong>گروه پسوندها ویرایش شدند</strong><br />» %s',
 	'LOG_ATTACH_EXTGROUP_DEL'	=> '<strong>گروه پسوندها حذف شدند</strong><br />» %s',
@@ -554,7 +554,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_BOT_ADDED'		=> '<strong>روبات جدیدی اضافه شد</strong><br />» %s',
 	'LOG_BOT_DELETE'	=> '<strong>روبات حذف شد</strong><br />» %s',
-	'LOG_BOT_UPDATED'	=> '<strong>روبات کنونی بروزرسانی شد</strong><br />» %s',
+	'LOG_BOT_UPDATED'	=> '<strong>روبات کنونی به‌روز رسانی شد</strong><br />» %s',
 
 	'LOG_CLEAR_ADMIN'		=> '<strong>رویدادهای مدیریت پاک شدند</strong>',
 	'LOG_CLEAR_CRITICAL'	=> '<strong>رویدادهای خطاها پاک شدند</strong>',
@@ -652,7 +652,7 @@ $lang = array_merge($lang, array(
 	'LOG_GROUP_DEMOTED'		=> '<strong>رتبه رهبران گروه کاربری در</strong> %1$s تنزیل شد<br />» %2$s',
 	'LOG_GROUP_PROMOTED'	=> '<strong>رتبه کاربران  گروه کاربری در </strong> %1$s ارتقاء یافت<br />» %2$s',
 	'LOG_GROUP_REMOVE'		=> '<strong>اعضا از گروه کاربری</strong> %1$s حذف شدند<br />» %2$s',
-	'LOG_GROUP_UPDATED'		=> '<strong>جزئیات گروه کاربری بروزرسانی شد</strong><br />» %s',
+	'LOG_GROUP_UPDATED'		=> '<strong>جزئیات گروه کاربری به‌روز رسانی شد</strong><br />» %s',
 	'LOG_MODS_ADDED'		=> '<strong>رهبران جدید به گروه کاربری </strong> %1$s اضافه شدند<br />» %2$s',
 	'LOG_USERS_ADDED'		=> '<strong>اعضای جدید به گروه کاربری</strong> %1$s اضافه شدند<br />» %2$s',
 	'LOG_USERS_APPROVED'	=> '<strong>اعضا در گروه کاربری</strong> %1$s تایید شدند<br />» %2$s',
@@ -675,7 +675,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_LANGUAGE_PACK_DELETED'		=> '<strong>بسته زبانی حذف شد</strong><br />» %s',
 	'LOG_LANGUAGE_PACK_INSTALLED'	=> '<strong>بسته زبانی نصب شد</strong><br />» %s',
-	'LOG_LANGUAGE_PACK_UPDATED'		=> '<strong>جزئیات بسته زبانی بروزرسانی شد</strong><br />» %s',
+	'LOG_LANGUAGE_PACK_UPDATED'		=> '<strong>جزئیات بسته زبانی به‌روز رسانی شد</strong><br />» %s',
 	'LOG_LANGUAGE_FILE_REPLACED'	=> '<strong>فایل های زبان جایگزین شدند</strong><br />» %s',
 	'LOG_LANGUAGE_FILE_SUBMITTED'	=> '<strong>فایل زبان ارسال و در پوشه مورد نظر ذخیره شد</strong><br />» %s',
 
@@ -724,11 +724,11 @@ $lang = array_merge($lang, array(
 
 	'LOG_RANK_ADDED'		=> '<strong>رتبه جدیدی اضافه شد</strong><br />» %s',
 	'LOG_RANK_REMOVED'		=> '<strong>رتبه حذف شد</strong><br />» %s',
-	'LOG_RANK_UPDATED'		=> '<strong>رتبه بروزرسانی شد</strong><br />» %s',
+	'LOG_RANK_UPDATED'		=> '<strong>رتبه به‌روز رسانی شد</strong><br />» %s',
 
 	'LOG_REASON_ADDED'		=> '<strong>گزارش/دلیل تحریم اضافه شد</strong><br />» %s',
 	'LOG_REASON_REMOVED'	=> '<strong>گزارش/دلیل تحریم حذف شد</strong><br />» %s',
-	'LOG_REASON_UPDATED'	=> '<strong>گزارش/دلیل تحریم بروزرسانی</strong><br />» %s',
+	'LOG_REASON_UPDATED'	=> '<strong>گزارش/دلیل تحریم به‌روز رسانی</strong><br />» %s',
 
 	'LOG_REFERER_INVALID'		=> '<strong>تایید رجوع کننده موفقیت آمیز نبود</strong><br />»رجوع کننده “<em>%1$s</em>” بود که درخواست آن رد شده و نشست بسته شد',
 	'LOG_RESET_DATE'			=> '<strong>تاریخ شروع فعالیت تالار بازشماری شد</strong>',
@@ -756,7 +756,7 @@ $lang = array_merge($lang, array(
 	'LOG_TEMPLATE_EDIT_DETAILS'		=> '<strong>جزئیات قالب ویرایش شد</strong><br />» %s',
 	'LOG_TEMPLATE_EXPORT'			=> '<strong>مجموعه قالب به بیرون برده شد</strong><br />» %s',
 	// @deprecated 3.1
-	'LOG_TEMPLATE_REFRESHED'		=> '<strong>مجموعه قالب بروزرسانی شد</strong><br />» %s',
+	'LOG_TEMPLATE_REFRESHED'		=> '<strong>مجموعه قالب به‌روز رسانی شد</strong><br />» %s',
 
 	// @deprecated 3.1
 	'LOG_THEME_ADD_DB'			=> '<strong>تم جدیدی به پایگاه داده اضافه شد</strong><br />» %s',
@@ -768,10 +768,10 @@ $lang = array_merge($lang, array(
 	'LOG_THEME_EDIT_FILE'		=> '<strong>تم <em>%1$s</em> ویرایش شد </strong><br />» فایل <em>%2$s</em> تغییر یافت ',
 	'LOG_THEME_EXPORT'			=> '<strong>تم به بیرون برده شد</strong><br />» %s',
 	// @deprecated 3.1
-	'LOG_THEME_REFRESHED'		=> '<strong>تم بروزرسانی شد</strong><br />» %s',
+	'LOG_THEME_REFRESHED'		=> '<strong>تم به‌روز رسانی شد</strong><br />» %s',
 
-	'LOG_UPDATE_DATABASE'	=> '<strong>پایگاه داده از نسخه %1$s به نسخه %2$s بروزرسانی شد</strong>',
-	'LOG_UPDATE_PHPBB'		=> '<strong>phpBB از نسخه %1$s به نسخه %2$s بروزرسانی شد.</strong>',
+	'LOG_UPDATE_DATABASE'	=> '<strong>پایگاه داده از نسخه %1$s به نسخه %2$s به‌روز رسانی شد</strong>',
+	'LOG_UPDATE_PHPBB'		=> '<strong>phpBB از نسخه %1$s به نسخه %2$s به‌روز رسانی شد.</strong>',
 
 	'LOG_USER_ACTIVE'		=> '<strong>کاربر فعال شد</strong><br />» %s',
 	'LOG_USER_BAN_USER'		=> '<strong>کاربر توسط مدیریت اعضا</strong> به دلیل “<em>%1$s</em>” تحریم شد <br />» %2$s',
@@ -791,7 +791,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_USER_UPDATE_EMAIL'	=> '<strong>ایمیل کاربر “%1$s” </strong><br />» از “%2$s” به “%3$s” تغییر یافت',
 	'LOG_USER_UPDATE_NAME'	=> '<strong>نام کاربری</strong><br />» از “%1$s” به “%2$s” تغییر یافت',
-	'LOG_USER_USER_UPDATE'	=> '<strong>جزئیات کاربر بروزرسانی شد</strong><br />» %s',
+	'LOG_USER_USER_UPDATE'	=> '<strong>جزئیات کاربر به‌روز رسانی شد</strong><br />» %s',
 
 	'LOG_USER_ACTIVE_USER'		=> '<strong>اکانت کاربر فعال شد</strong>',
 	'LOG_USER_DEL_AVATAR_USER'	=> '<strong>نمایه کاربر حذف شد</strong>',
