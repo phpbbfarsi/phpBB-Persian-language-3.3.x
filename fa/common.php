@@ -914,7 +914,7 @@ $lang = array_merge($lang, array(
 	'WEBSITE'			=> 'وب سایت',
 	'WHOIS'				=> 'چه کسی؟',
 	'WHO_IS_ONLINE'		=> 'چه کسی حاضر است؟',
-	'WRONG_PASSWORD'	=> 'پسورد نادرستی وارد کردید.',
+	'WRONG_PASSWORD'	=> 'گذرواژه نادرستی وارد کردید.',
 
 	'WRONG_DATA_COLOUR'			=> 'مقدار رنگ وارد شده نامعتبر است.',
 	'WRONG_DATA_JABBER'			=> 'نام وارد شده اکانت Jabber نامعتبر است.',
