@@ -286,7 +286,7 @@ $lang = array_merge($lang, array(
 	'NO_ADMIN'				=> 'اجازه مدیریت این تالار را ندارید',
 	'NO_EMAILS_DEFINED'		=> 'آدرس ایمیل معتبری یافت نشد.',
 	'NO_FILES_TO_DELETE'	=> 'فایل های پیوست انتخابی جهت حذف وجود ندارند.',
-	'NO_PASSWORD_SUPPLIED'	=> 'برای دسترسی به کنترل پنل مدیریت، باید کلمه عبور خود را وارد کنید.',
+	'NO_PASSWORD_SUPPLIED'	=> 'برای دسترسی به کنترل پنل مدیریت، باید گذرواژه خود را وارد کنید.',
 
 	'OFF'					=> 'Off',
 	'ON'					=> 'On',
@@ -669,7 +669,7 @@ $lang = array_merge($lang, array(
 	'LOG_IP_BROWSER_FORWARDED_CHECK'	=> '<strong>کنترل نشست IP،مرورگر و X_FORWARDED_FOR شکست خورد</strong><br />»IP کاربر “<em>%1$s</em>” در IP نشست “<em>%2$s</em>” کنترل شد , حلقه مرورگر کاربر “<em>%3$s</em>” در نشست حلقه مرورگر “<em>%4$s</em>” کنترل شد و X_FORWARDED_FOR string کاربر “<em>%5$s</em>” در حلقه نشست X_FORWARDED_FOR “<em>%6$s</em>” کنترل شد.',
 
 	'LOG_JAB_CHANGED'			=> '<strong>اکانت Jabeer تغییر یافت</strong>',
-	'LOG_JAB_PASSCHG'			=> '<strong>کلمه عبور Jabber تغییر یافت</strong>',
+	'LOG_JAB_PASSCHG'			=> '<strong>گذرواژه Jabber تغییر یافت</strong>',
 	'LOG_JAB_REGISTER'			=> '<strong>اکانت Jabber ثبت نام شد</strong>',
 	'LOG_JAB_SETTINGS_CHANGED'	=> '<strong>تنظیمات Jabber تغییر یافت</strong>',
 
@@ -785,7 +785,7 @@ $lang = array_merge($lang, array(
 	'LOG_USER_DEL_SIG'		=> '<strong>امضای کاربر حذف شد</strong><br />» %s',
 	'LOG_USER_INACTIVE'		=> '<strong>کاربر غیرفعال شد</strong><br />» %s',
 	'LOG_USER_MOVE_POSTS'	=> '<strong>پست های کاربر منتقل شدند</strong><br />» پست های متعلق به “%1$s” به انجمن “%2$s” منتقل شدند',
-	'LOG_USER_NEW_PASSWORD'	=> '<strong>کلمه عبور کاربر تغییر یافت</strong><br />» %s',
+	'LOG_USER_NEW_PASSWORD'	=> '<strong>گذرواژه کاربر تغییر یافت</strong><br />» %s',
 	'LOG_USER_REACTIVATE'	=> '<strong>اکنون کاربر مجبور به فعال سازی دوباره اکانت خود می باشد</strong><br />» %s',
 	'LOG_USER_REMOVED_NR'	=> '<strong>بیان کاربر جدید از کاربر حذف شد</strong><br />» %s',
 
