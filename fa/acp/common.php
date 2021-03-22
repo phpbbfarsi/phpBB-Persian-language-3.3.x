@@ -186,7 +186,7 @@ $lang = array_merge($lang, array(
 	'ACP_TEMPLATES'				=> 'قالب ها (Templates)',
 	'ACP_THEMES'				=> 'تم ها (Themes)',
 
-	'ACP_UPDATE'					=> 'درحال به روز رسانی',
+	'ACP_UPDATE'					=> 'درحال به‌روز رسانی',
 	'ACP_USERS_FORUM_PERMISSIONS'	=> 'سطوح دسترسی کاربر در انجمن',
 	'ACP_USERS_LOGS'				=> 'گزارش های کاربران',
 	'ACP_USERS_PERMISSIONS'			=> 'سطوح دسترسی کاربر',

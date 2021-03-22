@@ -47,7 +47,7 @@ $lang = array_merge($lang, array(
 
 	'INSTALLED_LANGUAGE_PACKS'		=> 'پکیج زبان نصب شد.',
 
-	'LANGUAGE_DETAILS_UPDATED'			=> 'جزئیات زبان با موفقیت به روز رسانی شد.',
+	'LANGUAGE_DETAILS_UPDATED'			=> 'جزئیات زبان با موفقیت به‌روز رسانی شد.',
 	'LANGUAGE_PACK_ALREADY_INSTALLED'	=> 'پکیج زبانی قبلا نصب شده بود.',
 	'LANGUAGE_PACK_DELETED'				=> 'بسته زبانی <strong>%s</strong> با موفقیت حذف شد. زبان کاربرانی که از این بسته زبانی استفاده می کرند به زبان پیشفرض تالار تغییر یافت.',
 	'LANGUAGE_PACK_DETAILS'				=> 'جزئیات بسته زبانی',

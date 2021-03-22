@@ -381,7 +381,7 @@ $lang = array_merge($lang, array(
 	'CONTACT_US_INFO'				=> 'اطلاعات تماس',
 	'CONTACT_US_INFO_EXPLAIN'		=> 'این متن در صفحه تماس با ما نمایش داده خواهد شد.',
 	'CONTACT_US_INFO_PREVIEW'		=> 'اطلاعات و پیش نمایش صفحه تماس با ما',
-	'CONTACT_US_INFO_UPDATED'		=> 'اطلاعات صفحه تماس با ما به روز رسانی شد.',
+	'CONTACT_US_INFO_UPDATED'		=> 'اطلاعات صفحه تماس با ما به‌روز رسانی شد.',
 ));
 
 // Load Settings
