@@ -46,7 +46,7 @@ $lang = array_merge($lang, array(
 	'ACP_ADMIN_ROLES'			=> 'نقش های مدیریت',
 	'ACP_ATTACHMENTS'			=> 'پیوست ها',
 	'ACP_ATTACHMENT_SETTINGS'	=> 'تنظیمات پیوست',
-	'ACP_AUTH_SETTINGS'			=> 'تایید',
+	'ACP_AUTH_SETTINGS'			=> 'تأیید',
 	'ACP_AUTOMATION'			=> 'تنظیم خودکار',
 	'ACP_AVATAR_SETTINGS'		=> 'تنظیمات نمایه ( آواتار )',
 
@@ -186,7 +186,7 @@ $lang = array_merge($lang, array(
 	'ACP_TEMPLATES'				=> 'قالب ها (Templates)',
 	'ACP_THEMES'				=> 'تم ها (Themes)',
 
-	'ACP_UPDATE'					=> 'درحال به روز رسانی',
+	'ACP_UPDATE'					=> 'درحال به‌روز رسانی',
 	'ACP_USERS_FORUM_PERMISSIONS'	=> 'سطوح دسترسی کاربر در انجمن',
 	'ACP_USERS_LOGS'				=> 'گزارش های کاربران',
 	'ACP_USERS_PERMISSIONS'			=> 'سطوح دسترسی کاربر',
@@ -233,7 +233,7 @@ $lang = array_merge($lang, array(
 	'EXCEPTION' => 'استثنا',
 
 	'COLOUR_SWATCH'			=> ' تغییر رنگ Web-safe swatch',
-	'CONFIG_UPDATED'		=> 'پیکربندی با موفقیت بروزرسانی شد.',
+	'CONFIG_UPDATED'		=> 'پیکربندی با موفقیت به‌روز رسانی شد.',
 	'CRON_LOCK_ERROR'		=> 'سیستم cron قابل بسته شدن نیست.',
 	'CRON_NO_SUCH_TASK'		=> 'وظیفه “%s” در سیستم cron یافت نشد.',
 	'CRON_NO_TASK'			=> 'هیچ سیستم وظیفه گر cron در قابل اجرا شدن نیست.',
@@ -269,9 +269,9 @@ $lang = array_merge($lang, array(
 	'LOAD_NOTIFICATIONS'			=> 'نمایش یاد آوری ها',
 	'LOAD_NOTIFICATIONS_EXPLAIN'	=> 'نمایش "یادآوری ها" در همه صفحات ( بالای صفحه )',
 	'LOGGED_IN_AS'			=> 'وارد شده با نام :',
-	'LOGIN_ADMIN'			=> 'برای مدیریت تالار، باید کاربر تایید شده ای باشید.',
-	'LOGIN_ADMIN_CONFIRM'	=> 'برای مدیریت تالار باید مجددا خودتان را تایید کنید',
-	'LOGIN_ADMIN_SUCCESS'	=> 'با موفقیت تایید شدید و هم اکنون به کنترل پنل مدیریت انتقال داده می شوید.',
+	'LOGIN_ADMIN'			=> 'برای مدیریت تالار، باید کاربر تأیید شده ای باشید.',
+	'LOGIN_ADMIN_CONFIRM'	=> 'برای مدیریت تالار باید مجددا خودتان را تأیید کنید',
+	'LOGIN_ADMIN_SUCCESS'	=> 'با موفقیت تأیید شدید و هم اکنون به کنترل پنل مدیریت انتقال داده می شوید.',
 	'LOOK_UP_FORUM'			=> 'انجمنی را انتخاب کنید',
 	'LOOK_UP_FORUMS_EXPLAIN'=> 'می توانید بیش از یک انجمن را انتخاب کنید.',
 
@@ -286,7 +286,7 @@ $lang = array_merge($lang, array(
 	'NO_ADMIN'				=> 'اجازه مدیریت این تالار را ندارید',
 	'NO_EMAILS_DEFINED'		=> 'آدرس ایمیل معتبری یافت نشد.',
 	'NO_FILES_TO_DELETE'	=> 'فایل های پیوست انتخابی جهت حذف وجود ندارند.',
-	'NO_PASSWORD_SUPPLIED'	=> 'برای دسترسی به کنترل پنل مدیریت، باید کلمه عبور خود را وارد کنید.',
+	'NO_PASSWORD_SUPPLIED'	=> 'برای دسترسی به کنترل پنل مدیریت، باید گذرواژه خود را وارد کنید.',
 
 	'OFF'					=> 'Off',
 	'ON'					=> 'On',
@@ -530,7 +530,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_ATTACH_EXT_ADD'		=> '<strong>پسوندها پیوست ویرایش و یا حذف شدند</strong><br />» %s',
 	'LOG_ATTACH_EXT_DEL'		=> '<strong>پسوندها پیوست حذف شدند</strong><br />» %s',
-	'LOG_ATTACH_EXT_UPDATE'		=> '<strong>پسوندها پیوست بروزرسانی شدند</strong><br />» %s',
+	'LOG_ATTACH_EXT_UPDATE'		=> '<strong>پسوندها پیوست به‌روز رسانی شدند</strong><br />» %s',
 	'LOG_ATTACH_EXTGROUP_ADD'	=> '<strong>گروه پسوندها اضافه شدند</strong><br />» %s',
 	'LOG_ATTACH_EXTGROUP_EDIT'	=> '<strong>گروه پسوندها ویرایش شدند</strong><br />» %s',
 	'LOG_ATTACH_EXTGROUP_DEL'	=> '<strong>گروه پسوندها حذف شدند</strong><br />» %s',
@@ -554,7 +554,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_BOT_ADDED'		=> '<strong>روبات جدیدی اضافه شد</strong><br />» %s',
 	'LOG_BOT_DELETE'	=> '<strong>روبات حذف شد</strong><br />» %s',
-	'LOG_BOT_UPDATED'	=> '<strong>روبات کنونی بروزرسانی شد</strong><br />» %s',
+	'LOG_BOT_UPDATED'	=> '<strong>روبات کنونی به‌روز رسانی شد</strong><br />» %s',
 
 	'LOG_CLEAR_ADMIN'		=> '<strong>رویدادهای مدیریت پاک شدند</strong>',
 	'LOG_CLEAR_CRITICAL'	=> '<strong>رویدادهای خطاها پاک شدند</strong>',
@@ -563,7 +563,7 @@ $lang = array_merge($lang, array(
 	'LOG_CLEAR_USERS'		=> '<strong>رویدادهای کاربران پاک شدند</strong>',
 
 	'LOG_CONFIG_ATTACH'			=> '<strong>تنظیمات پیوست تغییر یافتند</strong>',
-	'LOG_CONFIG_AUTH'			=> '<strong>تنظیمات تایید تغییر یافتند</strong>',
+	'LOG_CONFIG_AUTH'			=> '<strong>تنظیمات تأیید تغییر یافتند</strong>',
 	'LOG_CONFIG_AVATAR'			=> '<strong>تنظیمات آواتار تغییر یافتند</strong>',
 	'LOG_CONFIG_COOKIE'			=> '<strong>تنظیمات کوکی تغییر یافتند</strong>',
 	'LOG_CONFIG_EMAIL'			=> '<strong>تنظیمات ایمیل تغییر یافتند</strong>',
@@ -578,9 +578,9 @@ $lang = array_merge($lang, array(
 	'LOG_CONFIG_SERVER'			=> '<strong>تنظیمات سرور تغییر یافتند</strong>',
 	'LOG_CONFIG_SETTINGS'		=> '<strong>تنظیمات تالار تغییر یافتند</strong>',
 	'LOG_CONFIG_SIGNATURE'		=> '<strong>تنظیمات امضا تغییر یافتند</strong>',
-	'LOG_CONFIG_VISUAL'			=> '<strong>تنظیمات کد تایید تغییر یافتند</strong>',
+	'LOG_CONFIG_VISUAL'			=> '<strong>تنظیمات کد تأیید تغییر یافتند</strong>',
 
-	'LOG_APPROVE_TOPIC'			=> '<strong>موضوع تایید شد</strong><br />» %s',
+	'LOG_APPROVE_TOPIC'			=> '<strong>موضوع تأیید شد</strong><br />» %s',
 	'LOG_BUMP_TOPIC'			=> '<strong>موضوع کاربر بامپ (bump) شد</strong><br />» %s',
 	'LOG_DELETE_POST'			=> '<strong>حذف پست “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_DELETE_SHADOW_TOPIC'	=> '<strong>موضوع سایه دار حذف شد</strong><br />» %s',
@@ -593,8 +593,8 @@ $lang = array_merge($lang, array(
 	'LOG_MOVED_TOPIC'			=> '<strong>انتقال موضوع</strong><br />» %s',
 	'LOG_PM_REPORT_CLOSED'		=> '<strong>گزارش پیام خصوصی بسته شد</strong><br />» %s',
 	'LOG_PM_REPORT_DELETED'		=> '<strong>گزارش پیام خصوصی حذف شد</strong><br />» %s',
-	'LOG_POST_APPROVED'			=> '<strong>پست تایید شد</strong><br />» %s',
-	'LOG_POST_DISAPPROVED'		=> '<strong>پست تایید نشده “%1$s” نوشته شده توسط “%3$s” به دلیل</strong><br />» %2$s',
+	'LOG_POST_APPROVED'			=> '<strong>پست تأیید شد</strong><br />» %s',
+	'LOG_POST_DISAPPROVED'		=> '<strong>پست تأیید نشده “%1$s” نوشته شده توسط “%3$s” به دلیل</strong><br />» %2$s',
 	'LOG_POST_EDITED'			=> '<strong>پست ویرایش شد “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_POST_RESTORED'			=> '<strong>پست بازیابی شد</strong><br />» %s',
 	'LOG_REPORT_CLOSED'			=> '<strong>گزارش بسته شد</strong><br />» %s',
@@ -605,9 +605,9 @@ $lang = array_merge($lang, array(
 	'LOG_SPLIT_DESTINATION'		=> '<strong>پست های دوبخشی منقل شدند</strong><br />» به %s',
 	'LOG_SPLIT_SOURCE'			=> '<strong>پست های دوبخشی</strong><br />» از %s',
 
-	'LOG_TOPIC_APPROVED'		=> '<strong>موضوع تایید شد</strong><br />» %s',
+	'LOG_TOPIC_APPROVED'		=> '<strong>موضوع تأیید شد</strong><br />» %s',
 	'LOG_TOPIC_RESTORED'		=> '<strong>موضوع بازیابی شد</strong><br />» %s',
-	'LOG_TOPIC_DISAPPROVED'		=> '<strong>موضوع تایید نشد “%1$s” نوشته شده توسط “%3$s” به دلیل</strong><br />» %2$s',
+	'LOG_TOPIC_DISAPPROVED'		=> '<strong>موضوع تأیید نشد “%1$s” نوشته شده توسط “%3$s” به دلیل</strong><br />» %2$s',
 	'LOG_TOPIC_RESYNC'			=> '<strong>انطباق (resync) شمارنده موضوع</strong><br />» %s',
 	'LOG_TOPIC_TYPE_CHANGED'	=> '<strong>نوع موضوع تغییر یافت</strong><br />» %s',
 	'LOG_UNLOCK'				=> '<strong>قفل موضوع باز شد</strong><br />» %s',
@@ -647,16 +647,16 @@ $lang = array_merge($lang, array(
 	'LOG_GENERAL_ERROR'	=> '<strong>خطایی عمومی رخ داد</strong>: %1$s <br />» %2$s',
 
 	'LOG_GROUP_CREATED'		=> '<strong>گروه کاربری جدیدی ایجاد شد</strong><br />» %s',
-	'LOG_GROUP_DEFAULTS'	=> '<strong>گروه “%1$s” به عنوان گروه پیشفرض برای کاربران تایید شد</strong><br />» %2$s',
+	'LOG_GROUP_DEFAULTS'	=> '<strong>گروه “%1$s” به عنوان گروه پیشفرض برای کاربران تأیید شد</strong><br />» %2$s',
 	'LOG_GROUP_DELETE'		=> '<strong>گروه کاربری حدف شد</strong><br />» %s',
 	'LOG_GROUP_DEMOTED'		=> '<strong>رتبه رهبران گروه کاربری در</strong> %1$s تنزیل شد<br />» %2$s',
 	'LOG_GROUP_PROMOTED'	=> '<strong>رتبه کاربران  گروه کاربری در </strong> %1$s ارتقاء یافت<br />» %2$s',
 	'LOG_GROUP_REMOVE'		=> '<strong>اعضا از گروه کاربری</strong> %1$s حذف شدند<br />» %2$s',
-	'LOG_GROUP_UPDATED'		=> '<strong>جزئیات گروه کاربری بروزرسانی شد</strong><br />» %s',
+	'LOG_GROUP_UPDATED'		=> '<strong>جزئیات گروه کاربری به‌روز رسانی شد</strong><br />» %s',
 	'LOG_MODS_ADDED'		=> '<strong>رهبران جدید به گروه کاربری </strong> %1$s اضافه شدند<br />» %2$s',
 	'LOG_USERS_ADDED'		=> '<strong>اعضای جدید به گروه کاربری</strong> %1$s اضافه شدند<br />» %2$s',
-	'LOG_USERS_APPROVED'	=> '<strong>اعضا در گروه کاربری</strong> %1$s تایید شدند<br />» %2$s',
-	'LOG_USERS_PENDING'		=> '<strong>کاربران دخواست عضویت در گروه “%1$s” ارسال کرده اند که نیازمند تایید می باشد</strong><br />» %2$s',
+	'LOG_USERS_APPROVED'	=> '<strong>اعضا در گروه کاربری</strong> %1$s تأیید شدند<br />» %2$s',
+	'LOG_USERS_PENDING'		=> '<strong>کاربران دخواست عضویت در گروه “%1$s” ارسال کرده اند که نیازمند تأیید می باشد</strong><br />» %2$s',
 
 	'LOG_IMAGE_GENERATION_ERROR'	=> '<strong>خطایی در حین ایجاد تصویر روی داد</strong><br />» خطا رد %1$s و خط %2$s: %3$s',
 
@@ -669,13 +669,13 @@ $lang = array_merge($lang, array(
 	'LOG_IP_BROWSER_FORWARDED_CHECK'	=> '<strong>کنترل نشست IP،مرورگر و X_FORWARDED_FOR شکست خورد</strong><br />»IP کاربر “<em>%1$s</em>” در IP نشست “<em>%2$s</em>” کنترل شد , حلقه مرورگر کاربر “<em>%3$s</em>” در نشست حلقه مرورگر “<em>%4$s</em>” کنترل شد و X_FORWARDED_FOR string کاربر “<em>%5$s</em>” در حلقه نشست X_FORWARDED_FOR “<em>%6$s</em>” کنترل شد.',
 
 	'LOG_JAB_CHANGED'			=> '<strong>اکانت Jabeer تغییر یافت</strong>',
-	'LOG_JAB_PASSCHG'			=> '<strong>کلمه عبور Jabber تغییر یافت</strong>',
+	'LOG_JAB_PASSCHG'			=> '<strong>گذرواژه Jabber تغییر یافت</strong>',
 	'LOG_JAB_REGISTER'			=> '<strong>اکانت Jabber ثبت نام شد</strong>',
 	'LOG_JAB_SETTINGS_CHANGED'	=> '<strong>تنظیمات Jabber تغییر یافت</strong>',
 
 	'LOG_LANGUAGE_PACK_DELETED'		=> '<strong>بسته زبانی حذف شد</strong><br />» %s',
 	'LOG_LANGUAGE_PACK_INSTALLED'	=> '<strong>بسته زبانی نصب شد</strong><br />» %s',
-	'LOG_LANGUAGE_PACK_UPDATED'		=> '<strong>جزئیات بسته زبانی بروزرسانی شد</strong><br />» %s',
+	'LOG_LANGUAGE_PACK_UPDATED'		=> '<strong>جزئیات بسته زبانی به‌روز رسانی شد</strong><br />» %s',
 	'LOG_LANGUAGE_FILE_REPLACED'	=> '<strong>فایل های زبان جایگزین شدند</strong><br />» %s',
 	'LOG_LANGUAGE_FILE_SUBMITTED'	=> '<strong>فایل زبان ارسال و در پوشه مورد نظر ذخیره شد</strong><br />» %s',
 
@@ -724,13 +724,13 @@ $lang = array_merge($lang, array(
 
 	'LOG_RANK_ADDED'		=> '<strong>رتبه جدیدی اضافه شد</strong><br />» %s',
 	'LOG_RANK_REMOVED'		=> '<strong>رتبه حذف شد</strong><br />» %s',
-	'LOG_RANK_UPDATED'		=> '<strong>رتبه بروزرسانی شد</strong><br />» %s',
+	'LOG_RANK_UPDATED'		=> '<strong>رتبه به‌روز رسانی شد</strong><br />» %s',
 
 	'LOG_REASON_ADDED'		=> '<strong>گزارش/دلیل تحریم اضافه شد</strong><br />» %s',
 	'LOG_REASON_REMOVED'	=> '<strong>گزارش/دلیل تحریم حذف شد</strong><br />» %s',
-	'LOG_REASON_UPDATED'	=> '<strong>گزارش/دلیل تحریم بروزرسانی</strong><br />» %s',
+	'LOG_REASON_UPDATED'	=> '<strong>گزارش/دلیل تحریم به‌روز رسانی</strong><br />» %s',
 
-	'LOG_REFERER_INVALID'		=> '<strong>تایید رجوع کننده موفقیت آمیز نبود</strong><br />»رجوع کننده “<em>%1$s</em>” بود که درخواست آن رد شده و نشست بسته شد',
+	'LOG_REFERER_INVALID'		=> '<strong>تأیید رجوع کننده موفقیت آمیز نبود</strong><br />»رجوع کننده “<em>%1$s</em>” بود که درخواست آن رد شده و نشست بسته شد',
 	'LOG_RESET_DATE'			=> '<strong>تاریخ شروع فعالیت تالار بازشماری شد</strong>',
 	'LOG_RESET_ONLINE'			=> '<strong>بیشترین تعداد افراد آنلاین بازشماری شد</strong>',
 	'LOG_RESYNC_FILES_STATS'	=> '<strong>آمار فایل ها بازنشانی شد</strong>',
@@ -756,7 +756,7 @@ $lang = array_merge($lang, array(
 	'LOG_TEMPLATE_EDIT_DETAILS'		=> '<strong>جزئیات قالب ویرایش شد</strong><br />» %s',
 	'LOG_TEMPLATE_EXPORT'			=> '<strong>مجموعه قالب به بیرون برده شد</strong><br />» %s',
 	// @deprecated 3.1
-	'LOG_TEMPLATE_REFRESHED'		=> '<strong>مجموعه قالب بروزرسانی شد</strong><br />» %s',
+	'LOG_TEMPLATE_REFRESHED'		=> '<strong>مجموعه قالب به‌روز رسانی شد</strong><br />» %s',
 
 	// @deprecated 3.1
 	'LOG_THEME_ADD_DB'			=> '<strong>تم جدیدی به پایگاه داده اضافه شد</strong><br />» %s',
@@ -768,10 +768,10 @@ $lang = array_merge($lang, array(
 	'LOG_THEME_EDIT_FILE'		=> '<strong>تم <em>%1$s</em> ویرایش شد </strong><br />» فایل <em>%2$s</em> تغییر یافت ',
 	'LOG_THEME_EXPORT'			=> '<strong>تم به بیرون برده شد</strong><br />» %s',
 	// @deprecated 3.1
-	'LOG_THEME_REFRESHED'		=> '<strong>تم بروزرسانی شد</strong><br />» %s',
+	'LOG_THEME_REFRESHED'		=> '<strong>تم به‌روز رسانی شد</strong><br />» %s',
 
-	'LOG_UPDATE_DATABASE'	=> '<strong>پایگاه داده از نسخه %1$s به نسخه %2$s بروزرسانی شد</strong>',
-	'LOG_UPDATE_PHPBB'		=> '<strong>phpBB از نسخه %1$s به نسخه %2$s بروزرسانی شد.</strong>',
+	'LOG_UPDATE_DATABASE'	=> '<strong>پایگاه داده از نسخه %1$s به نسخه %2$s به‌روز رسانی شد</strong>',
+	'LOG_UPDATE_PHPBB'		=> '<strong>phpBB از نسخه %1$s به نسخه %2$s به‌روز رسانی شد.</strong>',
 
 	'LOG_USER_ACTIVE'		=> '<strong>کاربر فعال شد</strong><br />» %s',
 	'LOG_USER_BAN_USER'		=> '<strong>کاربر توسط مدیریت اعضا</strong> به دلیل “<em>%1$s</em>” تحریم شد <br />» %2$s',
@@ -785,13 +785,13 @@ $lang = array_merge($lang, array(
 	'LOG_USER_DEL_SIG'		=> '<strong>امضای کاربر حذف شد</strong><br />» %s',
 	'LOG_USER_INACTIVE'		=> '<strong>کاربر غیرفعال شد</strong><br />» %s',
 	'LOG_USER_MOVE_POSTS'	=> '<strong>پست های کاربر منتقل شدند</strong><br />» پست های متعلق به “%1$s” به انجمن “%2$s” منتقل شدند',
-	'LOG_USER_NEW_PASSWORD'	=> '<strong>کلمه عبور کاربر تغییر یافت</strong><br />» %s',
+	'LOG_USER_NEW_PASSWORD'	=> '<strong>گذرواژه کاربر تغییر یافت</strong><br />» %s',
 	'LOG_USER_REACTIVATE'	=> '<strong>اکنون کاربر مجبور به فعال سازی دوباره اکانت خود می باشد</strong><br />» %s',
 	'LOG_USER_REMOVED_NR'	=> '<strong>بیان کاربر جدید از کاربر حذف شد</strong><br />» %s',
 
 	'LOG_USER_UPDATE_EMAIL'	=> '<strong>ایمیل کاربر “%1$s” </strong><br />» از “%2$s” به “%3$s” تغییر یافت',
 	'LOG_USER_UPDATE_NAME'	=> '<strong>نام کاربری</strong><br />» از “%1$s” به “%2$s” تغییر یافت',
-	'LOG_USER_USER_UPDATE'	=> '<strong>جزئیات کاربر بروزرسانی شد</strong><br />» %s',
+	'LOG_USER_USER_UPDATE'	=> '<strong>جزئیات کاربر به‌روز رسانی شد</strong><br />» %s',
 
 	'LOG_USER_ACTIVE_USER'		=> '<strong>اکانت کاربر فعال شد</strong>',
 	'LOG_USER_DEL_AVATAR_USER'	=> '<strong>نمایه کاربر حذف شد</strong>',
@@ -809,7 +809,7 @@ $lang = array_merge($lang, array(
 	'LOG_USER_GROUP_CHANGE'			=> '<strong>کاربر گروه پیشفرضش را تغییر داد</strong><br />» %s',
 	'LOG_USER_GROUP_DEMOTE'			=> '<strong>رتبه رهبری کاربر در گروه کاربری تنزل یافت</strong><br />» %s',
 	'LOG_USER_GROUP_JOIN'			=> '<strong>کاربر در گروه عضو شد</strong><br />» %s',
-	'LOG_USER_GROUP_JOIN_PENDING'	=> '<strong>کاربر در گروه عضو شد و نیازمند تایید است</strong><br />» %s',
+	'LOG_USER_GROUP_JOIN_PENDING'	=> '<strong>کاربر در گروه عضو شد و نیازمند تأیید است</strong><br />» %s',
 	'LOG_USER_GROUP_RESIGN'			=> '<strong>عضویت کاربر در گروه لغو شد</strong><br />» %s',
 
 	'LOG_WARNING_DELETED'		=> '<strong>هشدار کاربر حذف شد</strong><br />» %s',

@@ -41,7 +41,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'ABOUT_USER'			=> 'نمایه',
-	'ACTIVE_IN_FORUM'		=> 'فعال تربن انجمن',
+	'ACTIVE_IN_FORUM'		=> 'فعال ترین انجمن',
 	'ACTIVE_IN_TOPIC'		=> 'فعال ترین موضوع',
 	'ADD_FOE'				=> 'اضافه کردن به عنوان دشمن',
 	'ADD_FRIEND'			=> 'اضافه کردن به عنوان دوست',

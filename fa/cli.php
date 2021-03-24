@@ -56,7 +56,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_CRON_RUN'					=> 'اجرای تمامی وظایف زمانی',
 	'CLI_DESCRIPTION_CRON_RUN_ARGUMENT_1'		=> 'نام وظیفه قابل اجرا',
 	'CLI_DESCRIPTION_DB_LIST'					=> 'لیست تمام نصب شده ها و انتقالی ها',
-	'CLI_DESCRIPTION_DB_MIGRATE'				=> 'به روز رسانی دیتابیس توسط تثبیت انتقال Migration',
+	'CLI_DESCRIPTION_DB_MIGRATE'				=> 'به‌روز رسانی دیتابیس توسط تثبیت انتقال Migration',
 	'CLI_DESCRIPTION_DB_REVERT'					=> 'انتقال مجدد',
 	'CLI_DESCRIPTION_DELETE_CONFIG'				=> 'حذف گزینه پیکربندی',
 	'CLI_DESCRIPTION_DISABLE_EXTENSION'			=> 'غیر فعال کردن افزونه مورد مشخص.',
@@ -96,7 +96,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_CACHE'		=> 'اجرای دستور بررسیبا سیستم کش',
 	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_STABILITY'	=> 'اجرای دستور انتخاب برای بررسی نسخه های پایدار یا ناپایدار',
 
-	'CLI_DESCRIPTION_UPDATE_HASH_BCRYPT'		=> 'به روز رسانی هش پسوردهای انقضا شده به هش های با bcrypt.',
+	'CLI_DESCRIPTION_UPDATE_HASH_BCRYPT'		=> 'به‌روز رسانی هش گذرواژههای انقضا شده به هش های با bcrypt.',
 	
 	'CLI_ERROR_INVALID_STABILITY' => '"%s" نیاز به تنظیم به پایدار یا ناپایدار است.',
 	
@@ -107,7 +107,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_USER_ACTIVATE_INACTIVE'	=> 'کاربر درحال حاضر غیرفعال است',
 	'CLI_DESCRIPTION_USER_ADD'					=> 'اضافه کردن کاربر جدید',
 	'CLI_DESCRIPTION_USER_ADD_OPTION_USERNAME'	=> 'نام کاربری کاربر جدید',
-	'CLI_DESCRIPTION_USER_ADD_OPTION_PASSWORD'	=> 'پسورد کاربر جدید',
+	'CLI_DESCRIPTION_USER_ADD_OPTION_PASSWORD'	=> 'گذرواژه کاربر جدید',
 	'CLI_DESCRIPTION_USER_ADD_OPTION_EMAIL'		=> 'آدرس ایمیل کاربر جدید',
 	'CLI_DESCRIPTION_USER_ADD_OPTION_NOTIFY'	=> 'ارسال ایمیل فعال سازی کاربر جدید ( به صورت پیش فرض ارسال نمی شود.)',
 	'CLI_DESCRIPTION_USER_DELETE'				=> 'حذف اکانت کاربر',
@@ -134,7 +134,7 @@ $lang = array_merge($lang, array(
         'CLI_EXTENSIONS_ENABLED' => 'فعال',
 
     'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار  درختی انجمن ها و مدل ها با موفقیت انجام شد. ',
-	'CLI_FIXUP_UPDATE_HASH_BCRYPT_SUCCESS'		=> 'پسوردهای منقضی و هش شده با موفقیت به روز رسانی شد.',
+	'CLI_FIXUP_UPDATE_HASH_BCRYPT_SUCCESS'		=> 'گذرواژههای منقضی و هش شده با موفقیت به‌روز رسانی شد.',
 	
 	'CLI_MIGRATION_NAME'					=> 'نام مهاجرت ، که شامل فضای جمله می شود ( استفاده از اسلش به جای بک اسلش جهت جلوگیری از مشکلات )',
 	'CLI_MIGRATIONS_AVAILABLE'				=> 'مهاجرتهای در  دسترس',

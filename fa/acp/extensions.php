@@ -79,7 +79,7 @@ $lang = array_merge($lang, array(
 			<li>در آوردن از حالت فشرده و اپلود فایل ها در پوشه <samp>ext/</samp> واقع در دایرکتوری phpBB</li>
 			<li>فعال سازی افزونه واقع در بخش مدیریت افزونه ها</li>
 		</ol>',
-	'EXTENSION_UPDATE_HEADLINE'	=> 'مراحل به روز رسانی افزونه',
+	'EXTENSION_UPDATE_HEADLINE'	=> 'مراحل به‌روز رسانی افزونه',
 	'EXTENSION_UPDATE_EXPLAIN'	=> '<ol>
 			<li>غیر فعال کردن افزونه</li>
 			<li>حذف فایل های افزونه آپلود شده</li>
