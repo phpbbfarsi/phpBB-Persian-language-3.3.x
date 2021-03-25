@@ -329,10 +329,10 @@ $lang = array_merge($lang, array(
 	'NEW_PASSWORD_CONFIRM_EMPTY'	=> 'گذرواژه تأیید را وارد نکرده اید.',
 	'NEW_PASSWORD_ERROR'		=> 'کلمه های عبور وارد شده مطابق هم نیستند.',
 
-	'NOTIFICATIONS_MARK_ALL_READ'				=> 'نشانه گذاری همه "یاد آوری ها" به عنوان خوانده شده',
-	'NOTIFICATIONS_MARK_ALL_READ_CONFIRM'		=> 'آیا از نشانه گذاری همه "یاد آوری ها" به عنوان خوانده شده اطمینان دارید؟',
-	'NOTIFICATIONS_MARK_ALL_READ_SUCCESS'		=> 'همه "یاد آوری ها" به عنوان خوانده شده نشانه گذاری شد.',
-	'NOTIFICATION_GROUP_MISCELLANEOUS'			=> 'یاد آوری - متفرقه',
+	'NOTIFICATIONS_MARK_ALL_READ'				=> 'نشانه گذاری همه "اعلانات" به عنوان خوانده شده',
+	'NOTIFICATIONS_MARK_ALL_READ_CONFIRM'		=> 'آیا از نشانه گذاری همه "اعلانات" به عنوان خوانده شده اطمینان دارید؟',
+	'NOTIFICATIONS_MARK_ALL_READ_SUCCESS'		=> 'همه "اعلانات" به عنوان خوانده شده نشانه گذاری شد.',
+	'NOTIFICATION_GROUP_MISCELLANEOUS'			=> 'اعلان - متفرقه',
 	'NOTIFICATION_GROUP_MODERATION'				=> 'یادآوری - مدیریت',
 	'NOTIFICATION_GROUP_ADMINISTRATION'			=> 'یادآوری - مدیریت',
 	'NOTIFICATION_GROUP_POSTING'				=> 'یادآوری - نوشتاری',
@@ -355,7 +355,7 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_TYPE_TOPIC'				=> 'شخصی در انجمنی که عضو آن بودید موضوع جدید ارسال کرده است.',
 	'NOTIFICATION_TYPE_ADMIN_ACTIVATE_USER'	=> 'کاربر منتظر فعال سازی',
 
-	'NOTIFY_METHOD'				=> 'روش "یاد آوری"',
+	'NOTIFY_METHOD'				=> 'روش "اعلان"',
 	'NOTIFY_METHOD_BOTH'		=> 'هر دو',
 	'NOTIFY_METHOD_EMAIL'		=> 'فقط ایمیل',
 	'NOTIFY_METHOD_EXPLAIN'		=> 'روشی برای ارسال پیام در این انجمن',
@@ -545,9 +545,9 @@ $lang = array_merge($lang, array(
 
 	'UCP_NO_ATTACHMENTS'	=> 'فایلی را ارسال نکرده اید',
 
-	'UCP_NOTIFICATION_LIST'	=> 'مدیریت یاد آوری ها',
-	'UCP_NOTIFICATION_LIST_EXPLAIN'	=> 'در این قسمت شما میتوانید تمام یاد آوری ها را مشاهده کنید.',
-	'UCP_NOTIFICATION_OPTIONS'		=> 'تنطیمات یاد آوری ها',
+	'UCP_NOTIFICATION_LIST'	=> 'مدیریت اعلانات',
+	'UCP_NOTIFICATION_LIST_EXPLAIN'	=> 'در این قسمت شما میتوانید تمام اعلانات را مشاهده کنید.',
+	'UCP_NOTIFICATION_OPTIONS'		=> 'تنطیمات اعلانات',
 	'UCP_NOTIFICATION_OPTIONS_EXPLAIN'	=> 'در این قسمت شما میتوانید تنظیمات مربوط به یادآوری ها را انجام دهید.',
 
 	'UCP_PREFS'			=> 'تنظیمات تالار',

@@ -266,7 +266,7 @@ $lang = array_merge($lang, array(
 	'IP_HOSTNAME'			=> 'آدرس IP و یا نام هاست (hostname)',
 
 	'LATEST_VERSION'		=> 'آخرین نسخه',
-	'LOAD_NOTIFICATIONS'			=> 'نمایش یاد آوری ها',
+	'LOAD_NOTIFICATIONS'			=> 'نمایش اعلانات',
 	'LOAD_NOTIFICATIONS_EXPLAIN'	=> 'نمایش "یادآوری ها" در همه صفحات ( بالای صفحه )',
 	'LOGGED_IN_AS'			=> 'وارد شده با نام :',
 	'LOGIN_ADMIN'			=> 'برای مدیریت تالار، باید کاربر تأیید شده ای باشید.',
