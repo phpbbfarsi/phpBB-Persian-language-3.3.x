@@ -81,7 +81,7 @@ $lang = array_merge($lang, array(
 	'ACP_CONTACT'				=> 'صفحه تماس با ما',
 	'ACP_CONTACT_SETTINGS'		=> 'تنظیمات صفحه تماس با ما',
 	'ACP_CRITICAL_LOGS'			=> 'گزارش خطا',
-	'ACP_CUSTOM_PROFILE_FIELDS'	=> 'فیلد های سفارشی پروفایل',
+	'ACP_CUSTOM_PROFILE_FIELDS'	=> 'فیلد های سفارشی نمایه',
 
 	'ACP_DATABASE'				=> 'مدیریت پایگاه داده',
 	'ACP_DISALLOW'				=> 'نپذیرفتن',
@@ -198,7 +198,7 @@ $lang = array_merge($lang, array(
 	'ACP_USER_OVERVIEW'				=> 'چشم انداز',
 	'ACP_USER_PERM'					=> 'سطوح دسترسی',
 	'ACP_USER_PREFS'				=> 'پیکربندی',
-	'ACP_USER_PROFILE'				=> 'پروفایل',
+	'ACP_USER_PROFILE'				=> 'نمایه',
 	'ACP_USER_RANK'					=> 'رتبه',
 	'ACP_USER_ROLES'				=> 'نوع دسترسی کاربر',
 	'ACP_USER_SECURITY'				=> 'امنیتی کاربر',
@@ -461,7 +461,7 @@ $lang = array_merge($lang, array(
 	'INACTIVE_DATE'					=> 'تاریخ عدم فعالیت',
 	'INACTIVE_REASON'				=> 'دلیل',
 	'INACTIVE_REASON_MANUAL'		=> 'اکانت توسط مدیر غیرفعال شده است',
-	'INACTIVE_REASON_PROFILE'		=> 'جزئیات پروفایل تغییر یافت',
+	'INACTIVE_REASON_PROFILE'		=> 'جزئیات نمایه تغییر یافت',
 	'INACTIVE_REASON_REGISTER'		=> 'اکانت هایی که به تازگی ثبت نام کرده اند',
 	'INACTIVE_REASON_REMIND'		=> 'کاربر مجبور به فعال سازی دوباره اکانت خود خواهد شد.',
 	'INACTIVE_REASON_UNKNOWN'		=> 'نامعلوم',
@@ -706,11 +706,11 @@ $lang = array_merge($lang, array(
 
 	'LOG_PLUPLOAD_TIDY_FAILED'		=> '<strong>قادر به باز کردن %1$s نیستم, سطوح دسترسی را بررسی کنید..</strong><br />استثنا: %2$s<br />مقدار: %3$s',
 
-	'LOG_PROFILE_FIELD_ACTIVATE'	=> '<strong>فیلد پروفایل فعال شد</strong><br />» %s',
-	'LOG_PROFILE_FIELD_CREATE'		=> '<strong>فیلد پروفایل اضافه شد</strong><br />» %s',
-	'LOG_PROFILE_FIELD_DEACTIVATE'	=> '<strong>فیلد پروفایل غیرفعال شد</strong><br />» %s',
-	'LOG_PROFILE_FIELD_EDIT'		=> '<strong>فیلد پروفایل تغییر یافت</strong><br />» %s',
-	'LOG_PROFILE_FIELD_REMOVED'		=> '<strong>فیلد پروفایل حذف شد</strong><br />» %s',
+	'LOG_PROFILE_FIELD_ACTIVATE'	=> '<strong>فیلد نمایه فعال شد</strong><br />» %s',
+	'LOG_PROFILE_FIELD_CREATE'		=> '<strong>فیلد نمایه اضافه شد</strong><br />» %s',
+	'LOG_PROFILE_FIELD_DEACTIVATE'	=> '<strong>فیلد نمایه غیرفعال شد</strong><br />» %s',
+	'LOG_PROFILE_FIELD_EDIT'		=> '<strong>فیلد نمایه تغییر یافت</strong><br />» %s',
+	'LOG_PROFILE_FIELD_REMOVED'		=> '<strong>فیلد نمایه حذف شد</strong><br />» %s',
 
 	'LOG_PRUNE'					=> '<strong>انجمن ها هرس شدند</strong><br />» %s',
 	'LOG_AUTO_PRUNE'			=> '<strong>انجمن ها به صورت خودکار هرس شدند</strong><br />» %s',

@@ -124,7 +124,7 @@ $lang = array_merge($lang, array(
 	'USER_AVATAR_UPDATED'			=> 'با موفقیت جزئیات آواتار کاربر به‌روز رسانی شد.',
 	'USER_AVATAR_TYPE_NOT_ALLOWED'	=> 'آواتار کنونی قابل نمایش نیست زیرا فرمت آن مجاز نمی باشد.',
 
-	'USER_CUSTOM_PROFILE_FIELDS'	=> 'فیلد های سفارشی پروفایل',
+	'USER_CUSTOM_PROFILE_FIELDS'	=> 'فیلد های سفارشی نمایه',
 	'USER_DELETED'					=> 'کاربر با موفقیت حذف شد.',
 
 	'USER_GROUP_ADD'				=> 'اضافه کردن کاربر به گروه',
@@ -141,8 +141,8 @@ $lang = array_merge($lang, array(
 	'USER_POSTS_DELETED'			=> 'با موفقیت تمامی پست های کاربر حذف شد.',
 	'USER_POSTS_MOVED'				=> 'با موفقیت پست های کاربر به انجمن مقصد منتقل شد.',
 	'USER_PREFS_UPDATED'			=> 'ویژگی های کاربر به‌روز رسانی شد.',
-	'USER_PROFILE'					=> 'پروفایل کاربر',
-	'USER_PROFILE_UPDATED'			=> 'پروفایل کاربر به‌روز رسانی شد..',
+	'USER_PROFILE'					=> 'نمایه کاربر',
+	'USER_PROFILE_UPDATED'			=> 'نمایه کاربر به‌روز رسانی شد..',
 	'USER_RANK'						=> 'رتبه کاربر',
 	'USER_RANK_UPDATED'				=> 'رتبه کاربر به‌روز رسانی شد.',
 	'USER_SIG_UPDATED'				=> 'امضای کاربر با موفقیت به‌روز رسانی شد.',

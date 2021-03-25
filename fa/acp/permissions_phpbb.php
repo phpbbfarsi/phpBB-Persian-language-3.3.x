@@ -61,7 +61,7 @@ $lang = array_merge($lang, array(
 	'ACL_CAT_POST'			=> 'پست',
 	'ACL_CAT_POST_ACTIONS'	=> 'عملیات پست',
 	'ACL_CAT_POSTING'		=> 'ارسال پست',
-	'ACL_CAT_PROFILE'		=> 'پروفایل',
+	'ACL_CAT_PROFILE'		=> 'نمایه',
 	'ACL_CAT_SETTINGS'		=> 'تنظیمات',
 	'ACL_CAT_TOPIC_ACTIONS'	=> 'عملیات موضوعات',
 	'ACL_CAT_USER_GROUP'	=> 'کاربران و گروه ها',
@@ -69,13 +69,13 @@ $lang = array_merge($lang, array(
 
 // User Permissions
 $lang = array_merge($lang, array(
-	'ACL_U_VIEWPROFILE'	=> 'توانایی دیدن پروفایل ، لیست اعضا و افراد انلاین.',
+	'ACL_U_VIEWPROFILE'	=> 'توانایی دیدن نمایه ، لیست اعضا و افراد انلاین.',
 	'ACL_U_CHGNAME'		=> 'توانایی تغییر نام کاربری.',
 	'ACL_U_CHGPASSWD'	=> 'توانایی تغییر گذرواژه.',
 	'ACL_U_CHGEMAIL'	=> 'توانایی تغییر ایمیل.',
 	'ACL_U_CHGAVATAR'	=> 'توانایی تغییر نمایه',
 	'ACL_U_CHGGRP'		=> 'توانایی تغییر گروه کاربری پیش‌فرض',
-	'ACL_U_CHGPROFILEINFO'	=> 'توانایی تغییر فیلد سفارشی پروفایل',
+	'ACL_U_CHGPROFILEINFO'	=> 'توانایی تغییر فیلد سفارشی نمایه',
 
 	'ACL_U_ATTACH'		=> 'توانایی ارسال پیوست',
 	'ACL_U_DOWNLOAD'	=> 'توانایی دریافت پیوست',
