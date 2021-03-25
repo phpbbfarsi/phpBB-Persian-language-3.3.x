@@ -333,7 +333,7 @@ $lang = array_merge($lang, array(
 
 // PHP info
 $lang = array_merge($lang, array(
-	'ACP_PHP_INFO_EXPLAIN'	=> 'این صفحه اطلاعات و جزئیات نسخه PHP نصب شده در سرور را نمایش می دهد و شامل ماژول های بارگذاری شده، داده های در دسترس و تنظیمات پیشفرض می باشد. این اطلاعات در حین حل مشکلات ممکن است سودمند واقع شود. ممکن است بعضی از شرکت های هاستینگ اطلاعات نمایشی را به دلایل امنیتب محدود کنند. توصیه می شود که اطلاعات موجود در این صفحه را به هیچکس جزء <a href="http://www.phpbb.com/about/team/">اعضای تیم رسمی</a> بازگو نکنید.',
+	'ACP_PHP_INFO_EXPLAIN'	=> 'این صفحه اطلاعات و جزئیات نسخه PHP نصب شده در سرور را نمایش می دهد و شامل ماژول های بارگذاری شده، داده های در دسترس و تنظیمات پیش‌فرض می باشد. این اطلاعات در حین حل مشکلات ممکن است سودمند واقع شود. ممکن است بعضی از شرکت های هاستینگ اطلاعات نمایشی را به دلایل امنیتب محدود کنند. توصیه می شود که اطلاعات موجود در این صفحه را به هیچکس جزء <a href="http://www.phpbb.com/about/team/">اعضای تیم رسمی</a> بازگو نکنید.',
 
 	'NO_PHPINFO_AVAILABLE'	=> 'اطلاعات پیکربندی PHP شما قابل تشخیص نیست. Phpinfo() برای دلایل امنیتی بسته شده است.',
 ));
@@ -647,7 +647,7 @@ $lang = array_merge($lang, array(
 	'LOG_GENERAL_ERROR'	=> '<strong>خطایی عمومی رخ داد</strong>: %1$s <br />» %2$s',
 
 	'LOG_GROUP_CREATED'		=> '<strong>گروه کاربری جدیدی ایجاد شد</strong><br />» %s',
-	'LOG_GROUP_DEFAULTS'	=> '<strong>گروه “%1$s” به عنوان گروه پیشفرض برای کاربران تأیید شد</strong><br />» %2$s',
+	'LOG_GROUP_DEFAULTS'	=> '<strong>گروه “%1$s” به عنوان گروه پیش‌فرض برای کاربران تأیید شد</strong><br />» %2$s',
 	'LOG_GROUP_DELETE'		=> '<strong>گروه کاربری حدف شد</strong><br />» %s',
 	'LOG_GROUP_DEMOTED'		=> '<strong>رتبه رهبران گروه کاربری در</strong> %1$s تنزیل شد<br />» %2$s',
 	'LOG_GROUP_PROMOTED'	=> '<strong>رتبه کاربران  گروه کاربری در </strong> %1$s ارتقاء یافت<br />» %2$s',
@@ -806,7 +806,7 @@ $lang = array_merge($lang, array(
 	'LOG_USER_WARNING'			=> '<strong>هشدار به کاربر اضافه شد</strong><br />» %s',
 	'LOG_USER_WARNING_BODY'		=> '<strong>هشدار مقابل به کاربر ارسال شد</strong><br />» %s',
 
-	'LOG_USER_GROUP_CHANGE'			=> '<strong>کاربر گروه پیشفرضش را تغییر داد</strong><br />» %s',
+	'LOG_USER_GROUP_CHANGE'			=> '<strong>کاربر گروه پیش‌فرضش را تغییر داد</strong><br />» %s',
 	'LOG_USER_GROUP_DEMOTE'			=> '<strong>رتبه رهبری کاربر در گروه کاربری تنزل یافت</strong><br />» %s',
 	'LOG_USER_GROUP_JOIN'			=> '<strong>کاربر در گروه عضو شد</strong><br />» %s',
 	'LOG_USER_GROUP_JOIN_PENDING'	=> '<strong>کاربر در گروه عضو شد و نیازمند تأیید است</strong><br />» %s',

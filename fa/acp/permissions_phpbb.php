@@ -74,7 +74,7 @@ $lang = array_merge($lang, array(
 	'ACL_U_CHGPASSWD'	=> 'توانایی تغییر گذرواژه.',
 	'ACL_U_CHGEMAIL'	=> 'توانایی تغییر ایمیل.',
 	'ACL_U_CHGAVATAR'	=> 'توانایی تغییر نمایه',
-	'ACL_U_CHGGRP'		=> 'توانایی تغییر گروه کاربری پیش فرض',
+	'ACL_U_CHGGRP'		=> 'توانایی تغییر گروه کاربری پیش‌فرض',
 	'ACL_U_CHGPROFILEINFO'	=> 'توانایی تغییر فیلد سفارشی پروفایل',
 
 	'ACL_U_ATTACH'		=> 'توانایی ارسال پیوست',

@@ -49,7 +49,7 @@ $lang = array_merge($lang, [
 	'RECAPTCHA_INCORRECT'			=> 'جواب شما نادرست است.',
 	'RECAPTCHA_NOSCRIPT'			=> 'لطفا جاوا اسکریپت مرورگر خود را فعال کنید.',
 	'RECAPTCHA_NOT_AVAILABLE'		=> 'برای استفاده از کد ریکپچا، باید یک اکانت در سایت گوگل ایجاد کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
-	'RECAPTCHA_INVISIBLE'			=> 'این کپچا در واقع مخفی خواهد بود. برای تأیید صحت عملکرد آن ، باید یک نماد کوچک در گوشه سمت راست پایین این صفحه ظاهر شود.',
+	'RECAPTCHA_INVISIBLE'			=> 'این کپچا در واقع مخفی خواهد بود. برای تأیید صحت عملکرد آن، باید یک نماد کوچک در گوشه سمت راست پایین این صفحه ظاهر شود.',
 	'RECAPTCHA_V3_LOGIN_ERROR_ATTEMPTS'	=> 'شما بیشتر از حداکثر تعداد مجاز ورود به سیستم تلاش کرده اید.<br>علاوه بر نام کاربری و گذرواژه، از ریکپچا ورژن۳ نامرئی برای تأیید اعتبار جلسه شما استفاده خواهد شد.',
 
 	'RECAPTCHA_PUBLIC'				=> 'کلید سایت',
@@ -67,7 +67,7 @@ $lang = array_merge($lang, [
 	'RECAPTCHA_V3_METHOD_POST'			=> 'POST',
 	'RECAPTCHA_V3_METHOD_SOCKET'		=> 'Socket',
 
-	'RECAPTCHA_V3_THRESHOLD_DEFAULT'			=> 'آستانه پیشفرض',
+	'RECAPTCHA_V3_THRESHOLD_DEFAULT'			=> 'آستانه پیش‌فرض',
 	'RECAPTCHA_V3_THRESHOLD_DEFAULT_EXPLAIN'	=> 'زمانی استفاده می شود که هیچ یک از اقدامات دیگر قابل استفاده نباشد.',
 	'RECAPTCHA_V3_THRESHOLD_LOGIN'				=> 'آستانه ورود',
 	'RECAPTCHA_V3_THRESHOLD_POST'				=> 'آستانه پست',

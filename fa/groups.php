@@ -41,16 +41,16 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ALREADY_DEFAULT_GROUP'		=> 'گروه انتخابی شما از قبل به عنوان پیشفرض انتخاب شده بود.',
+	'ALREADY_DEFAULT_GROUP'		=> 'گروه انتخابی شما از قبل به عنوان پیش‌فرض انتخاب شده بود.',
 	'ALREADY_IN_GROUP'			=> 'شما در حال حاضر کاربر گروه انتخابی هستید.',
 	'ALREADY_IN_GROUP_PENDING'	=> 'شما قبلا درخواست خود را برای عضویت در این گروه ارائه کرده اید.',
 
 	'CANNOT_JOIN_GROUP'			=> 'شما نمیتوانید وارد این گروه شوید. شما فقط می توانید در گروه های باز-رایگان یا باز عضو شوید.',
 	'CANNOT_RESIGN_GROUP'		=> 'شما نمی توانید از این گروه کناره گیری کنید.شما فقط می توانید در گروه های باز یا آزاد عضویت خود را لغو کنید.',
-	'CHANGED_DEFAULT_GROUP'		=> 'تغییر گروه پیشفرض با موفقیت انجام شد.',
+	'CHANGED_DEFAULT_GROUP'		=> 'تغییر گروه پیش‌فرض با موفقیت انجام شد.',
 
 	'GROUP_AVATAR'						=> 'آواتار گروه',
-	'GROUP_CHANGE_DEFAULT'				=> 'آیا از تغییر گروه پیشفرض خود به گروه “%s” مطمئنی هستید؟',
+	'GROUP_CHANGE_DEFAULT'				=> 'آیا از تغییر گروه پیش‌فرض خود به گروه “%s” مطمئنی هستید؟',
 	'GROUP_CLOSED'						=> 'بسته شده',
 	'GROUP_DESC'						=> 'توضیحات گروه',
 	'GROUP_HIDDEN'						=> 'مخفی',
@@ -86,7 +86,7 @@ $lang = array_merge($lang, array(
 	'NO_LEADERS'					=> 'شما رهبر هیچ گروه کاربری نیستید.',
 	'NOT_LEADER_OF_GROUP'			=> 'درخواست شما برای انجام عملیات بی فایده است، زیرا شما رهبر گروه انتخاب شده نیستید.',
 	'NOT_MEMBER_OF_GROUP'			=> 'درخواست شما برای انجام عملیات بی فایده است، زیرا شما عضو گروه انتخاب شد نیستید یا عضویت شما هنوز تأیید نشده است.',
-	'NOT_RESIGN_FROM_DEFAULT_GROUP'	=> 'شما اجازه استعفا از گروه پیش فرض را ندارید.',
+	'NOT_RESIGN_FROM_DEFAULT_GROUP'	=> 'شما اجازه استعفا از گروه پیش‌فرض را ندارید.',
 
 	'PRIMARY_GROUP'		=> 'گروه اصلی',
 
