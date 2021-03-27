@@ -42,7 +42,7 @@ if (empty($lang) || !is_array($lang))
 // BBCodes
 // Note to translators: you can translate everything but what's between { and }
 $lang = array_merge($lang, array(
-	'ACP_BBCODES_EXPLAIN'		=> 'BBCode نوعی کدهایی شبیه به HTML می باشند.در این بخش می توانید BBCode ها را ویرایش کرده و یا آنها را اضافه کنید.',
+	'ACP_BBCODES_EXPLAIN'		=> 'BBCode نوعی کدهایی شبیه به HTML می باشند.در این بخش می توانید BBCode ها را ویرایش کرده و یا آن‌ها را اضافه کنید.',
 	'ADD_BBCODE'				=> 'اضافه کردن BBCode',
 
 	'BBCODE_DANGER'				=> 'شما در حال تلاش برای اضافه کردن BBCode هاامن هستید. چنانچه BBCode شما حاوی متن حساس {TEXT} میباشد از یک نوع مطمئن تر استفاده کنید. تنها میتوان موقعی استفاده کرد که از خطر آن اگاه باشید. ',

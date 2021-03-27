@@ -147,7 +147,7 @@ $lang = array_merge($lang, array(
 
 	'NO_AUTH_SETTING_FOUND'		=> 'تنظیمات سطوح دسترسی مشخص نشد.',
 	'NO_ROLE_ASSIGNED'			=> 'نقشی مشخص نشد …',
-	'NO_ROLE_ASSIGNED_EXPLAIN'	=> 'تنظیمات نقش ها سطوح دسترسی را تغییر نمی دهد. اگر می خواهید سطوح دسترسی را تغییر دهید و یا آنها را حذف کنید بر روی لینک “همگی <samp>نه</samp>” کلیک کنید.',
+	'NO_ROLE_ASSIGNED_EXPLAIN'	=> 'تنظیمات نقش ها سطوح دسترسی را تغییر نمی دهد. اگر می خواهید سطوح دسترسی را تغییر دهید و یا آن‌ها را حذف کنید بر روی لینک “همگی <samp>نه</samp>” کلیک کنید.',
 	'NO_ROLE_AVAILABLE'			=> 'نقشی در دسترس نیست',
 	'NO_ROLE_NAME_SPECIFIED'	=> 'لطفا برای نقش نامی را تعریف کنید.',
 	'NO_ROLE_SELECTED'			=> 'نقش یافت نشد.',
@@ -303,5 +303,5 @@ $lang = array_merge($lang, array(
 	'VIEW_PERMISSIONS'		=> 'مشاهده سطوح دسترسی',
 
 	'WRONG_PERMISSION_TYPE'				=> 'نوع سطح دسترسی اشتباه می باشد.',
-	'WRONG_PERMISSION_SETTING_FORMAT'	=> 'فرمت سطوح دسترسی اشتباه می باشد، phpBB نمی تواند آنها را پردازش کند.',
+	'WRONG_PERMISSION_SETTING_FORMAT'	=> 'فرمت سطوح دسترسی اشتباه می باشد، phpBB نمی تواند آن‌ها را پردازش کند.',
 ));
