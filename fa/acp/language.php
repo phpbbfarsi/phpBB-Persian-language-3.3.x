@@ -41,7 +41,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'ACP_FILES'						=> 'فایل های زبانی مدیریت',
-	'ACP_LANGUAGE_PACKS_EXPLAIN'	=> 'در این بخش می توانید بسته های زبانی را حذف/نصب کنید. بسته زبانی پیشفرض با * مشخص شده است.',
+	'ACP_LANGUAGE_PACKS_EXPLAIN'	=> 'در این بخش می توانید بسته های زبانی را حذف/نصب کنید. بسته زبانی پیش‌فرض با * مشخص شده است.',
 
 	'DELETE_LANGUAGE_CONFIRM'		=> 'آیا از حذف “%s” اطمینان دارید؟',
 
@@ -49,10 +49,10 @@ $lang = array_merge($lang, array(
 
 	'LANGUAGE_DETAILS_UPDATED'			=> 'جزئیات زبان با موفقیت به‌روز رسانی شد.',
 	'LANGUAGE_PACK_ALREADY_INSTALLED'	=> 'پکیج زبانی قبلا نصب شده بود.',
-	'LANGUAGE_PACK_DELETED'				=> 'بسته زبانی <strong>%s</strong> با موفقیت حذف شد. زبان کاربرانی که از این بسته زبانی استفاده می کرند به زبان پیشفرض تالار تغییر یافت.',
+	'LANGUAGE_PACK_DELETED'				=> 'بسته زبانی <strong>%s</strong> با موفقیت حذف شد. زبان کاربرانی که از این بسته زبانی استفاده می کرند به زبان پیش‌فرض تالار تغییر یافت.',
 	'LANGUAGE_PACK_DETAILS'				=> 'جزئیات بسته زبانی',
 	'LANGUAGE_PACK_INSTALLED'			=> 'بسته زبانی <strong>%s</strong> با موفقیت نصب شد.',
-	'LANGUAGE_PACK_CPF_UPDATE'			=> 'تابع های زبانی فیلد های سفارشی از زبان پیشفرض کپی می شوند،در صورت نیاز آنها را تغییر دهید.',
+	'LANGUAGE_PACK_CPF_UPDATE'			=> 'تابع های زبانی فیلد های سفارشی از زبان پیش‌فرض کپی می شوند،در صورت نیاز آن‌ها را تغییر دهید.',
 	'LANGUAGE_PACK_ISO'					=> 'ISO',
 	'LANGUAGE_PACK_LOCALNAME'			=> 'نام محلی',
 	'LANGUAGE_PACK_NAME'				=> 'نام',
@@ -69,7 +69,7 @@ $lang = array_merge($lang, array(
 
 	'NO_FILE_SELECTED'				=> 'فایل زبانی را مشخص نکرده اید.',
 	'NO_LANG_ID'					=> 'بسته زبانی را مشخص نکرده اید.',
-	'NO_REMOVE_DEFAULT_LANG'		=> 'نمی توانید بسته زبانی پیشفرض را حذف کنید.<br />اگر مایل به حذف این بسته زبانی هستید ابتدا بسته زبانی پیشفرض تالارتان را تغییر دهید.',
+	'NO_REMOVE_DEFAULT_LANG'		=> 'نمی توانید بسته زبانی پیش‌فرض را حذف کنید.<br />اگر مایل به حذف این بسته زبانی هستید ابتدا بسته زبانی پیش‌فرض تالارتان را تغییر دهید.',
 	'NO_UNINSTALLED_LANGUAGE_PACKS'	=> 'هیچ بسته زبانی حذف نشده است.',
 
 	'THOSE_MISSING_LANG_FILES'			=> 'فایل های مقابل از بسته زبانی %s گم شده اند',

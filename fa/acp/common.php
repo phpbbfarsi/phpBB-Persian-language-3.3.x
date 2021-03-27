@@ -81,7 +81,7 @@ $lang = array_merge($lang, array(
 	'ACP_CONTACT'				=> 'صفحه تماس با ما',
 	'ACP_CONTACT_SETTINGS'		=> 'تنظیمات صفحه تماس با ما',
 	'ACP_CRITICAL_LOGS'			=> 'گزارش خطا',
-	'ACP_CUSTOM_PROFILE_FIELDS'	=> 'فیلد های سفارشی پروفایل',
+	'ACP_CUSTOM_PROFILE_FIELDS'	=> 'فیلد های سفارشی نمایه',
 
 	'ACP_DATABASE'				=> 'مدیریت پایگاه داده',
 	'ACP_DISALLOW'				=> 'نپذیرفتن',
@@ -198,7 +198,7 @@ $lang = array_merge($lang, array(
 	'ACP_USER_OVERVIEW'				=> 'چشم انداز',
 	'ACP_USER_PERM'					=> 'سطوح دسترسی',
 	'ACP_USER_PREFS'				=> 'پیکربندی',
-	'ACP_USER_PROFILE'				=> 'پروفایل',
+	'ACP_USER_PROFILE'				=> 'نمایه',
 	'ACP_USER_RANK'					=> 'رتبه',
 	'ACP_USER_ROLES'				=> 'نوع دسترسی کاربر',
 	'ACP_USER_SECURITY'				=> 'امنیتی کاربر',
@@ -266,8 +266,8 @@ $lang = array_merge($lang, array(
 	'IP_HOSTNAME'			=> 'آدرس IP و یا نام هاست (hostname)',
 
 	'LATEST_VERSION'		=> 'آخرین نسخه',
-	'LOAD_NOTIFICATIONS'			=> 'نمایش یاد آوری ها',
-	'LOAD_NOTIFICATIONS_EXPLAIN'	=> 'نمایش "یادآوری ها" در همه صفحات ( بالای صفحه )',
+	'LOAD_NOTIFICATIONS'			=> 'نمایش اعلانات',
+	'LOAD_NOTIFICATIONS_EXPLAIN'	=> 'نمایش فهرست اعلانات در همه صفحات (معمولا در سربرگ).',
 	'LOGGED_IN_AS'			=> 'وارد شده با نام :',
 	'LOGIN_ADMIN'			=> 'برای مدیریت تالار، باید کاربر تأیید شده ای باشید.',
 	'LOGIN_ADMIN_CONFIRM'	=> 'برای مدیریت تالار باید مجددا خودتان را تأیید کنید',
@@ -298,7 +298,7 @@ $lang = array_merge($lang, array(
 	'PERMISSIONS_TRANSFERRED_EXPLAIN'	=> 'اخیرا سطح دسترسی %1$s را دارید. می توانید با سطوح دسترسی این کاربر در تالار گردش کنید. ولی تا زمانی که سطوح دسترسی مدیریت انتقال نشود، به کنترل پنل مدیریت دسترسی نخواهید داشت. در هر زمانی می توانید <a href="%2$s">.<strong>به سطوح دسترسی خود برگردید</strong></a>',
 	'PROCEED_TO_ACP'					=> '%sرفتن به کنترل پنل مدیریت%s',
 
-	'RELEASE_ANNOUNCEMENT'		=> 'اطلاعیه کلی',
+	'RELEASE_ANNOUNCEMENT'		=> 'اطلاعیه',
  	'REMIND'							=> 'یادآوری',
 	'REPARSE_LOCK_ERROR'				=> 'عملیات دیگری در حال انجام است.',
 	'RESYNC'							=> 'انطباق (syncorise)',
@@ -333,7 +333,7 @@ $lang = array_merge($lang, array(
 
 // PHP info
 $lang = array_merge($lang, array(
-	'ACP_PHP_INFO_EXPLAIN'	=> 'این صفحه اطلاعات و جزئیات نسخه PHP نصب شده در سرور را نمایش می دهد و شامل ماژول های بارگذاری شده، داده های در دسترس و تنظیمات پیشفرض می باشد. این اطلاعات در حین حل مشکلات ممکن است سودمند واقع شود. ممکن است بعضی از شرکت های هاستینگ اطلاعات نمایشی را به دلایل امنیتب محدود کنند. توصیه می شود که اطلاعات موجود در این صفحه را به هیچکس جزء <a href="http://www.phpbb.com/about/team/">اعضای تیم رسمی</a> بازگو نکنید.',
+	'ACP_PHP_INFO_EXPLAIN'	=> 'این صفحه اطلاعات و جزئیات نسخه PHP نصب شده در سرور را نمایش می دهد و شامل ماژول های بارگذاری شده، داده های در دسترس و تنظیمات پیش‌فرض می باشد. این اطلاعات در حین حل مشکلات ممکن است سودمند واقع شود. ممکن است بعضی از شرکت های هاستینگ اطلاعات نمایشی را به دلایل امنیتب محدود کنند. توصیه می شود که اطلاعات موجود در این صفحه را به هیچکس جزء <a href="http://www.phpbb.com/about/team/">اعضای تیم رسمی</a> بازگو نکنید.',
 
 	'NO_PHPINFO_AVAILABLE'	=> 'اطلاعات پیکربندی PHP شما قابل تشخیص نیست. Phpinfo() برای دلایل امنیتی بسته شده است.',
 ));
@@ -420,7 +420,7 @@ $lang = array_merge($lang, array(
 	'RESYNC_POSTCOUNTS_SUCCESS'			=> 'بازنشانی پست ها انجام شد.',
 	'RESYNC_POST_MARKING'			=> 'بازنشانی دوباره مباحث علامت گذاری شده.',
 	'RESYNC_POST_MARKING_CONFIRM'	=> 'آیا از بازنشانی مباحث علامت گذاری شده اطمینان دارید؟',
-	'RESYNC_POST_MARKING_EXPLAIN'	=> 'ابتدا علامت گذاری تمام تاپیک ها از بین می رود و سپس تاپیک هایی که در 6 ماه گذشته در انها هرگونه فعالیتی دیده شده علامت گذاری می شوند.',
+	'RESYNC_POST_MARKING_EXPLAIN'	=> 'ابتدا علامت گذاری تمام تاپیک ها از بین می رود و سپس تاپیک هایی که در 6 ماه گذشته در آن‌ها هرگونه فعالیتی دیده شده علامت گذاری می شوند.',
 	'RESYNC_POST_MARKING_SUCCESS'	=> 'بازنشانی مباحث علامت گذاری شده انجام شد',
 	'RESYNC_STATS'					=> 'بازنشانی اطلاعات و آمار',
 	'RESYNC_STATS_CONFIRM'			=> 'آیا از بازنشانی اطلاعات و آمار اطمینان دارید؟',
@@ -461,13 +461,13 @@ $lang = array_merge($lang, array(
 	'INACTIVE_DATE'					=> 'تاریخ عدم فعالیت',
 	'INACTIVE_REASON'				=> 'دلیل',
 	'INACTIVE_REASON_MANUAL'		=> 'اکانت توسط مدیر غیرفعال شده است',
-	'INACTIVE_REASON_PROFILE'		=> 'جزئیات پروفایل تغییر یافت',
+	'INACTIVE_REASON_PROFILE'		=> 'جزئیات نمایه تغییر یافت',
 	'INACTIVE_REASON_REGISTER'		=> 'اکانت هایی که به تازگی ثبت نام کرده اند',
 	'INACTIVE_REASON_REMIND'		=> 'کاربر مجبور به فعال سازی دوباره اکانت خود خواهد شد.',
 	'INACTIVE_REASON_UNKNOWN'		=> 'نامعلوم',
 	'INACTIVE_USERS'				=> 'کاربران غیرفعال',
-	'INACTIVE_USERS_EXPLAIN'		=> 'این لیستی از کاربران ثبت نام شده می باشد که اخیرا غیرفعال هستند. می توانید این کاربران را فعال،حذف کنید و یا به آنها ایمیلی به منظور یادآوری ارسال کنید.',
-	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'این لیستی از 10 کاربر اخیر ثبت نام کرده می باشد که اکانت آن ها غیرفعال هست. لیست کامل در منوی مربوطه و یا در لینک زیر در دسترس می باشد که در آن جا می توانید این کاربران را فعال و یا حذف کنید و همچنین می توانید به آنها ایمیل یادآوری ارسال کنید.',
+	'INACTIVE_USERS_EXPLAIN'		=> 'این لیستی از کاربران ثبت نام کرده می باشد که اکانت آن‌ها غیرفعال است. می توانید این کاربران را فعال، حذف و یا به آن‌ها ایمیلی به منظور یادآوری ارسال کنید.',
+	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'این لیستی از 10 کاربر اخیر ثبت نام کرده می باشد که اکانت آن‌ها غیرفعال است. لیست کامل در منوی مربوطه و یا در لینک زیر در دسترس می باشد که در آن جا می توانید این کاربران را فعال، حذف و یا به آن‌ها ایمیلی به منظور یادآوری ارسال کنید.',
 
 	'NO_INACTIVE_USERS'	=> 'کاربر غیرفعالی وجود ندارد',
 
@@ -483,7 +483,7 @@ $lang = array_merge($lang, array(
 
 // Help support phpBB page
 $lang = array_merge($lang, array(
-	'EXPLAIN_SEND_STATISTICS'	=> 'لطفا اطلاعات سرور و پیکربندی تالارتان را به phpBB به منظور آنالیز آنها،ارسال کنید. تمام اطلاعاتی که ممکن است حاوی هویت شما باشد،حذف خواهند شد. - اطلاعات کاملا <strong>بی نام</strong>خواهند بود. این اطلاعات برای عموم قابل دسترسی است و ما براساس این اطلاعات در مورد نسخه های بعدی phpBB تصمیم گیری می کنیم.همچنین این آمار با پروژه PHP که زبان برنامه نویسی phpBB هست نیز به اشتراک گذاشته خواهد شد.',
+	'EXPLAIN_SEND_STATISTICS'	=> 'لطفا اطلاعات سرور و پیکربندی تالارتان را به phpBB به منظور آنالیز آن‌ها،ارسال کنید. تمام اطلاعاتی که ممکن است حاوی هویت شما باشد،حذف خواهند شد. - اطلاعات کاملا <strong>بی نام</strong>خواهند بود. این اطلاعات برای عموم قابل دسترسی است و ما براساس این اطلاعات در مورد نسخه های بعدی phpBB تصمیم گیری می کنیم.همچنین این آمار با پروژه PHP که زبان برنامه نویسی phpBB هست نیز به اشتراک گذاشته خواهد شد.',
 	'EXPLAIN_SHOW_STATISTICS'	=> 'با استفاده از دکمه زیر می توانید تمامی اطلاعاتی را که منتقل خواهند شد، ببینید.',
 	'DONT_SEND_STATISTICS'		=> 'اگر مایل به ارسال آمار به phpBB نیستید، به کنترل پنل مدیریت بازگردید.',
 	'GO_ACP_MAIN'				=> 'بازگشت به صفحه شروع کنترل پنل مدیریت.',
@@ -647,7 +647,7 @@ $lang = array_merge($lang, array(
 	'LOG_GENERAL_ERROR'	=> '<strong>خطایی عمومی رخ داد</strong>: %1$s <br />» %2$s',
 
 	'LOG_GROUP_CREATED'		=> '<strong>گروه کاربری جدیدی ایجاد شد</strong><br />» %s',
-	'LOG_GROUP_DEFAULTS'	=> '<strong>گروه “%1$s” به عنوان گروه پیشفرض برای کاربران تأیید شد</strong><br />» %2$s',
+	'LOG_GROUP_DEFAULTS'	=> '<strong>گروه “%1$s” به عنوان گروه پیش‌فرض برای کاربران تأیید شد</strong><br />» %2$s',
 	'LOG_GROUP_DELETE'		=> '<strong>گروه کاربری حدف شد</strong><br />» %s',
 	'LOG_GROUP_DEMOTED'		=> '<strong>رتبه رهبران گروه کاربری در</strong> %1$s تنزیل شد<br />» %2$s',
 	'LOG_GROUP_PROMOTED'	=> '<strong>رتبه کاربران  گروه کاربری در </strong> %1$s ارتقاء یافت<br />» %2$s',
@@ -706,11 +706,11 @@ $lang = array_merge($lang, array(
 
 	'LOG_PLUPLOAD_TIDY_FAILED'		=> '<strong>قادر به باز کردن %1$s نیستم, سطوح دسترسی را بررسی کنید..</strong><br />استثنا: %2$s<br />مقدار: %3$s',
 
-	'LOG_PROFILE_FIELD_ACTIVATE'	=> '<strong>فیلد پروفایل فعال شد</strong><br />» %s',
-	'LOG_PROFILE_FIELD_CREATE'		=> '<strong>فیلد پروفایل اضافه شد</strong><br />» %s',
-	'LOG_PROFILE_FIELD_DEACTIVATE'	=> '<strong>فیلد پروفایل غیرفعال شد</strong><br />» %s',
-	'LOG_PROFILE_FIELD_EDIT'		=> '<strong>فیلد پروفایل تغییر یافت</strong><br />» %s',
-	'LOG_PROFILE_FIELD_REMOVED'		=> '<strong>فیلد پروفایل حذف شد</strong><br />» %s',
+	'LOG_PROFILE_FIELD_ACTIVATE'	=> '<strong>فیلد نمایه فعال شد</strong><br />» %s',
+	'LOG_PROFILE_FIELD_CREATE'		=> '<strong>فیلد نمایه اضافه شد</strong><br />» %s',
+	'LOG_PROFILE_FIELD_DEACTIVATE'	=> '<strong>فیلد نمایه غیرفعال شد</strong><br />» %s',
+	'LOG_PROFILE_FIELD_EDIT'		=> '<strong>فیلد نمایه تغییر یافت</strong><br />» %s',
+	'LOG_PROFILE_FIELD_REMOVED'		=> '<strong>فیلد نمایه حذف شد</strong><br />» %s',
 
 	'LOG_PRUNE'					=> '<strong>انجمن ها هرس شدند</strong><br />» %s',
 	'LOG_AUTO_PRUNE'			=> '<strong>انجمن ها به صورت خودکار هرس شدند</strong><br />» %s',
@@ -806,7 +806,7 @@ $lang = array_merge($lang, array(
 	'LOG_USER_WARNING'			=> '<strong>هشدار به کاربر اضافه شد</strong><br />» %s',
 	'LOG_USER_WARNING_BODY'		=> '<strong>هشدار مقابل به کاربر ارسال شد</strong><br />» %s',
 
-	'LOG_USER_GROUP_CHANGE'			=> '<strong>کاربر گروه پیشفرضش را تغییر داد</strong><br />» %s',
+	'LOG_USER_GROUP_CHANGE'			=> '<strong>کاربر گروه پیش‌فرضش را تغییر داد</strong><br />» %s',
 	'LOG_USER_GROUP_DEMOTE'			=> '<strong>رتبه رهبری کاربر در گروه کاربری تنزل یافت</strong><br />» %s',
 	'LOG_USER_GROUP_JOIN'			=> '<strong>کاربر در گروه عضو شد</strong><br />» %s',
 	'LOG_USER_GROUP_JOIN_PENDING'	=> '<strong>کاربر در گروه عضو شد و نیازمند تأیید است</strong><br />» %s',

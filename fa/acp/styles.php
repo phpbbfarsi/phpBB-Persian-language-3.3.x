@@ -46,7 +46,7 @@ $lang = array_merge($lang, [
 	'CONFIRM_UNINSTALL_STYLES'		=> 'آیا از حذف قالب انتخابی اطمینان دارید؟',
 	'COPYRIGHT'						=> 'کپی رایت',
 
-	'DEACTIVATE_DEFAULT'		=> 'نمی توانید قالب پیشفرض را غیرفعال کنید.',
+	'DEACTIVATE_DEFAULT'		=> 'نمی توانید قالب پیش‌فرض را غیرفعال کنید.',
 	'DELETE_FROM_FS'			=> 'حذف از سیستم فایل',
 	'DELETE_STYLE_FILES_FAILED'	=> 'خطا در حذف فایل های قالب "%s".',
 	'DELETE_STYLE_FILES_SUCCESS'	=> 'فایل های قالب "%s" حذف شدند.',
@@ -55,7 +55,7 @@ $lang = array_merge($lang, [
 	'INHERITING_FROM'			=> 'برگرفته از',
 	'INSTALL_STYLE'				=> 'نصب قالب',
 	'INSTALL_STYLES'			=> 'نصب قالب ها',
-	'INSTALL_STYLES_EXPLAIN'		=> 'در این بخش می توانید قالبی را همراه با عناصر آن نصب کنید،عناصر اضافه شده موجب حذف شدن عناصر قبلی نخواهند شد،بعضی از قالب ها نیازمند عناصر پیشفرض هستند،اگر قالبی این چنین بود، به شما اطلاع داده خواهد شد.',
+	'INSTALL_STYLES_EXPLAIN'		=> 'در این بخش می توانید قالبی را همراه با عناصر آن نصب کنید،عناصر اضافه شده موجب حذف شدن عناصر قبلی نخواهند شد،بعضی از قالب ها نیازمند عناصر پیش‌فرض هستند،اگر قالبی این چنین بود، به شما اطلاع داده خواهد شد.',
 	'INVALID_STYLE_ID'			=> 'شماره قالب معتبر نیست.',
 
 	'NO_MATCHING_STYLES_FOUND'	=> 'قالبی یافت نشد.',
@@ -68,8 +68,8 @@ $lang = array_merge($lang, [
 	'STYLE_ACTIVATE'			=> 'فعال سازی',
 	'STYLE_ACTIVE'				=> 'فعال',
 	'STYLE_DEACTIVATE'			=> 'غیر فعال',
-	'STYLE_DEFAULT'				=> 'به عنوان قالب پیش فرض',
-	'STYLE_DEFAULT_CHANGE_INACTIVE'	=> 'قبل از انتخاب به عنوان قالب پیش فرض باید قالب را فعال کنید.',
+	'STYLE_DEFAULT'				=> 'به عنوان قالب پیش‌فرض',
+	'STYLE_DEFAULT_CHANGE_INACTIVE'	=> 'قبل از انتخاب به عنوان قالب پیش‌فرض باید قالب را فعال کنید.',
 	'STYLE_ERR_INVALID_PARENT'	=> 'پدر قالب نامعتبر است.',
 	'STYLE_ERR_NAME_EXIST'		=> 'قالبی با این عنوان موجود است.',
 	'STYLE_ERR_STYLE_NAME'		=> 'برای این قالب باید نامی انتخاب کنید.',
@@ -88,7 +88,7 @@ $lang = array_merge($lang, [
 	'STYLE_VERSION'				=> 'نسخه قالب',
 
 	'UNINSTALL_PROSILVER'		=> 'نمیتوانید قالب prosilver را حذف کنید.',
-	'UNINSTALL_DEFAULT'			=> 'نمیتوانید قالب پیشفرض را حذف کنید.',
+	'UNINSTALL_DEFAULT'			=> 'نمیتوانید قالب پیش‌فرض را حذف کنید.',
  
 	'BROWSE_STYLES_DATABASE'	=> 'جست‌وجوی قالب در پایگاه',
 ]);
