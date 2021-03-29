@@ -82,7 +82,7 @@ $lang = array_merge($lang, array(
 	'ALL_FORUMS'					=> 'همه انجمن ها',
 	'ALL_MESSAGES'					=> 'همه پیام ها',
 	'ALL_POSTS'						=> 'همه پست ها',
-	'ALL_TIMES'						=> 'تمام زمان ها براساس <span title="%2$s">%1$s</span>',
+	'ALL_TIMES'						=> 'تمام زمان ها بر اساس <span title="%2$s">%1$s</span>',
 	'ALL_TOPICS'					=> 'همه موضوعات',
 	'ALT_TEXT'						=> 'متن جایگزین',
 	'AND'							=> 'و',
