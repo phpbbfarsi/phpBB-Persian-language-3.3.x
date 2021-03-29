@@ -112,8 +112,8 @@ $lang = array_merge($lang, array(
 	'LICENSE'				=> 'لایسنس',
 
 	'REQUIREMENTS'			=> 'پیش نیاز',
-	'PHPBB_VERSION'			=> 'phpBB ورژن',
-	'PHP_VERSION'			=> 'PHP ورژن',
+	'PHPBB_VERSION'			=> 'phpBB نسخه',
+	'PHP_VERSION'			=> 'PHP نسخه',
 	'AUTHOR_INFORMATION'	=> 'اطلاعات نویسنده',
 	'AUTHOR_NAME'			=> 'نام',
 	'AUTHOR_EMAIL'			=> 'ایمیل',
