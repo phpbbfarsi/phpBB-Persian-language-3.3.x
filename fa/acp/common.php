@@ -324,8 +324,8 @@ $lang = array_merge($lang, array(
 	'USERNAMES_EXPLAIN'		=> 'هر نام کاربری را در سطر جداگانه ای قرار دهید.',
 	'USER_CONTROL_PANEL'	=> 'کنترل پنل کاربر',
 
-	'UPDATE_NEEDED'			=> 'انجمن به روز نمیباشد',
-	'UPDATE_NOT_NEEDED'		=> 'انجمن به روز میباشد',
+	'UPDATE_NEEDED'			=> 'انجمن به روز نمی‌باشد',
+	'UPDATE_NOT_NEEDED'		=> 'انجمن به روز می‌باشد',
 	'UPDATES_AVAILABLE'		=> 'آپدیت جدید:',
 
 	'WARNING'				=> 'هشدار',
@@ -446,9 +446,9 @@ $lang = array_merge($lang, array(
 	'VERSIONCHECK_INVALID_ENTRY'	=> 'اطلاعات مربوط به آخرین نسخه شامل مطلب پشتیبانی نشده است.',
 	'VERSIONCHECK_INVALID_URL'		=> 'اطلاعات آخرین نسخه شامل آدرس لینک نا معتبر است.',
 	'VERSIONCHECK_INVALID_VERSION'	=> 'اطلاعات مربوط به آخرین نسخه شامل نسخه نامربوط است.',
-	'VERSION_NOT_UP_TO_DATE_ACP'	=> 'نسخه انجمن شما به روز نمیباشد<br />در پایین لینک اطلاعیه وجود دارد, که شامل اطلاعات مربوط به آپدیت جدید میباشد',
-	'VERSION_NOT_UP_TO_DATE_TITLE'	=> 'نسخه انجمن شما به روز نمیباشد',
-	'VERSION_UP_TO_DATE_ACP'	=> 'نسخه انجمن شما به روز میباشد. آپدیت جدیدی وجود ندارد.',
+	'VERSION_NOT_UP_TO_DATE_ACP'	=> 'نسخه انجمن شما به روز نمی‌باشد<br />در پایین لینک اطلاعیه وجود دارد, که شامل اطلاعات مربوط به آپدیت جدید می‌باشد',
+	'VERSION_NOT_UP_TO_DATE_TITLE'	=> 'نسخه انجمن شما به روز نمی‌باشد',
+	'VERSION_UP_TO_DATE_ACP'	=> 'نسخه انجمن شما به روز می‌باشد. آپدیت جدیدی وجود ندارد.',
 	'VIEW_ADMIN_LOG'			=> 'مشاهده رویداد های مدیریت',
 	'VIEW_INACTIVE_USERS'		=> 'مشاهده کاربران غیرفعال',
 
@@ -826,5 +826,5 @@ $lang = array_merge($lang, array(
 	'LOG_EXT_ENABLE'	=> '<strong>افزونه فعال شد</strong><br />» %s',
 	'LOG_EXT_DISABLE'	=> '<strong>افزونه غیر فعال شد</strong><br />» %s',
 	'LOG_EXT_PURGE'		=> '<strong>داده های افزونه حذف شد.</strong><br />» %s',
-	'LOG_EXT_UPDATE'	=> '<strong>افزونه به روز میباشد</strong><br />» %s',
+	'LOG_EXT_UPDATE'	=> '<strong>افزونه به روز می‌باشد</strong><br />» %s',
 ));

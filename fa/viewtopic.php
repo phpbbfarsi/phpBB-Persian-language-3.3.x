@@ -94,7 +94,7 @@ $lang = array_merge($lang, array(
 	'POLL_ENDED_AT'			=> 'پایان نظرسنجی در %s',
 	'POLL_RUN_TILL'			=> 'مدت زمان نظر سنجی تا %s ادامه خواهد داشت.',
 	'POLL_VOTED_OPTION'		=> 'شما به این گزینه رأی داده اید',
-	'POST_DELETED_RESTORE'	=> 'این پست حذف شده، اما قابل بازگردانی میباشد.',
+	'POST_DELETED_RESTORE'	=> 'این پست حذف شده، اما قابل بازگردانی می‌باشد.',
 	'PRINT_TOPIC'			=> 'نمایش حالت چاپ',
 
 	'QUICK_MOD'				=> 'ابزار فوری',
