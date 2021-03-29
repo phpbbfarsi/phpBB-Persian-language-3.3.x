@@ -76,31 +76,31 @@ $lang = array_merge($lang, array(
 	'EXTENSION_INSTALL_HEADLINE'=> 'نصب افزونه',
 	'EXTENSION_INSTALL_EXPLAIN'	=> '<ol>
 			<li>دانلود یک افزونه از پایگاه phpBB</li>
-			<li>در آوردن از حالت فشرده و اپلود فایل ها در پوشه <samp>ext/</samp> واقع در دایرکتوری phpBB</li>
+			<li>در آوردن از حالت فشرده و بارگذاری فایل ها در پوشه <samp>ext/</samp> واقع در تالار phpBB شما</li>
 			<li>فعال سازی افزونه واقع در بخش مدیریت افزونه ها</li>
 		</ol>',
-	'EXTENSION_UPDATE_HEADLINE'	=> 'مراحل به‌روز رسانی افزونه',
+	'EXTENSION_UPDATE_HEADLINE'	=> 'به‌روز رسانی افزونه',
 	'EXTENSION_UPDATE_EXPLAIN'	=> '<ol>
-			<li>غیر فعال کردن افزونه</li>
-			<li>حذف فایل های افزونه آپلود شده</li>
-			<li>بارگزاری فایل های جدید</li>
+			<li>غیرفعال کردن افزونه</li>
+			<li>حذف فایل های افزونه</li>
+			<li>بارگذاری فایل های جدید</li>
 			<li>فعال سازی افزونه</li>
 		</ol>',
-	'EXTENSION_REMOVE_HEADLINE'	=> 'مراحل حذف کامل افزونه از انجمن',
+	'EXTENSION_REMOVE_HEADLINE'	=> 'مراحل حذف کامل افزونه از تالار',
 	'EXTENSION_REMOVE_EXPLAIN'	=> '<ol>
-			<li>غیر فعال کردن افزونه</li>
+			<li>غیرفعال کردن افزونه</li>
 			<li>حذف داده های افزونه</li>
-			<li>حذف فایل های افزونه آپلود شده</li>
+			<li>حذف فایل های افزونه</li>
 		</ol>',
 
 	'EXTENSION_DELETE_DATA_CONFIRM'	=> 'آیا از حذف داده های مرتبط با افزونه “%s” اطمینان دارید؟<br /><br />این کار باعث میشود تمامی تنظیمات مربوط به افزونه از بین برود.',
 	'EXTENSION_DISABLE_CONFIRM'		=> 'آیا از غیر فعال کردن افزونه “%s” اطمینان دارید؟',
 	'EXTENSION_ENABLE_CONFIRM'		=> 'آیا از فعال کردن افزونه “%s” اطمینان دارید؟',
-	'EXTENSION_FORCE_UNSTABLE_CONFIRM'	=> 'آیا از استفاده کردن اجباری این افزونه اطمینان دارید؟',
+	'EXTENSION_FORCE_UNSTABLE_CONFIRM'	=> 'آیا از استفاده کردن اجباری از این نسخه ناپایدار اطمینان دارید؟',
 
 	'RETURN_TO_EXTENSION_LIST'	=> 'بازگشت به لیست افزونه ها',
 
-	'EXT_DETAILS'			=> 'جزئیات افزونه ها',
+	'EXT_DETAILS'			=> 'جزئیات افزونه',
 	'DISPLAY_NAME'			=> 'نمایش نام',
 	'CLEAN_NAME'			=> 'نام',
 	'TYPE'					=> 'نوع',

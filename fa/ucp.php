@@ -108,7 +108,7 @@ $lang = array_merge($lang, array(
 	'AVATAR_EXPLAIN_NO_FILESIZE'	=> 'حداکثر اندازه; عرض: %1$s, طول: %2$s.',
 	'AVATAR_FEATURES_DISABLED'		=> 'قابلیت آواتار کاربر در حال حاضر غیرفعال است.',
 	'AVATAR_GALLERY'		=> 'گالری محلی',
-	'AVATAR_GENERAL_UPLOAD_ERROR'	=> 'آواتار به %s آپلود نشد',
+	'AVATAR_GENERAL_UPLOAD_ERROR'	=> 'آواتار به %s بارگذاری نشد',
 	'AVATAR_NOT_ALLOWED'	=> 'آواتار کاربر قابل مشاهده نیست، زیرا قابلیت آن غیر فعال شده است',
 	'AVATAR_PAGE'			=> 'صفحه',
 	'AVATAR_SELECT'			=> 'آواتار خود را انتخاب کنید.',
@@ -547,7 +547,7 @@ $lang = array_merge($lang, array(
 
 	'UCP_NOTIFICATION_LIST'	=> 'مدیریت اعلانات',
 	'UCP_NOTIFICATION_LIST_EXPLAIN'	=> 'در این قسمت شما میتوانید تمام اعلانات را مشاهده کنید.',
-	'UCP_NOTIFICATION_OPTIONS'		=> 'تنطیمات اعلانات',
+	'UCP_NOTIFICATION_OPTIONS'		=> 'تنظیمات اعلانات',
 	'UCP_NOTIFICATION_OPTIONS_EXPLAIN'	=> 'در این قسمت شما میتوانید تنظیمات مربوط به اعلانات را انجام دهید.',
 
 	'UCP_PREFS'			=> 'تنظیمات تالار',
