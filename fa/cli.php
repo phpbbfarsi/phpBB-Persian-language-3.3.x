@@ -73,7 +73,7 @@ $lang = array_merge($lang, array(
 	
 	'CLI_DESCRIPTION_PURGE_EXTENSION'			=> 'پاکسازی افزونه مشخص.',
 
-	'CLI_DESCRIPTION_REPARSER_LIST'				=> 'لیست انوع متنی که میتوانید استفاده کنید',
+	'CLI_DESCRIPTION_REPARSER_LIST'				=> 'لیست انوع متنی که می‌توانید استفاده کنید',
 	'CLI_DESCRIPTION_REPARSER_AVAILABLE'				=> 'جایگزینی متن موجود:',
 	'CLI_DESCRIPTION_REPARSER_REPARSE'			=> 'متن ذخیره شده فعلی را با سرویس text_formatter جایگزین  میکند',
 	'CLI_DESCRIPTION_REPARSER_REPARSE_ARG_1'	=> 'نوع متن برای جایگزینی. برای جایگزینی با هرچیزی این بخش را خالی بگذارید.',
@@ -171,7 +171,7 @@ $lang = array_merge($lang, array(
 
 // Additional help for commands.
 $lang = array_merge($lang, array(
-	'CLI_HELP_CRON_RUN'			=> $lang['CLI_DESCRIPTION_CRON_RUN'] . ' در صورت تمایل شما میتوانید نام یک و ظیفه را برای اجرا برای یک کار مشخص کنید.',
+	'CLI_HELP_CRON_RUN'			=> $lang['CLI_DESCRIPTION_CRON_RUN'] . ' در صورت تمایل شما می‌توانید نام یک و ظیفه را برای اجرا برای یک کار مشخص کنید.',
 		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیرفعال سازی اکانت  ها توسط <info>--غیرفعال</info> گزینه.
 به صورت اختیاری ایمیل فعال سازی برای کاربر ارسال کنید <info>--ارسال ایمیل</info> گزینه.',
 	'CLI_HELP_USER_ADD'			=> ' <info>%command.name%</info> دستور اضافه کردن کاربر:

@@ -40,7 +40,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, [
-	'ACP_STYLES_EXPLAIN'	        => 'در این بخش میتوانید به مدیریت قالب های انجمن خود بپردازید.',
+	'ACP_STYLES_EXPLAIN'	        => 'در این بخش می‌توانید به مدیریت قالب های انجمن خود بپردازید.',
 
 	'CANNOT_BE_INSTALLED'			=> 'امکان نصب وجود ندارد.',
 	'CONFIRM_UNINSTALL_STYLES'		=> 'آیا از حذف قالب انتخابی اطمینان دارید؟',
@@ -87,8 +87,8 @@ $lang = array_merge($lang, [
 	'STYLE_USED_BY'				=> 'استفاده توسط جست‌وجوگرها',
 	'STYLE_VERSION'				=> 'نسخه قالب',
 
-	'UNINSTALL_PROSILVER'		=> 'نمیتوانید قالب prosilver را حذف کنید.',
-	'UNINSTALL_DEFAULT'			=> 'نمیتوانید قالب پیش‌فرض را حذف کنید.',
+	'UNINSTALL_PROSILVER'		=> 'نمی‌توانید قالب prosilver را حذف کنید.',
+	'UNINSTALL_DEFAULT'			=> 'نمی‌توانید قالب پیش‌فرض را حذف کنید.',
  
 	'BROWSE_STYLES_DATABASE'	=> 'جست‌وجوی قالب در پایگاه',
 ]);

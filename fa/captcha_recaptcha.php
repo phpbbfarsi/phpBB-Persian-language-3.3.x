@@ -53,8 +53,8 @@ $lang = array_merge($lang, [
 	'RECAPTCHA_V3_LOGIN_ERROR_ATTEMPTS'	=> 'شما بیشتر از حداکثر تعداد مجاز ورود به سیستم تلاش کرده اید.<br>علاوه بر نام کاربری و گذرواژه، از ریکپچا نسخه۳ نامرئی برای تأیید اعتبار جلسه شما استفاده خواهد شد.',
 
 	'RECAPTCHA_PUBLIC'				=> 'کلید سایت',
-	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'کلید ریکپچا سایت شما. کلید را میتوانید از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا, از ریکپچا نسخه۲ استفاده کنید که از نوع مخفی است.',
-	'RECAPTCHA_V3_PUBLIC_EXPLAIN'	=> 'کلید ریکپچا سایت شما. کلید را میتوانید از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا از ریکپچا نسخه 3 استفاده کنید.',
+	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'کلید ریکپچا سایت شما. کلید را می‌توانید از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا, از ریکپچا نسخه۲ استفاده کنید که از نوع مخفی است.',
+	'RECAPTCHA_V3_PUBLIC_EXPLAIN'	=> 'کلید ریکپچا سایت شما. کلید را می‌توانید از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا از ریکپچا نسخه 3 استفاده کنید.',
  	'RECAPTCHA_PRIVATE'				=> 'کلید مخفی',
 	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'کلید مخفی ریکپچا شما. از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا از ریکپچا نسخه۲ استفاده کنید که از نوع مخفی است.',
 	'RECAPTCHA_V3_PRIVATE_EXPLAIN'	=> 'کلید مخفی ریکپچا شما. از اینجا تهیه کنید.  <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. ریکپچا نسخه2 استفاده کنید.',

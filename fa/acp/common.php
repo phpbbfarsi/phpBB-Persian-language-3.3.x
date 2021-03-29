@@ -128,7 +128,7 @@ $lang = array_merge($lang, array(
 	'ACP_MAIN'					=> 'صفحه اصلی کنترل پنل مدیریت',
 
 	'ACP_MANAGE_ATTACHMENTS'			=> 'مدیریت پیوست ها',
-	'ACP_MANAGE_ATTACHMENTS_EXPLAIN'	=> 'در این قسمت شما میتوانید لیست و حذف فایل های پیوست در پست ها و پیام های خصوصی را ببینید.',
+	'ACP_MANAGE_ATTACHMENTS_EXPLAIN'	=> 'در این قسمت شما می‌توانید لیست و حذف فایل های پیوست در پست ها و پیام های خصوصی را ببینید.',
 
 	'ACP_MANAGE_EXTENSIONS'		=> 'مدیریت پسوند پیوست ها',
 	'ACP_MANAGE_FORUMS'			=> 'مدیریت انجمن ها',
