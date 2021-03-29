@@ -59,7 +59,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_DB_MIGRATE'				=> 'به‌روز رسانی دیتابیس توسط تثبیت انتقال Migration',
 	'CLI_DESCRIPTION_DB_REVERT'					=> 'انتقال مجدد',
 	'CLI_DESCRIPTION_DELETE_CONFIG'				=> 'حذف گزینه پیکربندی',
-	'CLI_DESCRIPTION_DISABLE_EXTENSION'			=> 'غیر فعال کردن افزونه مورد مشخص.',
+	'CLI_DESCRIPTION_DISABLE_EXTENSION'			=> 'غیرفعال کردن افزونه مورد مشخص.',
 	'CLI_DESCRIPTION_ENABLE_EXTENSION'			=> 'فعال کردن افزونه مشخص.',
 	'CLI_DESCRIPTION_FIND_MIGRATIONS'			=> 'پیدا کردن انتقال بدون وابسطه.',
 	'CLI_DESCRIPTION_FIX_LEFT_RIGHT_IDS'		=> 'تعمیر ساختار درختی انجمن ها و مدل ها ',
@@ -100,9 +100,9 @@ $lang = array_merge($lang, array(
 	
 	'CLI_ERROR_INVALID_STABILITY' => '"%s" نیاز به تنظیم به پایدار یا ناپایدار است.',
 	
-	'CLI_DESCRIPTION_USER_ACTIVATE'				=> 'فعال یا غیر فعال بودن یک کاربر',
+	'CLI_DESCRIPTION_USER_ACTIVATE'				=> 'فعال یا غیرفعال بودن یک کاربر',
 	'CLI_DESCRIPTION_USER_ACTIVATE_USERNAME'	=> 'نام کاربری یک اکانت برای فعال سازی',
-	'CLI_DESCRIPTION_USER_ACTIVATE_DEACTIVATE'	=> 'غیر فعال سازی اکانت کاربر',
+	'CLI_DESCRIPTION_USER_ACTIVATE_DEACTIVATE'	=> 'غیرفعال سازی اکانت کاربر',
 	'CLI_DESCRIPTION_USER_ACTIVATE_ACTIVE'		=> 'کاربر در حال حاضر فعال است',
 	'CLI_DESCRIPTION_USER_ACTIVATE_INACTIVE'	=> 'کاربر درحال حاضر غیرفعال است',
 	'CLI_DESCRIPTION_USER_ADD'					=> 'اضافه کردن کاربر جدید',
@@ -115,8 +115,8 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_USER_DELETE_OPTION_POSTS'	=> 'حذف تمامی پست های کاربر. بدون انجام این گزینه پست های کاربر همچنان باقی خواهد ماند.',
 	'CLI_DESCRIPTION_USER_RECLEAN'				=> 'پاکسازی مجدد نام های کاربری',
  
-	'CLI_EXTENSION_DISABLE_FAILURE'		=> 'امکان غیر فعال سازی افزونه %s وجود ندارد.',
-	'CLI_EXTENSION_DISABLE_SUCCESS'		=> 'افزونه %s با موفقیت غیر فعال شد.',
+	'CLI_EXTENSION_DISABLE_FAILURE'		=> 'امکان غیرفعال سازی افزونه %s وجود ندارد.',
+	'CLI_EXTENSION_DISABLE_SUCCESS'		=> 'افزونه %s با موفقیت غیرفعال شد.',
 	'CLI_EXTENSION_DISABLED'			=> 'افزونه %sفعال نیست',
 	'CLI_EXTENSION_ENABLE_FAILURE'		=> 'امکان فعال سازی افزونه %s وجود ندارد.',
 	'CLI_EXTENSION_ENABLE_SUCCESS'		=> 'افزونه %s با موفقیت فعال شد.',
@@ -130,7 +130,7 @@ $lang = array_merge($lang, array(
 	'CLI_EXTENSION_NOT_FOUND'			=> 'افزونه ای یافت نشد.',
 	'CLI_EXTENSION_NOT_ENABLEABLE'		=> 'افزونه %s فعال نیست',
         'CLI_EXTENSIONS_AVAILABLE' => 'موجود',
-        'CLI_EXTENSIONS_DISABLED' => 'غیر فعال',
+        'CLI_EXTENSIONS_DISABLED' => 'غیرفعال',
         'CLI_EXTENSIONS_ENABLED' => 'فعال',
 
     'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار  درختی انجمن ها و مدل ها با موفقیت انجام شد. ',
@@ -172,7 +172,7 @@ $lang = array_merge($lang, array(
 // Additional help for commands.
 $lang = array_merge($lang, array(
 	'CLI_HELP_CRON_RUN'			=> $lang['CLI_DESCRIPTION_CRON_RUN'] . ' در صورت تمایل شما میتوانید نام یک و ظیفه را برای اجرا برای یک کار مشخص کنید.',
-		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیر فعال سازی اکانت  ها توسط <info>--غیر فعال</info> گزینه.
+		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیرفعال سازی اکانت  ها توسط <info>--غیرفعال</info> گزینه.
 به صورت اختیاری ایمیل فعال سازی برای کاربر ارسال کنید <info>--ارسال ایمیل</info> گزینه.',
 	'CLI_HELP_USER_ADD'			=> ' <info>%command.name%</info> دستور اضافه کردن کاربر:
 اگر دستور اجرا بدون گزینه انجام شود از شما میخواهد که وارد آن شوید.

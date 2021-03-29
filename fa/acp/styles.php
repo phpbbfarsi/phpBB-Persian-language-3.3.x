@@ -67,7 +67,7 @@ $lang = array_merge($lang, [
 
 	'STYLE_ACTIVATE'			=> 'فعال سازی',
 	'STYLE_ACTIVE'				=> 'فعال',
-	'STYLE_DEACTIVATE'			=> 'غیر فعال',
+	'STYLE_DEACTIVATE'			=> 'غیرفعال',
 	'STYLE_DEFAULT'				=> 'به عنوان قالب پیش‌فرض',
 	'STYLE_DEFAULT_CHANGE_INACTIVE'	=> 'قبل از انتخاب به عنوان قالب پیش‌فرض باید قالب را فعال کنید.',
 	'STYLE_ERR_INVALID_PARENT'	=> 'پدر قالب نامعتبر است.',

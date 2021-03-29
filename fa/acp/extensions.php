@@ -51,23 +51,23 @@ $lang = array_merge($lang, array(
 
 	'DETAILS'				=> 'جزئیات',
 
-	'EXTENSIONS_DISABLED'	=> 'افزونه های غیر فعال',
+	'EXTENSIONS_DISABLED'	=> 'افزونه های غیرفعال',
 	'EXTENSIONS_ENABLED'	=> 'افزونه های فعال',
 
 	'EXTENSION_DELETE_DATA'	=> 'حذف کلی اطلاعات',
-	'EXTENSION_DISABLE'		=> 'غیر فعال',
+	'EXTENSION_DISABLE'		=> 'غیرفعال',
 	'EXTENSION_ENABLE'		=> 'فعال',
 
 	'EXTENSION_DELETE_DATA_EXPLAIN'	=> 'حذف کلی اطلاعات افزونه به معنی حذف کامل داده ها و تنظیمات مربوط به آن است. اما فایل ها و پوشه های افزونه همچنان باقیست و میتوان دوباره آن را فعال کرد.',
-	'EXTENSION_DISABLE_EXPLAIN'		=> 'غیر فعال کردن افزونه به معنای حفظ داده ها ، فایل ها و تنظیمات است اما عملکرد و کارایی افزونه تا فعال کردن مجدد از بین خواهد رفت.',
+	'EXTENSION_DISABLE_EXPLAIN'		=> 'غیرفعال کردن افزونه به معنای حفظ داده ها ، فایل ها و تنظیمات است اما عملکرد و کارایی افزونه تا فعال کردن مجدد از بین خواهد رفت.',
 	'EXTENSION_ENABLE_EXPLAIN'		=> 'فعال کردن افزونه به شما اجازه استفاده از آن را میدهد.',
 
 	'EXTENSION_DELETE_DATA_IN_PROGRESS'	=> 'داده های افزونه در حال حذف می باشند. لطفا تا کامل شدن مراحل حذف ،این صفحه را ترک یا رفرش نکنید.',
-	'EXTENSION_DISABLE_IN_PROGRESS'	=> 'افزونه در حال غیر فعال شدن است. تا کامل شدن مراحل ، لطفا این صفحه را ترک یا رفرش نکنید.',
+	'EXTENSION_DISABLE_IN_PROGRESS'	=> 'افزونه در حال غیرفعال شدن است. تا کامل شدن مراحل ، لطفا این صفحه را ترک یا رفرش نکنید.',
 	'EXTENSION_ENABLE_IN_PROGRESS'	=> 'افزونه در حال فعال شدن است. تا کامل شدن مراحل لطفا این صفحه را ترک یا رفرش نکنید.',
 
 	'EXTENSION_DELETE_DATA_SUCCESS'	=> 'داده های مربوط به افزونه با موفقیت حذف شد.',
-	'EXTENSION_DISABLE_SUCCESS'		=> 'افزونه با موفقیت غیر فعال شد.',
+	'EXTENSION_DISABLE_SUCCESS'		=> 'افزونه با موفقیت غیرفعال شد.',
 	'EXTENSION_ENABLE_SUCCESS'		=> 'افزونه با موفقیت فعال شد.',
 
 	'EXTENSION_NAME'			=> 'افزونه ها',
@@ -94,7 +94,7 @@ $lang = array_merge($lang, array(
 		</ol>',
 
 	'EXTENSION_DELETE_DATA_CONFIRM'	=> 'آیا از حذف داده های مرتبط با افزونه “%s” اطمینان دارید؟<br /><br />این کار باعث میشود تمامی تنظیمات مربوط به افزونه از بین برود.',
-	'EXTENSION_DISABLE_CONFIRM'		=> 'آیا از غیر فعال کردن افزونه “%s” اطمینان دارید؟',
+	'EXTENSION_DISABLE_CONFIRM'		=> 'آیا از غیرفعال کردن افزونه “%s” اطمینان دارید؟',
 	'EXTENSION_ENABLE_CONFIRM'		=> 'آیا از فعال کردن افزونه “%s” اطمینان دارید؟',
 	'EXTENSION_FORCE_UNSTABLE_CONFIRM'	=> 'آیا از استفاده کردن اجباری از این نسخه ناپایدار اطمینان دارید؟',
 

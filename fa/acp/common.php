@@ -229,7 +229,7 @@ $lang = array_merge($lang, array(
 
 	'BACK'					=> 'بازگشت',
 
-	'CONTAINER_EXCEPTION' => 'در هنگام نصب افزونه امکان خطا وجود دارد. به همین جهت در این هنگام به صورت موقت تمامی افزونه ها غیر فعال میشود. لطفا کش را از صفحه اصلی پاک کنید. هنگامیکه خطاها رفع شود مجدد افزونه ها فعال خواهد شد. چنانچه این مشکل ادامه دار شد با پشتیبانی زیر تماس بگیرید <a href="https://www.phpbb.com/support">phpBB.com</a> ',
+	'CONTAINER_EXCEPTION' => 'در هنگام نصب افزونه امکان خطا وجود دارد. به همین جهت در این هنگام به صورت موقت تمامی افزونه ها غیرفعال میشود. لطفا کش را از صفحه اصلی پاک کنید. هنگامیکه خطاها رفع شود مجدد افزونه ها فعال خواهد شد. چنانچه این مشکل ادامه دار شد با پشتیبانی زیر تماس بگیرید <a href="https://www.phpbb.com/support">phpBB.com</a> ',
 	'EXCEPTION' => 'استثنا',
 
 	'COLOUR_SWATCH'			=> ' تغییر رنگ Web-safe swatch',
@@ -824,7 +824,7 @@ $lang = array_merge($lang, array(
 	'LOG_WORD_EDIT'			=> '<strong>سانسور کلمه ویرایش شد</strong><br />» %s',
 
 	'LOG_EXT_ENABLE'	=> '<strong>افزونه فعال شد</strong><br />» %s',
-	'LOG_EXT_DISABLE'	=> '<strong>افزونه غیر فعال شد</strong><br />» %s',
+	'LOG_EXT_DISABLE'	=> '<strong>افزونه غیرفعال شد</strong><br />» %s',
 	'LOG_EXT_PURGE'		=> '<strong>داده های افزونه حذف شد.</strong><br />» %s',
 	'LOG_EXT_UPDATE'	=> '<strong>افزونه به روز می‌باشد</strong><br />» %s',
 ));
