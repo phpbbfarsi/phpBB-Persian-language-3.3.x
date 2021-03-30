@@ -43,7 +43,7 @@ $lang = array_merge($lang, [
 	'ACP_STYLES_EXPLAIN'	        => 'در این بخش می‌توانید به مدیریت قالب های انجمن خود بپردازید.',
 
 	'CANNOT_BE_INSTALLED'			=> 'امکان نصب وجود ندارد.',
-	'CONFIRM_UNINSTALL_STYLES'		=> 'آیا از حذف قالب انتخابی مطمئن هستید؟',
+	'CONFIRM_UNINSTALL_STYLES'		=> 'آیا از حذف قالب انتخابی مطمئنید؟',
 	'COPYRIGHT'						=> 'کپی رایت',
 
 	'DEACTIVATE_DEFAULT'		=> 'نمی توانید قالب پیش‌فرض را غیرفعال کنید.',

@@ -160,7 +160,7 @@ $lang = array_merge($lang, array(
 	'CLI_THUMBNAIL_NOTHING_TO_DELETE'	=> 'ریزعکسی حذف نشد',
 
 	'CLI_USER_ADD_SUCCESS'		=> 'کاربر%sبا موفقیت اضافه شد',
-	'CLI_USER_DELETE_CONFIRM'	=> 'برای حذف ‘%s’ مطمئن هستید؟ بله/خیر',
+	'CLI_USER_DELETE_CONFIRM'	=> 'برای حذف ‘%s’ مطمئنید؟ بله/خیر',
 	'CLI_USER_RECLEAN_START'	=> 'پاکسازی مجدد کاربر',
 	'CLI_USER_RECLEAN_DONE'		=> [
 		0	=> 'پاکسازی کامل شد کاربری برای پاک سازی وجود نداشت.',

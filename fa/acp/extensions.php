@@ -93,10 +93,10 @@ $lang = array_merge($lang, array(
 			<li>حذف فایل های افزونه</li>
 		</ol>',
 
-	'EXTENSION_DELETE_DATA_CONFIRM'	=> 'آیا از حذف داده های مرتبط با افزونه “%s” مطمئن هستید؟<br /><br />این کار باعث میشود تمامی تنظیمات مربوط به افزونه از بین برود.',
-	'EXTENSION_DISABLE_CONFIRM'		=> 'آیا از غیرفعال کردن افزونه “%s” مطمئن هستید؟',
-	'EXTENSION_ENABLE_CONFIRM'		=> 'آیا از فعال کردن افزونه “%s” مطمئن هستید؟',
-	'EXTENSION_FORCE_UNSTABLE_CONFIRM'	=> 'آیا از استفاده کردن اجباری از این نسخه ناپایدار مطمئن هستید؟',
+	'EXTENSION_DELETE_DATA_CONFIRM'	=> 'آیا از حذف داده های مرتبط با افزونه “%s” مطمئنید؟<br /><br />این کار باعث میشود تمامی تنظیمات مربوط به افزونه از بین برود.',
+	'EXTENSION_DISABLE_CONFIRM'		=> 'آیا از غیرفعال کردن افزونه “%s” مطمئنید؟',
+	'EXTENSION_ENABLE_CONFIRM'		=> 'آیا از فعال کردن افزونه “%s” مطمئنید؟',
+	'EXTENSION_FORCE_UNSTABLE_CONFIRM'	=> 'آیا از استفاده کردن اجباری از این نسخه ناپایدار مطمئنید؟',
 
 	'RETURN_TO_EXTENSION_LIST'	=> 'بازگشت به لیست افزونه ها',
 

@@ -54,7 +54,7 @@ $lang = array_merge($lang, array(
 	'DATABASE'			=> 'ابزار پایگاه داده',
 	'DATA_ONLY'			=> 'فقط داده ها',
 	'DELETE_BACKUP'		=> 'حذف پشتیبان',
-	'DELETE_SELECTED_BACKUP'	=> 'آیا از حذف پشتیبان انتخاب شده مطمئن هستید؟',
+	'DELETE_SELECTED_BACKUP'	=> 'آیا از حذف پشتیبان انتخاب شده مطمئنید؟',
 	'DESELECT_ALL'		=> 'لغو انتخاب همه',
 	'DOWNLOAD_BACKUP'	=> 'بارگیری پشتیبان',
 
@@ -64,7 +64,7 @@ $lang = array_merge($lang, array(
 
 	'RESTORE_FAILURE'		=> 'ممکن است فایل پشتیبان خراب شده باشد',
 	'RESTORE_OPTIONS'		=> 'بازیابی گزینه ها',	
-        'RESTORE_SELECTED_BACKUP'	=> 'آیا از بازیابی پایگاه داده انتخاب شده مطمئن هستید؟',
+        'RESTORE_SELECTED_BACKUP'	=> 'آیا از بازیابی پایگاه داده انتخاب شده مطمئنید؟',
 	'RESTORE_SUCCESS'		=> 'پایگاه داده با موفقیت بازیابی شد.<br /><br />حال تالار شما باید شبیه زمانی باشد که پشتیان در آن تاریخ گرفته شده بود.',
 
 	'SELECT_ALL'			=> 'انتخاب همه',

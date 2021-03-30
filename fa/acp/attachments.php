@@ -149,7 +149,7 @@ $lang = array_merge($lang, array(
 
 	'REMOVE_ALLOWED_IPS'		=> 'IP/hostnam های <em> مجاز </em> را حذف کرده و یا قبول کنید.',
 	'REMOVE_DISALLOWED_IPS'		=> 'IP/hostnam های <em>غیر مجاز</em> را حذف کرده و یا قبول کنید.',
-	'RESYNC_FILES_STATS_CONFIRM'	=> 'آیا از همگام سازی مجدد آمار فایل ها مطمئن هستید؟',
+	'RESYNC_FILES_STATS_CONFIRM'	=> 'آیا از همگام سازی مجدد آمار فایل ها مطمئنید؟',
 		
 	'SECURE_ALLOW_DENY'				=> 'لیست پذیریش/عدم پذیریش',
 	'SECURE_ALLOW_DENY_EXPLAIN'		=> 'دگرگون سازی رفتار پیش‌فرض هنگامی فعال بودن دانلود ایمن در لیست پذیریش/عدم پذیریش و دربرابر آن یک <strong>لیست سفید</strong> ( فعال ) و یک <strong>لیست سیاه</strong> غیرفعال.',
