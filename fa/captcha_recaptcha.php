@@ -44,20 +44,20 @@ $lang = array_merge($lang, [
 	// If no code exists for your language you can use "en" or leave the string empty
 	'RECAPTCHA_LANG'				=> 'fa',
 
-	'CAPTCHA_RECAPTCHA'				=> 'ریکپچا ورژن۲',
-	'CAPTCHA_RECAPTCHA_V3'			=> 'ریکپچا ورژن۳',
+	'CAPTCHA_RECAPTCHA'				=> 'ریکپچا نسخه۲',
+	'CAPTCHA_RECAPTCHA_V3'			=> 'ریکپچا نسخه۳',
 	'RECAPTCHA_INCORRECT'			=> 'جواب شما نادرست است.',
 	'RECAPTCHA_NOSCRIPT'			=> 'لطفا جاوا اسکریپت مرورگر خود را فعال کنید.',
 	'RECAPTCHA_NOT_AVAILABLE'		=> 'برای استفاده از کد ریکپچا، باید یک اکانت در سایت گوگل ایجاد کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
 	'RECAPTCHA_INVISIBLE'			=> 'این کپچا در واقع مخفی خواهد بود. برای تأیید صحت عملکرد آن، باید یک نماد کوچک در گوشه سمت راست پایین این صفحه ظاهر شود.',
-	'RECAPTCHA_V3_LOGIN_ERROR_ATTEMPTS'	=> 'شما بیشتر از حداکثر تعداد مجاز ورود به سیستم تلاش کرده اید.<br>علاوه بر نام کاربری و گذرواژه، از ریکپچا ورژن۳ نامرئی برای تأیید اعتبار جلسه شما استفاده خواهد شد.',
+	'RECAPTCHA_V3_LOGIN_ERROR_ATTEMPTS'	=> 'شما بیشتر از حداکثر تعداد مجاز ورود به سیستم تلاش کرده اید.<br>علاوه بر نام کاربری و گذرواژه، از ریکپچا نسخه۳ نامرئی برای تأیید اعتبار جلسه شما استفاده خواهد شد.',
 
 	'RECAPTCHA_PUBLIC'				=> 'کلید سایت',
-	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'کلید ریکپچا سایت شما. کلید را میتوانید از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا, از ریکپچا ورژن۲ استفاده کنید که از نوع مخفی است.',
-	'RECAPTCHA_V3_PUBLIC_EXPLAIN'	=> 'کلید ریکپچا سایت شما. کلید را میتوانید از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا از ریکپچا ورژن 3 استفاده کنید.',
+	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'کلید ریکپچا سایت شما. کلید را می‌توانید از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا, از ریکپچا نسخه۲ استفاده کنید که از نوع مخفی است.',
+	'RECAPTCHA_V3_PUBLIC_EXPLAIN'	=> 'کلید ریکپچا سایت شما. کلید را می‌توانید از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا از ریکپچا نسخه 3 استفاده کنید.',
  	'RECAPTCHA_PRIVATE'				=> 'کلید مخفی',
-	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'کلید مخفی ریکپچا شما. از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا از ریکپچا ورژن۲ استفاده کنید که از نوع مخفی است.',
-	'RECAPTCHA_V3_PRIVATE_EXPLAIN'	=> 'کلید مخفی ریکپچا شما. از اینجا تهیه کنید.  <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. ریکپچا ورژن2 استفاده کنید.',
+	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'کلید مخفی ریکپچا شما. از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا از ریکپچا نسخه۲ استفاده کنید که از نوع مخفی است.',
+	'RECAPTCHA_V3_PRIVATE_EXPLAIN'	=> 'کلید مخفی ریکپچا شما. از اینجا تهیه کنید.  <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. ریکپچا نسخه2 استفاده کنید.',
     'RECAPTCHA_V3_DOMAIN'				=> 'دامنه درخواست',
 	'RECAPTCHA_V3_DOMAIN_EXPLAIN'		=> 'دامنه ای برای دریافت اسکریپت و استفاده برای تأیید درخواست.<br>از <samp>recaptcha.net</samp> استفاده کنید، هنگامی که <samp>google.com</samp> در دسترس نیست.',
 
@@ -74,6 +74,6 @@ $lang = array_merge($lang, [
 	'RECAPTCHA_V3_THRESHOLD_REGISTER'			=> 'آستانه ثبت نام',
 	'RECAPTCHA_V3_THRESHOLD_REPORT'				=> 'آستانه گزارش',
 	'RECAPTCHA_V3_THRESHOLDS'					=> 'آستانه ها',
-	'RECAPTCHA_V3_THRESHOLDS_EXPLAIN'			=> 'ریکپچا ورژن۳ یک نمره را برمیگرداند (<samp>1.0</samp> به احتمال زیاد یک تعامل خوب است، <samp>0.0</samp> به احتمال زیاد یک ربات است). در اینجا می توانید حداقل امتیاز را برای هر اقدام تعیین کنید.',
-	'EMPTY_RECAPTCHA_V3_REQUEST_METHOD'			=> 'ریکپچا ورژن۳ لازم است بداند از کدام روش موجود می خواهید هنگام تأیید درخواست استفاده کنید.',
+	'RECAPTCHA_V3_THRESHOLDS_EXPLAIN'			=> 'ریکپچا نسخه۳ یک نمره را برمیگرداند (<samp>1.0</samp> به احتمال زیاد یک تعامل خوب است، <samp>0.0</samp> به احتمال زیاد یک ربات است). در اینجا می توانید حداقل امتیاز را برای هر اقدام تعیین کنید.',
+	'EMPTY_RECAPTCHA_V3_REQUEST_METHOD'			=> 'ریکپچا نسخه۳ لازم است بداند از کدام روش موجود می خواهید هنگام تأیید درخواست استفاده کنید.',
 ]);

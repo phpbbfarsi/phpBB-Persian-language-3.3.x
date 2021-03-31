@@ -43,7 +43,7 @@ $lang = array_merge($lang, array(
 	'ACP_FILES'						=> 'فایل های زبانی مدیریت',
 	'ACP_LANGUAGE_PACKS_EXPLAIN'	=> 'در این بخش می توانید بسته های زبانی را حذف/نصب کنید. بسته زبانی پیش‌فرض با * مشخص شده است.',
 
-	'DELETE_LANGUAGE_CONFIRM'		=> 'آیا از حذف “%s” اطمینان دارید؟',
+	'DELETE_LANGUAGE_CONFIRM'		=> 'آیا از حذف “%s” مطمئنید؟',
 
 	'INSTALLED_LANGUAGE_PACKS'		=> 'پکیج زبان نصب شد.',
 
