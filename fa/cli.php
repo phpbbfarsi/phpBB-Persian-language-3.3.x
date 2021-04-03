@@ -62,7 +62,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_DISABLE_EXTENSION'			=> 'غیرفعال کردن افزونه مورد مشخص.',
 	'CLI_DESCRIPTION_ENABLE_EXTENSION'			=> 'فعال کردن افزونه مشخص.',
 	'CLI_DESCRIPTION_FIND_MIGRATIONS'			=> 'پیدا کردن انتقال بدون وابسطه.',
-	'CLI_DESCRIPTION_FIX_LEFT_RIGHT_IDS'		=> 'تعمیر ساختار درختی انجمن ها و مدل ها ',
+	'CLI_DESCRIPTION_FIX_LEFT_RIGHT_IDS'		=> 'تعمیر ساختار درختی انجمن‌ها و مدل ها ',
 	'CLI_DESCRIPTION_GET_CONFIG'				=> 'گرفتن مقدار برای گزینه پیکیربندی',
 	'CLI_DESCRIPTION_INCREMENT_CONFIG'			=> 'افزایش مقدار صحیح گزینه های پیکری بندی',
 	'CLI_DESCRIPTION_LIST_EXTENSIONS'			=> 'لیست تمامی افزونه های درون دیتابیس و فایل های سیستمی',
@@ -133,7 +133,7 @@ $lang = array_merge($lang, array(
         'CLI_EXTENSIONS_DISABLED' => 'غیرفعال',
         'CLI_EXTENSIONS_ENABLED' => 'فعال',
 
-    'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار  درختی انجمن ها و مدل ها با موفقیت انجام شد. ',
+    'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار  درختی انجمن‌ها و مدل ها با موفقیت انجام شد. ',
 	'CLI_FIXUP_UPDATE_HASH_BCRYPT_SUCCESS'		=> 'گذرواژههای منقضی و هش شده با موفقیت به‌روز رسانی شد.',
 	
 	'CLI_MIGRATION_NAME'					=> 'نام مهاجرت ، که شامل فضای جمله می شود ( استفاده از اسلش به جای بک اسلش جهت جلوگیری از مشکلات )',
@@ -171,7 +171,7 @@ $lang = array_merge($lang, array(
 
 // Additional help for commands.
 $lang = array_merge($lang, array(
-	'CLI_HELP_CRON_RUN'			=> $lang['CLI_DESCRIPTION_CRON_RUN'] . ' در صورت تمایل شما می‌توانید نام یک و ظیفه را برای اجرا برای یک کار مشخص کنید.',
+	'CLI_HELP_CRON_RUN'			=> $lang['CLI_DESCRIPTION_CRON_RUN'] . ' در صورت تمایل می‌توانید نام یک و ظیفه را برای اجرا برای یک کار مشخص کنید.',
 		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیرفعال سازی اکانت  ها توسط <info>--غیرفعال</info> گزینه.
 به صورت اختیاری ایمیل فعال سازی برای کاربر ارسال کنید <info>--ارسال ایمیل</info> گزینه.',
 	'CLI_HELP_USER_ADD'			=> ' <info>%command.name%</info> دستور اضافه کردن کاربر:

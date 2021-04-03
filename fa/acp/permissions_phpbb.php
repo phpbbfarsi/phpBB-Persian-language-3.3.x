@@ -53,10 +53,10 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'ACL_CAT_ACTIONS'		=> 'عملیات',
 	'ACL_CAT_CONTENT'		=> 'محتوا',
-	'ACL_CAT_FORUMS'		=> 'انجمن ها',
+	'ACL_CAT_FORUMS'		=> 'انجمن‌ها',
 	'ACL_CAT_MISC'			=> 'متفرقه',
 	'ACL_CAT_PERMISSIONS'	=> 'سطوح دسترسی',
-	'ACL_CAT_PM'			=> 'پیام های خصوصی',
+	'ACL_CAT_PM'			=> 'پیام‌های خصوصی',
 	'ACL_CAT_POLLS'			=> 'نظرسنجی ها',
 	'ACL_CAT_POST'			=> 'پست',
 	'ACL_CAT_POST_ACTIONS'	=> 'عملیات پست',
@@ -64,7 +64,7 @@ $lang = array_merge($lang, array(
 	'ACL_CAT_PROFILE'		=> 'نمایه',
 	'ACL_CAT_SETTINGS'		=> 'تنظیمات',
 	'ACL_CAT_TOPIC_ACTIONS'	=> 'عملیات موضوعات',
-	'ACL_CAT_USER_GROUP'	=> 'کاربران و گروه ها',
+	'ACL_CAT_USER_GROUP'	=> 'کاربران و گروه‌ها',
 ));
 
 // User Permissions
@@ -87,7 +87,7 @@ $lang = array_merge($lang, array(
 
 	'ACL_U_SENDPM'		=> 'توانایی ارسال پیام خصوصی',
 	'ACL_U_MASSPM'		=> 'توانایی ارسال پیام خصوصی به چند نفر',
-	'ACL_U_MASSPM_GROUP'=> 'توانایی ارسال پیام خصوصی به گروه ها',
+	'ACL_U_MASSPM_GROUP'=> 'توانایی ارسال پیام خصوصی به گروه‌ها',
 	'ACL_U_READPM'		=> 'توانایی خواندن پیام خصوصی',
 	'ACL_U_PM_EDIT'		=> 'توانایی ویرایش پیام خصوصی خود',
 	'ACL_U_PM_DELETE'	=> 'توانایی حذف پیام خصوصی از پوشه خود',
@@ -164,7 +164,7 @@ $lang = array_merge($lang, array(
 
 	'ACL_M_INFO'	=> 'توانایی مشاهده جزئیات پست',
 	'ACL_M_WARN'	=> 'توانایی صادر کردن اخطار ها<br /><em>این تنظیم سراسری می باشد و وابسته به انجمن نیست</em>', // This moderator setting is only global (and not local)
-	'ACL_M_PM_REPORT'	=> 'میتواند گزارش های پیام های خصوصی را حذف  یا ببندد<br /><em>این تنطیمات در بخش سراسری خواهد بود.</em>', // This moderator setting is only global (and not local)
+	'ACL_M_PM_REPORT'	=> 'میتواند گزارش های پیام‌های خصوصی را حذف  یا ببندد<br /><em>این تنطیمات در بخش سراسری خواهد بود.</em>', // This moderator setting is only global (and not local)
 	'ACL_M_BAN'		=> 'توانایی اداره کردن تحریم ها<br /><em>این تنظیم سراسری می باشد و وابسته به انجمن نیست</em>', // This moderator setting is only global (and not local)
 ));
 
@@ -175,10 +175,10 @@ $lang = array_merge($lang, array(
 	'ACL_A_JABBER'		=> 'توانایی تغییر  تنظیمات Jabber',
 	'ACL_A_PHPINFO'		=> 'توانایی مشاهده تنظیمات php',
 
-	'ACL_A_FORUM'		=> 'توانایی اداره انجمن ها',
-	'ACL_A_FORUMADD'	=> 'توانایی افزودن انجمن های جدید',
-	'ACL_A_FORUMDEL'	=> 'توانایی حذف انجمن ها',
-	'ACL_A_PRUNE'		=> 'توانایی هرس انجمن ها',
+	'ACL_A_FORUM'		=> 'توانایی اداره انجمن‌ها',
+	'ACL_A_FORUMADD'	=> 'توانایی افزودن انجمن‌های جدید',
+	'ACL_A_FORUMDEL'	=> 'توانایی حذف انجمن‌ها',
+	'ACL_A_PRUNE'		=> 'توانایی هرس انجمن‌ها',
 
 	'ACL_A_ICONS'		=> 'توانایی تغییر نماد پست ها / مبحث ها و شکلکها',
 	'ACL_A_WORDS'		=> 'توانایی تغییر سانسور کلمات',
@@ -187,16 +187,16 @@ $lang = array_merge($lang, array(
 
 	'ACL_A_USER'		=> 'توانایی اداره کاربران<br /><em>همچنین دیدن نوع مرورگر وب کاربر در لیست کاربران آنلاین</em>',
 	'ACL_A_USERDEL'		=> 'توانایی حذف / هرس کاربران',
-	'ACL_A_GROUP'		=> 'توانایی اداره گروه ها',
-	'ACL_A_GROUPADD'	=> 'توانایی افزودن گروه های جدید',
-	'ACL_A_GROUPDEL'	=> 'توانایی حذف گروه ها',
+	'ACL_A_GROUP'		=> 'توانایی اداره گروه‌ها',
+	'ACL_A_GROUPADD'	=> 'توانایی افزودن گروه‌های جدید',
+	'ACL_A_GROUPDEL'	=> 'توانایی حذف گروه‌ها',
 	'ACL_A_RANKS'		=> 'توانایی اداره رتبه ها',
 	'ACL_A_PROFILE'		=> 'توانایی اداره فیلد های سفارشی مشخصات',
 	'ACL_A_NAMES'		=> 'توانایی اداره نام های غیرفعال',
 	'ACL_A_BAN'			=> 'توانایی اداره تحریم ها',
 
 	'ACL_A_VIEWAUTH'	=> 'توانایی مشاهده نهان های سطح دسترسی',
-	'ACL_A_AUTHGROUPS'	=> 'توانایی تغییر سطوح دسترسی متعلق به گروه ها',
+	'ACL_A_AUTHGROUPS'	=> 'توانایی تغییر سطوح دسترسی متعلق به گروه‌ها',
 	'ACL_A_AUTHUSERS'	=> 'توانایی تغییر سطوح دسترسی متعلق به کاربران',
 	'ACL_A_FAUTH'		=> 'توانایی تغییر نوع سطح دسترسی انجمن',
 	'ACL_A_MAUTH'		=> 'توانایی تغییر نوع سطح دسترسی مدیر انجمن',

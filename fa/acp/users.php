@@ -108,7 +108,7 @@ $lang = array_merge($lang, array(
 
 	'USER_ADMIN_DEACTIVATE'			=> 'غیرفعال سازی اکانت',
 	'USER_ADMIN_DEACTIVED'			=> 'اکانت کاربر با موفقیت غیرفعال شد',
-	'USER_ADMIN_DEL_ATTACH'			=> 'حدف همه پیوست ها',
+	'USER_ADMIN_DEL_ATTACH'			=> 'حدف همه پیوست‌ها',
 	'USER_ADMIN_DEL_AVATAR'			=> 'حذف آواتار',
 	'USER_ADMIN_DEL_OUTBOX'			=> 'خالی کردن صندوق خروجی پیام خصوصی',
 	'USER_ADMIN_DEL_POSTS'			=> 'حذف همه پست ها',
@@ -119,7 +119,7 @@ $lang = array_merge($lang, array(
 	'USER_ADMIN_MOVE_POSTS'			=> 'انتقال همه پست ها',
 	'USER_ADMIN_SIG_REMOVED'		=> 'با موفقیت امضای کاربر از اکانت وی حذف شد.',
 
-	'USER_ATTACHMENTS_REMOVED'		=> 'با مئفقیت همه پیوست های این کاربر حذف شد.',
+	'USER_ATTACHMENTS_REMOVED'		=> 'با مئفقیت همه پیوست‌های این کاربر حذف شد.',
 	'USER_AVATAR_NOT_ALLOWED'		=> 'آواتار قابل نمایش نیست زیرا ویژگی آواتار غیرفعال شده است.',
 	'USER_AVATAR_UPDATED'			=> 'با موفقیت جزئیات آواتار کاربر به‌روز رسانی شد.',
 	'USER_AVATAR_TYPE_NOT_ALLOWED'	=> 'آواتار کنونی قابل نمایش نیست زیرا فرمت آن مجاز نمی باشد.',
@@ -135,7 +135,7 @@ $lang = array_merge($lang, array(
 	'USER_LIFTED_NR'				=> 'حالت "کاربر به تازگی عضو شده" از کاربر حذف شد.',
 	'USER_NO_ATTACHMENTS'			=> 'فایل پیوستی برای نمایش وجود ندارد.',
 	'USER_NO_POSTS_TO_DELETE'			=> 'کاربر پستی برای حذف شدن ندارد.',
-	'USER_OUTBOX_EMPTIED'			=> 'با موفقیت صندوق خروجی پیام های خصوصی کاربر خالی شد.',
+	'USER_OUTBOX_EMPTIED'			=> 'با موفقیت صندوق خروجی پیام‌های خصوصی کاربر خالی شد.',
 	'USER_OUTBOX_EMPTY'				=> 'صندوق خروجی پیام خصوصی کاربر در حال حاضر خالی می باشد.',
 	'USER_OVERVIEW_UPDATED'			=> 'جزئیات کاربر به‌روز رسانی شد.',
 	'USER_POSTS_DELETED'			=> 'با موفقیت تمامی پست های کاربر حذف شد.',
