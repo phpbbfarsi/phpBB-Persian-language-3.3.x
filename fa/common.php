@@ -421,7 +421,7 @@ $lang = array_merge($lang, array(
 	'MARK_ALL'				=> 'علامت گذاری همه',
 	'MARK_ALL_READ'			=> 'علامت گذاری همه به عنوان خوانده شده',
 	'MARK_FORUMS_READ'		=> 'علامت گذاری انجمن‌ها به عنوان خوانده شده',
-	'MARK_READ'				=> ''نشانه‌گذاری به خوانده',
+	'MARK_READ'				=> 'نشانه‌گذاری به خوانده',
 	'MARK_SUBFORUMS_READ'	=> 'علامت گذاری زیرانجمن‌ها به عنوان خوانده شده',
 	'MB'					=> 'MB',
 	'MIB'					=> 'MIB',
@@ -464,7 +464,7 @@ $lang = array_merge($lang, array(
 	'NOT_AUTHORISED'			=> 'شما برای دسترسی به این بخش تأیید اعتبار نشده اید.',
 	'NOT_WATCHING_FORUM'		=> 'شما دیگر این انجمن را دنبال نمی کنید.',
 	'NOT_WATCHING_TOPIC'		=> 'شما دیگر این موضوع را دنبال نمی کنید.',
-	'NOTIFICATIONS'				=> 'اعلانات',
+	'NOTIFICATIONS'				=> 'آگهی‌ها',
 	// This applies for NOTIFICATION_BOOKMARK and NOTIFICATION_POST.
 	// %1$s will return a list of users that's concatenated using "," and "and" - see STRING_LIST
 	// Once the user count reaches 5 users or more, the list is trimmed using NOTIFICATION_X_OTHERS
@@ -481,7 +481,7 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_FORUM'				=> '<em>انجمن:</em> %1$s',
 	'NOTIFICATION_GROUP_REQUEST'		=> '<strong>درخواست گروه</strong> از %1$s جهت پیوستن به گروه %2$s.',
 	'NOTIFICATION_GROUP_REQUEST_APPROVED'	=> '<strong>تأیید درخواست گروه</strong> جهت پیوست به گروه %1$s.',
-	'NOTIFICATION_METHOD_INVALID'		=> 'روش "%s" یک روش معتبر اعلانات نیست.',
+	'NOTIFICATION_METHOD_INVALID'		=> 'روش "%s" یک روش معتبر آگهی‌ها نیست.',
 	'NOTIFICATION_PM'					=> '<strong>پیام خصوصی</strong> از طرف %1$s:',
 	'NOTIFICATION_POST'					=> array(
 		1	=> '<strong>پاسخ</strong> از طرف %1$s در موضوع:',
