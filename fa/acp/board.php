@@ -104,7 +104,7 @@ $lang = array_merge($lang, array(
 	'ALLOW_TOPIC_NOTIFY'		=> 'پذیرفتن عضویت در موضوع',
 	'BOARD_PM'					=> 'پیام خصوصی',
 	'BOARD_PM_EXPLAIN'			=> 'فعال سازی پیام خصوصی برای همه کاربران',
-	'ALLOW_BOARD_NOTIFICATIONS' => 'فعال سازی آگهی‌ها تالار',
+	'ALLOW_BOARD_NOTIFICATIONS' => 'فعال سازی اعلانات تالار',
 ));
 
 // Avatar Settings
@@ -405,8 +405,8 @@ $lang = array_merge($lang, array(
 	'LOAD_USER_ACTIVITY_EXPLAIN'	=> 'نمایش موضوعات/انجمن‌های فعال در نمایه کاربر و کنترل پنل کاربر. این گزینه برای تالار هایی که بیش از یک میلیون پست دارند توصیه می شود.',
 	'LOAD_USER_ACTIVITY_LIMIT'		=> 'محدودیت فعالیت کاربران در پست ها',
 	'LOAD_USER_ACTIVITY_LIMIT_EXPLAIN'	=> 'موضوعات و انجمن‌های فعال نمایش داده نمیشود برای کاربرانی که بیشتر از این عدد داشته باشند برای غیرفعال سازی عدد 0 را وارد کنید',
-	'READ_NOTIFICATION_EXPIRE_DAYS'	=> 'تاریخ انقضای  آگهی‌ها خوانده شده',
-	'READ_NOTIFICATION_EXPIRE_DAYS_EXPLAIN' => 'تعداد روزهای مشخص جهت حذف آگهی‌ها خوانده شده به صورت خودکار، مقدار 0 باعث میشود هیچگاه آگهی‌ها حذف نشوند.',
+	'READ_NOTIFICATION_EXPIRE_DAYS'	=> 'تاریخ انقضای  اعلانات خوانده شده',
+	'READ_NOTIFICATION_EXPIRE_DAYS_EXPLAIN' => 'تعداد روزهای مشخص جهت حذف اعلانات خوانده شده به صورت خودکار، مقدار 0 باعث میشود هیچگاه اعلانات حذف نشوند.',
 	'RECOMPILE_STYLES'				=> ' تألیف مجدد اجزای فرسوده ی قالب',
 	'RECOMPILE_STYLES_EXPLAIN'		=> 'به‌روز رسانی های اجزای قالب را در سیتم های فایل کنترل کرده و آن‌ها را تألیف می کند.',
 	'YES_ACCURATE_PM_BUTTON'			=> 'دسترسی نمایش دکمه پیام خصوصی در صفحه موضوعات',
