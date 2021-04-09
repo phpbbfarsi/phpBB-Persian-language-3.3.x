@@ -101,7 +101,7 @@ $lang = array_merge($lang, array(
 	'LOGIN_EXPLAIN_TEAM'		=> 'برای مشاهده تیم مدیریت باید ثبت نام کرده و وارد شوید.',
 	'LOGIN_EXPLAIN_MEMBERLIST'	=> 'برای مشاهده اعضای تالار باید ثبت نام کرده و وارد شوید.',
 	'LOGIN_EXPLAIN_SEARCHUSER'	=> 'برای جست‌وجوی کاربران باید ثبت نام کرده و وارد شوید.',
-	'LOGIN_EXPLAIN_VIEWPROFILE'	=> 'برای مشاهده نمایه ها باید ثبت نام کرده و وارد شوید.',
+	'LOGIN_EXPLAIN_VIEWPROFILE'	=> 'برای مشاهده نمایه‌ها باید ثبت نام کرده و وارد شوید.',
 
 	'MANAGE_GROUP'			=> 'مدیریت گروه',
 	'MORE_THAN'				=> 'بیشتر از',
