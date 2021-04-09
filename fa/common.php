@@ -375,10 +375,10 @@ $lang = array_merge($lang, array(
 
 	'JABBER'				=> 'Jabber',
 	'JOINED'				=> 'تاریخ عضویت',
-	'JUMP_PAGE'				=> 'شماره صفحه ای را که میخواهید بروید، وارد کنید',
+	'JUMP_PAGE'				=> 'شماره صفحه‌ای را که میخواهید بروید، وارد کنید',
 	'JUMP_TO'				=> 'پرش به',
 	'JUMP_TO_PAGE'			=> 'پرش به صفحه',
-	'JUMP_TO_PAGE_CLICK'	=> 'برای پرش به صفحه ای کلیک کنید ...',
+	'JUMP_TO_PAGE_CLICK'	=> 'برای پرش به صفحه‌ای کلیک کنید ...',
 
 	'KB'					=> 'KB',
 	'KIB'					=> 'KiB',
