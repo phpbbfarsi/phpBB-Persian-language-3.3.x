@@ -114,7 +114,7 @@ $lang = array_merge($lang, array(
 	'ACP_HELP_PHPBB'			=> 'کمک پشتیبانی phpBB',
 
 	'ACP_ICONS'					=> 'نماد های موضوع',
-	'ACP_ICONS_SMILIES'			=> 'آیکون‌های/شکلک های موضوعات',
+	'ACP_ICONS_SMILIES'			=> 'آیکون‌های/شکلکک‌های موضوعات',
 	'ACP_INACTIVE_USERS'		=> 'کاربران غیرفعال',
 	'ACP_INDEX'					=> 'صفحه اصلی کنترل پنل مدیریت',
 
@@ -175,7 +175,7 @@ $lang = array_merge($lang, array(
 	'ACP_SERVER_CONFIGURATION'	=> 'پیکربندی سرور',
 	'ACP_SERVER_SETTINGS'		=> 'تنظیمات سرور',
 	'ACP_SIGNATURE_SETTINGS'	=> 'تنظیمات امضا',
-	'ACP_SMILIES'				=> 'شکلک ها',
+	'ACP_SMILIES'				=> 'شکلکک‌ها',
 	'ACP_STYLE_MANAGEMENT'		=> 'مدیریت قالب ها',
 	'ACP_STYLES'				=> 'قالب ها',
 	'ACP_STYLES_CACHE'			=> 'پاک سازی کش',
@@ -292,7 +292,7 @@ $lang = array_merge($lang, array(
 	'ON'					=> 'On',
 
 	'PARSE_BBCODE'						=> 'تجزیه BBCode',
-	'PARSE_SMILIES'						=> 'تجزیه شکلک ها',
+	'PARSE_SMILIES'						=> 'تجزیه شکلکک‌ها',
 	'PARSE_URLS'						=> 'تجزیه لینک ها',
 	'PERMISSIONS_TRANSFERRED'			=> 'سطوح دسترسی انتقال یافت',
 	'PERMISSIONS_TRANSFERRED_EXPLAIN'	=> 'اخیرا سطح دسترسی %1$s را دارید. می توانید با سطوح دسترسی این کاربر در تالار گردش کنید. ولی تا زمانی که سطوح دسترسی مدیریت انتقال نشود، به کنترل پنل مدیریت دسترسی نخواهید داشت. در هر زمانی می توانید <a href="%2$s">.<strong>به سطوح دسترسی خود برگردید</strong></a>',
