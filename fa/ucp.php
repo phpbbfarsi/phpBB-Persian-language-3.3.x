@@ -222,7 +222,7 @@ $lang = array_merge($lang, array(
 	'FIELD_INVALID_CHARS_LETTER_NUM_DOTS'	=> 'قسمت “%s” حاوی نویسه‌های غیر مجاز است، تنها حروف الفبا و اعداد و نقطه مجاز است.',
 	'FIELD_INVALID_CHARS_LETTER_NUM_ONLY'  	=> 'قسمت “%s” حاوی نویسه‌های غیر مجاز است، فقط حروف الفبا و اعداد مجاز است.',
 	'FIELD_INVALID_CHARS_LETTER_NUM_PUNCTUATION'=> 'قسمت “%s” حاوی نویسه‌های غیر مجاز است، فقط حروف الفبا و اعداد یا نویسه‌های _,-. مجاز است و اولین نویسه باید یک حرف باشد.',
-	'FIELD_INVALID_CHARS_LETTER_NUM_SPACERS'	=> 'قسمت “%s” حاوی نویسه‌های غیر مجاز است، فقط حروف الفبا و اعداد و خط فاصله و نویسه های -+_[] مجاز است.',
+	'FIELD_INVALID_CHARS_LETTER_NUM_SPACERS'	=> 'قسمت “%s” حاوی نویسه‌های غیر مجاز است، فقط حروف الفبا و اعداد و خط فاصله و نویسه‌های -+_[] مجاز است.',
 	'FIELD_INVALID_CHARS_LETTER_NUM_UNDERSCORE'	=> 'قسمت “%s” حاوی نویسه‌های غیر مجاز است، فقط حروف الفبا و اعداد و نویسه _ مجاز است.',
 
 
@@ -277,9 +277,9 @@ $lang = array_merge($lang, array(
 	'IF_FOLDER_FULL'			=> 'اگر پوشه پر باشد',
 	'IMPORTANT_NEWS'			=> 'اطلاعیه های مهم',
 	'INVALID_USER_BIRTHDAY'		=> 'تاریخ تولد وارد شده معتبر نیست.',
-	'INVALID_CHARS_USERNAME'	=> 'نام کاربری حاوی نویسه های غیرمجاز است.',
+	'INVALID_CHARS_USERNAME'	=> 'نام کاربری حاوی نویسه‌های غیرمجاز است.',
 	'INVALID_EMOJIS_USERNAME'	=> 'نام کاربری حاوی نویسه‌های غیر مجاز (Emoji) است.',
-	'INVALID_CHARS_NEW_PASSWORD'	=> 'گذرواژه حاوی نویسه های درخواست شده نیست.',
+	'INVALID_CHARS_NEW_PASSWORD'	=> 'گذرواژه حاوی نویسه‌های درخواست شده نیست.',
 	'ITEMS_REQUIRED'			=> 'پر کردن قسمت هایی که با * مشخص شده اند، الزامی است.',
 
 	'JOIN_SELECTED'				=> 'پیوستن به انتخاب شده',
@@ -589,7 +589,7 @@ $lang = array_merge($lang, array(
 
 	'USERNAME_ALPHA_ONLY_EXPLAIN'		=> 'نام کاربری باید بین %1$s تا %2$s نویسه باشد و فقط از حروف و اعداد استفاده کنید.',
 	'USERNAME_ALPHA_SPACERS_EXPLAIN'	=> 'نام کاربری باید بین %1$s تا %2$s نویسه باشد و حاوی حروف،اعداد، خط فاصله یا -+_[] باشد.',
-	'USERNAME_ASCII_EXPLAIN'			=> 'نام کاربری باید بین %1$s تا %2$s نویسه باشد و از ASCII استفاده شده باشد. بنابر این نیازی به نویسه های ویژه نیست.',
+	'USERNAME_ASCII_EXPLAIN'			=> 'نام کاربری باید بین %1$s تا %2$s نویسه باشد و از ASCII استفاده شده باشد. بنابر این نیازی به نویسه‌های ویژه نیست.',
 	'USERNAME_LETTER_NUM_EXPLAIN'		=> 'نام کاربری باید بین %1$s تا %2$s نویسه باشد و فقط از اعداد و حروف استفاده شود.',
 	'USERNAME_LETTER_NUM_SPACERS_EXPLAIN'	=> 'نام کاربری باید بین %1$s تا %2$s نویسه باشد و باید از حروف،اعداد، فاصله و یا -+_[] نویسه باشد.',
 	'USERNAME_CHARS_ANY_EXPLAIN'		=> 'نام کاربری باید بین %1$s تا %2$s نویسه باشد.',
