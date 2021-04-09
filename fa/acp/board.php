@@ -285,7 +285,7 @@ $lang = array_merge($lang, array(
 	'ACP_FEED_LIMIT_EXPLAIN'			=> 'حداکثر تعداد موارد خوراک برای نمایش.',
 
 	'ACP_FEED_OVERALL'					=> 'فعال سازی خوراک در تالار',
-	'ACP_FEED_OVERALL_EXPLAIN'			=> 'پسیت های جدید در سرتاسر تالار',
+	'ACP_FEED_OVERALL_EXPLAIN'			=> 'پست های جدید در سرتاسر تالار',
 	'ACP_FEED_FORUM'					=> 'فعال سازی خوراک در هر انجمن',
 	'ACP_FEED_FORUM_EXPLAIN'			=> 'پست‌های یک انجمن و زیرانجمن‌های آن',
 	'ACP_FEED_TOPIC'					=> 'فعال سازی خورام در هر نوضوع',
