@@ -40,7 +40,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACP_FILES'						=> 'فایل های زبانی مدیریت',
+	'ACP_FILES'						=> 'فایل‌های زبانی مدیریت',
 	'ACP_LANGUAGE_PACKS_EXPLAIN'	=> 'در این بخش می توانید بسته های زبانی را حذف/نصب کنید. بسته زبانی پیش‌فرض با * مشخص شده است.',
 
 	'DELETE_LANGUAGE_CONFIRM'		=> 'آیا از حذف “%s” مطمئنید؟',
@@ -72,7 +72,7 @@ $lang = array_merge($lang, array(
 	'NO_REMOVE_DEFAULT_LANG'		=> 'نمی توانید بسته زبانی پیش‌فرض را حذف کنید.<br />اگر مایل به حذف این بسته زبانی هستید ابتدا بسته زبانی پیش‌فرض تالارتان را تغییر دهید.',
 	'NO_UNINSTALLED_LANGUAGE_PACKS'	=> 'هیچ بسته زبانی حذف نشده است.',
 
-	'THOSE_MISSING_LANG_FILES'			=> 'فایل های مقابل از بسته زبانی %s گم شده اند',
+	'THOSE_MISSING_LANG_FILES'			=> 'فایل‌های مقابل از بسته زبانی %s گم شده اند',
 	'THOSE_MISSING_LANG_VARIABLES'		=> 'متغیر های زبانی مقابل از بسته زبانی <strong>%s</strong> گم شده اند',
 
 	'UNINSTALLED_LANGUAGE_PACKS'	=> 'بسته های زبانی حذف شده',

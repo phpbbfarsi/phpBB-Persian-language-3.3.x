@@ -128,7 +128,7 @@ $lang = array_merge($lang, array(
 	'ACP_MAIN'					=> 'صفحه اصلی کنترل پنل مدیریت',
 
 	'ACP_MANAGE_ATTACHMENTS'			=> 'مدیریت پیوست‌ها',
-	'ACP_MANAGE_ATTACHMENTS_EXPLAIN'	=> 'در این قسمت می‌توانید لیست و حذف فایل های پیوست در پست‌ها و پیام‌های خصوصی را ببینید.',
+	'ACP_MANAGE_ATTACHMENTS_EXPLAIN'	=> 'در این قسمت می‌توانید لیست و حذف فایل‌های پیوست در پست‌ها و پیام‌های خصوصی را ببینید.',
 
 	'ACP_MANAGE_EXTENSIONS'		=> 'مدیریت پسوند پیوست‌ها',
 	'ACP_MANAGE_FORUMS'			=> 'مدیریت انجمن‌ها',
@@ -285,7 +285,7 @@ $lang = array_merge($lang, array(
 	'NOTIFY'				=> 'اطلاعیه',
 	'NO_ADMIN'				=> 'اجازه مدیریت این تالار را ندارید',
 	'NO_EMAILS_DEFINED'		=> 'آدرس ایمیل معتبری یافت نشد.',
-	'NO_FILES_TO_DELETE'	=> 'فایل های پیوست انتخابی جهت حذف وجود ندارند.',
+	'NO_FILES_TO_DELETE'	=> 'فایل‌های پیوست انتخابی جهت حذف وجود ندارند.',
 	'NO_PASSWORD_SUPPLIED'	=> 'برای دسترسی به کنترل پنل مدیریت، باید گذرواژه خود را وارد کنید.',
 
 	'OFF'					=> 'Off',
@@ -424,7 +424,7 @@ $lang = array_merge($lang, array(
 	'RESYNC_POST_MARKING_SUCCESS'	=> 'همگام سازی مجدد موضوعات علامت گذاری شده انجام شد',
 	'RESYNC_STATS'					=> 'همگام سازی مجدد آمار',
 	'RESYNC_STATS_CONFIRM'			=> 'آیا از همگام سازی مجدد آمار مطمئنید؟',
-	'RESYNC_STATS_EXPLAIN'			=> 'محاسبه مجدد تعداد پست‌ها ، موضوعات ، اعضا و فایل ها.',
+	'RESYNC_STATS_EXPLAIN'			=> 'محاسبه مجدد تعداد پست‌ها ، موضوعات ، اعضا و فایل‌ها.',
 	'RESYNC_STATS_SUCCESS'			=> 'همگام سازی مجدد آمار انجام شد',
 	'RUN'							=> 'اجرا',
 
@@ -676,7 +676,7 @@ $lang = array_merge($lang, array(
 	'LOG_LANGUAGE_PACK_DELETED'		=> '<strong>بسته زبانی حذف شد</strong><br />» %s',
 	'LOG_LANGUAGE_PACK_INSTALLED'	=> '<strong>بسته زبانی نصب شد</strong><br />» %s',
 	'LOG_LANGUAGE_PACK_UPDATED'		=> '<strong>جزئیات بسته زبانی به‌روز رسانی شد</strong><br />» %s',
-	'LOG_LANGUAGE_FILE_REPLACED'	=> '<strong>فایل های زبان جایگزین شدند</strong><br />» %s',
+	'LOG_LANGUAGE_FILE_REPLACED'	=> '<strong>فایل‌های زبان جایگزین شدند</strong><br />» %s',
 	'LOG_LANGUAGE_FILE_SUBMITTED'	=> '<strong>فایل زبان ارسال و در پوشه مورد نظر ذخیره شد</strong><br />» %s',
 
 	'LOG_MASS_EMAIL'		=> '<strong>ایمیل های دسته جمعی ارسال شدند</strong><br />» %s',
@@ -733,7 +733,7 @@ $lang = array_merge($lang, array(
 	'LOG_REFERER_INVALID'		=> '<strong>تأیید رجوع کننده موفقیت آمیز نبود</strong><br />»رجوع کننده “<em>%1$s</em>” بود که درخواست آن رد شده و نشست بسته شد',
 	'LOG_RESET_DATE'			=> '<strong>تاریخ شروع فعالیت تالار بازنشانی شد</strong>',
 	'LOG_RESET_ONLINE'			=> '<strong>بیشترین تعداد افراد آنلاین بازنشانی شد</strong>',
-	'LOG_RESYNC_FILES_STATS'	=> '<strong>آمار فایل ها همگام سازی مجدد شد</strong>',
+	'LOG_RESYNC_FILES_STATS'	=> '<strong>آمار فایل‌ها همگام سازی مجدد شد</strong>',
 	'LOG_RESYNC_POSTCOUNTS'		=> '<strong>تعداد پست کاربر همگام سازی مجدد شد</strong>',
 	'LOG_RESYNC_POST_MARKING'	=> '<strong>موضوعات علامت گذاری شده همگام سازی مجدد شد. </strong>',
 	'LOG_RESYNC_STATS'			=> '<strong>آمار پست‌ها، موضوعات و کاربران همگام سازی مجدد شدند.</strong>',

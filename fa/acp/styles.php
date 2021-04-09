@@ -48,8 +48,8 @@ $lang = array_merge($lang, [
 
 	'DEACTIVATE_DEFAULT'		=> 'نمی توانید قالب پیش‌فرض را غیرفعال کنید.',
 	'DELETE_FROM_FS'			=> 'حذف از سیستم فایل',
-	'DELETE_STYLE_FILES_FAILED'	=> 'خطا در حذف فایل های قالب "%s".',
-	'DELETE_STYLE_FILES_SUCCESS'	=> 'فایل های قالب "%s" حذف شدند.',
+	'DELETE_STYLE_FILES_FAILED'	=> 'خطا در حذف فایل‌های قالب "%s".',
+	'DELETE_STYLE_FILES_SUCCESS'	=> 'فایل‌های قالب "%s" حذف شدند.',
 	'DETAILS'					=> 'جزئیات',
 
 	'INHERITING_FROM'			=> 'برگرفته از',

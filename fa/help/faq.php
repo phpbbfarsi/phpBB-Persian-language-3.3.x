@@ -28,10 +28,10 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'HELP_FAQ_ATTACHMENTS_ALLOWED_ANSWER'	=> 'مدیر هر تالاری میتواند تنها تعیین کند از چه نوع پسوندی برای فایل های پیوست استفاده کرد. اگر مطمئن نیستید که چه پسوندی مجاز هستید با مدیریت تالار ارتباط برقرار کنید.',
+	'HELP_FAQ_ATTACHMENTS_ALLOWED_ANSWER'	=> 'مدیر هر تالاری میتواند تنها تعیین کند از چه نوع پسوندی برای فایل‌های پیوست استفاده کرد. اگر مطمئن نیستید که چه پسوندی مجاز هستید با مدیریت تالار ارتباط برقرار کنید.',
 	'HELP_FAQ_ATTACHMENTS_ALLOWED_QUESTION'	=> 'چه پیوستی در این  تالار مجاز  است؟',
 	'HELP_FAQ_ATTACHMENTS_OWN_ANSWER'	=> 'برای پیدا کردن لیست پیوست‌های بارگذاری کرده شما به بخش کنترل پنل کاربری رفته و سپس به بخش پیوست‌ها مراجعه کنید',
-	'HELP_FAQ_ATTACHMENTS_OWN_QUESTION'	=> 'چگونه فایل های پیوست خودم را پیدا کنم؟',
+	'HELP_FAQ_ATTACHMENTS_OWN_QUESTION'	=> 'چگونه فایل‌های پیوست خودم را پیدا کنم؟',
 
 	'HELP_FAQ_BLOCK_ATTACHMENTS'	=> 'پیوست‌ها',
 	'HELP_FAQ_BLOCK_BOOKMARKS'	=> 'علاقه مندی ها و عضویت در موضوع',

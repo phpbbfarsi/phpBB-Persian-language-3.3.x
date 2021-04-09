@@ -65,7 +65,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_FIX_LEFT_RIGHT_IDS'		=> 'تعمیر ساختار درختی انجمن‌ها و مدل ها ',
 	'CLI_DESCRIPTION_GET_CONFIG'				=> 'گرفتن مقدار برای گزینه پیکیربندی',
 	'CLI_DESCRIPTION_INCREMENT_CONFIG'			=> 'افزایش مقدار صحیح گزینه های پیکری بندی',
-	'CLI_DESCRIPTION_LIST_EXTENSIONS'			=> 'لیست تمامی افزونه‌های درون دیتابیس و فایل های سیستمی',
+	'CLI_DESCRIPTION_LIST_EXTENSIONS'			=> 'لیست تمامی افزونه‌های درون دیتابیس و فایل‌های سیستمی',
 	
 	'CLI_DESCRIPTION_OPTION_ENV'				=> 'نام محیط',
 	'CLI_DESCRIPTION_OPTION_SAFE_MODE'			=> 'اجرا در حالت امن (بدون افزونه‌ها).',
