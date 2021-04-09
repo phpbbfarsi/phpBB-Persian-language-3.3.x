@@ -112,7 +112,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_USER_ADD_OPTION_NOTIFY'	=> 'ارسال ایمیل فعال سازی کاربر جدید ( به صورت پیش‌فرض ارسال نمی شود.)',
 	'CLI_DESCRIPTION_USER_DELETE'				=> 'حذف اکانت کاربر',
 	'CLI_DESCRIPTION_USER_DELETE_USERNAME'		=> 'حذف نام کاربری کاربر',
-	'CLI_DESCRIPTION_USER_DELETE_OPTION_POSTS'	=> 'حذف تمامی پست های کاربر. بدون انجام این گزینه پست های کاربر همچنان باقی خواهد ماند.',
+	'CLI_DESCRIPTION_USER_DELETE_OPTION_POSTS'	=> 'حذف تمامی پست‌های کاربر. بدون انجام این گزینه پست‌های کاربر همچنان باقی خواهد ماند.',
 	'CLI_DESCRIPTION_USER_RECLEAN'				=> 'پاکسازی مجدد نام های کاربری',
  
 	'CLI_EXTENSION_DISABLE_FAILURE'		=> 'امکان غیرفعال سازی افزونه %s وجود ندارد.',

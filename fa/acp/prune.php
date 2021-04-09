@@ -48,14 +48,14 @@ $lang = array_merge($lang, array(
 	'DEACTIVATE_DELETE'			=> 'غیرفعال کردن و یا حذف',
 	'DEACTIVATE_DELETE_EXPLAIN'	=> 'لطفا انتخاب کنید که آیا کاربران حذف شوند و یا غیرفعال،حذف کاربران ممکن است غیرقابل برگشت باشذ!',
 	'DELETE_USERS'				=> 'حذف',
-	'DELETE_USER_POSTS'			=> 'جذف پست های کاربر هرس شده',
-	'DELETE_USER_POSTS_EXPLAIN' => 'حذف پست های کاربران حذف شده،اگر غیرفعال شدن کاربران انتخاب شود،تأثیری ندارد..',
+	'DELETE_USER_POSTS'			=> 'جذف پست‌های کاربر هرس شده',
+	'DELETE_USER_POSTS_EXPLAIN' => 'حذف پست‌های کاربران حذف شده،اگر غیرفعال شدن کاربران انتخاب شود،تأثیری ندارد..',
 
 	'JOINED_EXPLAIN'			=> 'تاریخی با فرمت <kbd>YYYY-MM-DD</kbd> وارد کنید.',
 
 	'LAST_ACTIVE_EXPLAIN'		=> 'تاریخی در فرمت <kbd>YYYY-MM-DD</kbd> وارد کنید. <kbd>0000-00-00</kbd> را برای هرس کردن کاربرانی که هیچگاه وارد نشده اند،وارد کنید. در آن صورت <em>قبل</em> و <em>بعد</em> نادیده گرفته خواهند شد.',
 
-	'POSTS_ON_QUEUE'			=> 'پست های در انتظار تأیید.',
+	'POSTS_ON_QUEUE'			=> 'پست‌های در انتظار تأیید.',
 	'PRUNE_USERS_GROUP_EXPLAIN'	=> 'محدودیت کاربران در گروه انتخاب شده',
 	'PRUNE_USERS_GROUP_NONE'	=> 'همه گروه‌ها',
 	'PRUNE_USERS_LIST'				=> 'کاربران هرس شدند',
@@ -82,7 +82,7 @@ $lang = array_merge($lang, array(
 	'SELECTED_FORUM'	=> 'انجمن انتخاب شده',
 	'SELECTED_FORUMS'	=> 'انجمن‌های انتخاب شده',
 
-	'POSTS_PRUNED'					=> 'پست ها هرس شدند',
+	'POSTS_PRUNED'					=> 'پست‌ها هرس شدند',
 	'PRUNE_ANNOUNCEMENTS'			=> 'هرس اطلاعیه ها',
 	'PRUNE_FINISHED_POLLS'			=> 'هرس نظرسنجی های بسته',
 	'PRUNE_FINISHED_POLLS_EXPLAIN'	=> 'هرس موضوعاتی که نظرسنجی های آن به پایان رسیده است',

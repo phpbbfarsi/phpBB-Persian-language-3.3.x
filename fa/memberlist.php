@@ -132,7 +132,7 @@ $lang = array_merge($lang, array(
 	'SEND_YIM_MESSAGE'		=> 'ارسال پیام YIM',
 	'SORT_EMAIL'			=> 'ایمیل',
 	'SORT_LAST_ACTIVE'		=> 'آخرین فعالیت',
-	'SORT_POST_COUNT'		=> 'تعداد پست ها',
+	'SORT_POST_COUNT'		=> 'تعداد پست‌ها',
 
 	'USERNAME_BEGINS_WITH'	=> 'نام کاربری شروع شده با',
 	'USER_ADMIN'			=> 'مدیریت کاربر',

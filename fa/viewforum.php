@@ -52,8 +52,8 @@ $lang = array_merge($lang, array(
 
 	'MARK_TOPICS_READ'		=> 'نشانه گذاری موضوعات بعنوان خوانده شده',
 
-	'NEW_POSTS_HOT'		=> 'پست های جدید [ مشهور ]',	// Not used anymore
-	'NEW_POSTS_LOCKED'		=> 'پست های جدید [ قفل شده ]',	// Not used anymore
+	'NEW_POSTS_HOT'		=> 'پست‌های جدید [ مشهور ]',	// Not used anymore
+	'NEW_POSTS_LOCKED'		=> 'پست‌های جدید [ قفل شده ]',	// Not used anymore
 	'NO_NEW_POSTS_HOT'		=> 'بدون پست جدید [ مشهور ]',	// Not used anymore
 	'NO_NEW_POSTS_LOCKED'	=> 'بدون پست جدید [ قفل شده ]',	// Not used anymore
 	'NO_READ_ACCESS'		=> 'شما اجازه خواندن و دیدن موضوعات این انجمن را ندارید.',
@@ -65,8 +65,8 @@ $lang = array_merge($lang, array(
 
 	'TOPICS_MARKED'		=> 'موضوعات این انجمن بعنوان خوانده شده نشانه گذاری شدند.',
 
-	'UNREAD_POSTS_HOT'		=> 'پست های خوانده نشده [ مشهور ]',
-	'UNREAD_POSTS_LOCKED'	=> 'پست های خوانده نشده [ قفل شده ]',
+	'UNREAD_POSTS_HOT'		=> 'پست‌های خوانده نشده [ مشهور ]',
+	'UNREAD_POSTS_LOCKED'	=> 'پست‌های خوانده نشده [ قفل شده ]',
 
 	'VIEW_FORUM'			=> 'مشاهده انجمن',
 	'VIEW_FORUM_TOPICS'		=> array(
