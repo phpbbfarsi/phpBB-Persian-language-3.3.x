@@ -252,8 +252,8 @@ $lang = array_merge($lang, array(
 	'TRACE_GROUP_NEVER_TOTAL_YES'	=> 'سطوح دسترسی گروه <samp>هرگز</samp> می باشد که مجموع <samp>بله</samp> را به این کاربر به <samp>هرگز</samp> تغییر می دهد.',
 	'TRACE_GROUP_NEVER_TOTAL_YES_LOCAL'	=> 'سطوح دسترسی گروه برای این انجمن <samp>هرگز</samp> می باشد که مجموع <samp>بله</samp> را به این کاربر به <samp>هرگز</samp> تغییر می دهد.',
 
-	'TRACE_GROUP_NO'				=> 'سطوح <samp>نه</samp> می باشد مجموع داده ها نگهداری شد.',
-	'TRACE_GROUP_NO_LOCAL'			=> 'سطوح دسترسی برای این گروه در این انجمن <samp>نه</samp> می باشد و مجموع داده ها نگهداری شد.',
+	'TRACE_GROUP_NO'				=> 'سطوح <samp>نه</samp> می باشد مجموع داده‌ها نگهداری شد.',
+	'TRACE_GROUP_NO_LOCAL'			=> 'سطوح دسترسی برای این گروه در این انجمن <samp>نه</samp> می باشد و مجموع داده‌ها نگهداری شد.',
 	'TRACE_GROUP_YES_TOTAL_NEVER'	=> 'سطوح دسترسی این گروه <samp>بله</samp> می باشد ولی در مجموع <samp>هرگز</samp> تغییر نیافت.',
 	'TRACE_GROUP_YES_TOTAL_NEVER_LOCAL'	=> 'سطوح دسترسی این گروه برای انجمن <samp>بله</samp> می باشد ولی در مجموع <samp>هرگز</samp> تغییر نیافت.',
 

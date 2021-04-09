@@ -138,7 +138,7 @@ $lang = array_merge($lang, array(
 
 // Data obtaining translations
 $lang = array_merge($lang, array(
-	'STAGE_OBTAIN_DATA'	=> 'داده های نصب را وارد کنید.',
+	'STAGE_OBTAIN_DATA'	=> 'داده‌های نصب را وارد کنید.',
 
 	//
 	// Admin data
@@ -342,7 +342,7 @@ $lang = array_merge($lang, array(
 	'CLI_INSTALL_VALIDATE_CONFIG'	=> 'اعتبار سازی فایل پیکربندی',
 	'CLI_CONFIG_FILE'				=> 'پیکربندی فایل جهت استفاده',
 	'MISSING_FILE'					=> 'دسترسی به فایل‌های امکان پذیر نیست  %1$s',
-	'MISSING_DATA'					=> 'پیکربندی به دلیل ازبین رفتن داده ها امکان ندارد',
+	'MISSING_DATA'					=> 'پیکربندی به دلیل ازبین رفتن داده‌ها امکان ندارد',
 	'INVALID_YAML_FILE'				=> 'فایل YAML %1$s تجزیه نشده است',
 	'CONFIGURATION_VALID'			=> 'پیکربندی فایل‌ها معتبر است',
 ));

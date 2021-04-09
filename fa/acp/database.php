@@ -52,7 +52,7 @@ $lang = array_merge($lang, array(
 	'BACKUP_TYPE'		    => 'نوع پشتیبان گیری',
 
 	'DATABASE'			=> 'ابزار پایگاه داده',
-	'DATA_ONLY'			=> 'فقط داده ها',
+	'DATA_ONLY'			=> 'فقط داده‌ها',
 	'DELETE_BACKUP'		=> 'حذف پشتیبان',
 	'DELETE_SELECTED_BACKUP'	=> 'آیا از حذف پشتیبان انتخاب شده مطمئنید؟',
 	'DESELECT_ALL'		=> 'لغو انتخاب همه',
