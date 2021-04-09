@@ -612,12 +612,12 @@ $lang = array_merge($lang, array(
 	'VIEW_PREVIOUS_HISTORY'	=> 'پیام خصوصی قبلی در تاریخچه',
 	'VIEW_PREVIOUS_PM'		=> 'پیام خصوصی قبلی',
 	'VIEW_PROFILE'			=> 'مشاهده نمایه',
-	'VIEW_SIGS'				=> 'نمایش امضا ها',
+	'VIEW_SIGS'				=> 'نمایش امضاها',
 	'VIEW_SMILIES'			=> 'نمایش شکلک ها به عنوان تصویر',
 	'VIEW_TOPICS_DAYS'		=> 'نمایش موضوعات از روزهای قبلی',
 	'VIEW_TOPICS_DIR'		=> 'نمایش موضوعات به ترتیب',
 	'VIEW_TOPICS_KEY'		=> 'نمایش موضوعات به ترتیب',
-	'VIEW_POSTS_DAYS'		=> 'نمایش پست‌ها از روز ها قبلی',
+	'VIEW_POSTS_DAYS'		=> 'نمایش پست‌ها از روزها قبلی',
 	'VIEW_POSTS_DIR'		=> 'نمایش ترتیب پست‌ها',
 	'VIEW_POSTS_KEY'		=> 'نمایش پست‌ها به ترتیب',
 
@@ -668,7 +668,7 @@ $lang = array_merge($lang, array(
 	'GROUP_LEADER'		=> 'رهبری',
 	'GROUP_MEMBER'		=> 'کاربری',
 	'GROUP_PENDING'		=> 'اعضای معلق',
-	'GROUP_NONMEMBER'	=> 'غیر عضو ها',
+	'GROUP_NONMEMBER'	=> 'غیر عضوها',
 	'GROUP_DETAILS'		=> 'جزئیات گروه',
 
 	'NO_LEADER'			=> 'هیچ گروه رهبری موجود نیست',
