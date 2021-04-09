@@ -94,7 +94,7 @@ $lang = array_merge($lang, array(
 	'DISAPPROVE_POSTS'			=> 'عدم تأیید پست‌ها',
 	'DISAPPROVE_POSTS_CONFIRM'	=> 'آیا از تأیید نکردن پست‌های انتخاب شده مطمئنید؟',
 	'DISPLAY_LOG'				=> 'نمایش نوشته ها از آخر',
-	'DISPLAY_OPTIONS'			=> 'نمایش گزینه ها',
+	'DISPLAY_OPTIONS'			=> 'نمایش گزینه‌ها',
 
 	'EMPTY_REPORT'					=> 'وقتی که این دلیل را انتخاب کنید، باید توضیحاتی را برای آن ارائه دهید.',
 	'EMPTY_TOPICS_REMOVED_WARNING'	=> 'توجه داشته باشید که چند موضوع به دلیل خالی بودن از پایگاه داده حذف شدند',
@@ -228,7 +228,7 @@ $lang = array_merge($lang, array(
 	'MODERATE_FORUM'		=> 'مدیریت انجمن',
 	'MODERATE_TOPIC'		=> 'مدیریت موضوع',
 	'MODERATE_POST'			=> 'مدیریت پست',
-	'MOD_OPTIONS'			=> 'مدیریت گزینه ها',
+	'MOD_OPTIONS'			=> 'مدیریت گزینه‌ها',
 	'MORE_INFO'				=> 'اطلاعات بیشتر',
 	'MOST_WARNINGS'			=> 'کاربران دریافت کننده بیشترین هشدار',
 	'MOVE_TOPIC_CONFIRM'	=> 'آیا از انتفال موضوع به انجمنی جدید مطمئنید؟',

@@ -257,7 +257,7 @@ $lang = array_merge($lang, array(
 	'EXPORT_DOWNLOAD'		=> 'دانلود',
 	'EXPORT_STORE'			=> 'ذخیره',
 
-	'GENERAL_OPTIONS'		=> 'گزینه های عمومی',
+	'GENERAL_OPTIONS'		=> 'گزینه‌های عمومی',
 	'GENERAL_SETTINGS'		=> 'تنظیمات عمومی',
 	'GLOBAL_MASK'			=> 'ماسک سطوح دسترسی سراسری',
 

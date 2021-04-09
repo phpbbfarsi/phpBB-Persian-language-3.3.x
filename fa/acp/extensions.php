@@ -72,7 +72,7 @@ $lang = array_merge($lang, array(
 
 	'EXTENSION_NAME'			=> 'افزونه‌ها',
 	'EXTENSION_ACTIONS'			=> 'عملکرد',
-	'EXTENSION_OPTIONS'			=> 'گزینه ها',
+	'EXTENSION_OPTIONS'			=> 'گزینه‌ها',
 	'EXTENSION_INSTALL_HEADLINE'=> 'نصب افزونه',
 	'EXTENSION_INSTALL_EXPLAIN'	=> '<ol>
 			<li>دانلود یک افزونه از پایگاه phpBB</li>

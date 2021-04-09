@@ -47,7 +47,7 @@ $lang = array_merge($lang, array(
 	'BACKUP_DELETE'		    => 'فایل پشتیبان با موفقیت حذف شد',
 	'BACKUP_INVALID'	    => 'فایل نتخاب شده برای پشتیبان گیری معتبر نمی باشد',
 	'BACKUP_NOT_SUPPORTED'	=> 'فایل پشتیبان انتخاب شده قابل پشتیبانی نیست.',
-	'BACKUP_OPTIONS'	    => 'گزینه های پشتیبان گیری',
+	'BACKUP_OPTIONS'	    => 'گزینه‌های پشتیبان گیری',
 	'BACKUP_SUCCESS'    	=> 'فایل پشتیبان با موفقیت ایجاد شد!',
 	'BACKUP_TYPE'		    => 'نوع پشتیبان گیری',
 
@@ -63,7 +63,7 @@ $lang = array_merge($lang, array(
 	'FULL_BACKUP'		=> 'کامل',
 
 	'RESTORE_FAILURE'		=> 'ممکن است فایل پشتیبان خراب شده باشد',
-	'RESTORE_OPTIONS'		=> 'بازیابی گزینه ها',	
+	'RESTORE_OPTIONS'		=> 'بازیابی گزینه‌ها',	
         'RESTORE_SELECTED_BACKUP'	=> 'آیا از بازیابی پایگاه داده انتخاب شده مطمئنید؟',
 	'RESTORE_SUCCESS'		=> 'پایگاه داده با موفقیت بازیابی شد.<br /><br />حال تالار شما باید شبیه زمانی باشد که پشتیان در آن تاریخ گرفته شده بود.',
 

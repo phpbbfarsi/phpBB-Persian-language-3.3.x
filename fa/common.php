@@ -704,7 +704,7 @@ $lang = array_merge($lang, array(
 	'SEARCH'					=> 'جست‌وجو',
 	'SEARCH_MINI'				=> 'جست‌وجو…',
 	'SEARCH_ADV'				=> 'جست‌وجوی پیشرفته',
-	'SEARCH_ADV_EXPLAIN'		=> 'مشاهده گزینه های جست‌وجوی پیشرفته',
+	'SEARCH_ADV_EXPLAIN'		=> 'مشاهده گزینه‌های جست‌وجوی پیشرفته',
 	'SEARCH_KEYWORDS'			=> 'جست‌وجوی کلمات کلیدی',
 	'SEARCHING_FORUMS'			=> 'جست‌وجوی انجمن',
 	'SEARCH_ACTIVE_TOPICS'		=> 'موضوعات فعال',
@@ -738,7 +738,7 @@ $lang = array_merge($lang, array(
 	'SORT_DIRECTION'			=> 'مستقیم',
 	'SORT_JOINED'				=> 'تاریخ عضویت',
 	'SORT_LOCATION'				=> 'محل اقامت',
-	'SORT_OPTIONS'				=> 'نمایش و دسته بندی گزینه ها',
+	'SORT_OPTIONS'				=> 'نمایش و دسته بندی گزینه‌ها',
 	'SORT_RANK'					=> 'رتبه',
 	'SORT_POSTS'				=> 'پست‌ها',
 	'SORT_TOPIC_TITLE'			=> 'عنوان موضوع',
@@ -780,7 +780,7 @@ $lang = array_merge($lang, array(
 	'TOO_LONG_USERNAME'				=> 'نام کاربری وارد شده بسیار طولانی است.',
 	'TOO_LONG_EMAIL'				=> 'آدرس ایمیل وارد شده بسیار طولانی است.',
 
-	'TOO_MANY_VOTE_OPTIONS'			=> 'به گزینه های زیادی رای داده اید.',
+	'TOO_MANY_VOTE_OPTIONS'			=> 'به گزینه‌های زیادی رای داده اید.',
 
 	'TOO_SHORT'						=> 'مقدار وارد شده بسیار کوتاه می‌باشد.',
 

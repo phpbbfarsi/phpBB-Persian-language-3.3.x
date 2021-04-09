@@ -62,7 +62,7 @@ $lang = array_merge($lang, [
 	'RECAPTCHA_V3_DOMAIN_EXPLAIN'		=> 'دامنه ای برای دریافت اسکریپت و استفاده برای تأیید درخواست.<br>از <samp>recaptcha.net</samp> استفاده کنید، هنگامی که <samp>google.com</samp> در دسترس نیست.',
 
 	'RECAPTCHA_V3_METHOD'				=> 'روش درخواست',
-	'RECAPTCHA_V3_METHOD_EXPLAIN'		=> 'روشی که هنگام تأیید درخواست استفاده می شود.<br>گزینه های غیرفعال در تنظیمات شما در دسترس نیستند.',
+	'RECAPTCHA_V3_METHOD_EXPLAIN'		=> 'روشی که هنگام تأیید درخواست استفاده می شود.<br>گزینه‌های غیرفعال در تنظیمات شما در دسترس نیستند.',
 	'RECAPTCHA_V3_METHOD_CURL'			=> 'cURL',
 	'RECAPTCHA_V3_METHOD_POST'			=> 'POST',
 	'RECAPTCHA_V3_METHOD_SOCKET'		=> 'Socket',
