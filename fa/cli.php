@@ -133,7 +133,7 @@ $lang = array_merge($lang, array(
         'CLI_EXTENSIONS_DISABLED' => 'غیرفعال',
         'CLI_EXTENSIONS_ENABLED' => 'فعال',
 
-    'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار  درختی انجمن‌ها و مدل ها با موفقیت انجام شد. ',
+    'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار درختی انجمن‌ها و مدل ها با موفقیت انجام شد. ',
 	'CLI_FIXUP_UPDATE_HASH_BCRYPT_SUCCESS'		=> 'گذرواژههای منقضی و هش شده با موفقیت به‌روز رسانی شد.',
 	
 	'CLI_MIGRATION_NAME'					=> 'نام مهاجرت ، که شامل فضای جمله می شود ( استفاده از اسلش به جای بک اسلش جهت جلوگیری از مشکلات )',
