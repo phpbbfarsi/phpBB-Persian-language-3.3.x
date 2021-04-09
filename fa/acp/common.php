@@ -113,7 +113,7 @@ $lang = array_merge($lang, array(
 
 	'ACP_HELP_PHPBB'			=> 'کمک پشتیبانی phpBB',
 
-	'ACP_ICONS'					=> 'نماد های مبحث',
+	'ACP_ICONS'					=> 'نماد های موضوع',
 	'ACP_ICONS_SMILIES'			=> 'آیکون های/شکلک های موضوعات',
 	'ACP_INACTIVE_USERS'		=> 'کاربران غیرفعال',
 	'ACP_INDEX'					=> 'صفحه اصلی کنترل پنل مدیریت',
