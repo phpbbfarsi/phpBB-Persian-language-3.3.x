@@ -793,7 +793,7 @@ $lang = array_merge($lang, array(
 	'TOO_SHORT_USERNAME'			=> 'نام کاربری وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_EMAIL'				=> 'آدرس ایمیل وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_EMAIL_CONFIRM'		=> 'تأیید ایمیل آدرس بسیا کوتاه است.',
-	'TOO_SMALL'						=> 'مقدار وارد شده بسیار کم است..',
+	'TOO_SMALL'						=> 'مقدار وارد شده بسیار کم است.',
 	'TOO_SMALL_MAX_RECIPIENTS'		=> 'مقدار گزینه <strong>بیشترین تعداد گیرنده در هر پیام خصوصی</strong> بسیار کم است',
 
 	'TOPIC'				=> 'موضوع',
