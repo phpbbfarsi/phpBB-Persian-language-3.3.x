@@ -127,7 +127,7 @@ $lang = array_merge($lang, array(
 	'NO_VERSIONCHECK'		=> 'هیچ اطلاعاتی برای بررسی نسخه دریافت نشد.',
 
 	'VERSIONCHECK_FORCE_UPDATE_ALL'		=> 'بررسی مجدد نسخه',
-	'FORCE_UNSTABLE'					=> 'بررسی همیشگی جهت نسخه های ناپایدار',
+	'FORCE_UNSTABLE'					=> 'بررسی همیشگی جهت نسخه‌های ناپایدار',
 	'EXTENSIONS_VERSION_CHECK_SETTINGS'	=> 'تنظیمات بررسی نسخه',
 
 	'BROWSE_EXTENSIONS_DATABASE'		=> 'جست‌وجو در پایگاه افزونه‌ها',
