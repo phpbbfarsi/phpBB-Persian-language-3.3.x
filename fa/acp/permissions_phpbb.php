@@ -205,7 +205,7 @@ $lang = array_merge($lang, array(
 	'ACL_A_ROLES'		=> 'توانایی اداره نقش ها',
 	'ACL_A_SWITCHPERM'	=> 'توانایی بکارگیری سطوح دسترسی دیگر',
 
-	'ACL_A_STYLES'		=> 'توانایی مدیریت قالب ها',
+	'ACL_A_STYLES'		=> 'توانایی مدیریت قالب‌ها',
 	'ACL_A_EXTENSIONS'	=> 'توانایی مدیریت افزونه‌ها',
 	'ACL_A_VIEWLOGS'	=> 'توانایی مشاهده رویدادها',
 	'ACL_A_CLEARLOGS'	=> 'توانایی پاکسازی رویداد ها',

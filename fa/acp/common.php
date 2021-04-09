@@ -72,7 +72,7 @@ $lang = array_merge($lang, array(
 	'ACP_CAT_MAINTENANCE'		=> 'نگهداری و تعمیر',
 	'ACP_CAT_PERMISSIONS'		=> 'سطوح دسترسی',
 	'ACP_CAT_POSTING'			=> 'ارسالات',
-	'ACP_CAT_STYLES'			=> 'قالب ها',
+	'ACP_CAT_STYLES'			=> 'قالب‌ها',
 	'ACP_CAT_SYSTEM'			=> 'سیستم',
 	'ACP_CAT_USERGROUP'			=> 'کاربران و گروه‌ها',
 	'ACP_CAT_USERS'				=> 'کاربران',
@@ -176,14 +176,14 @@ $lang = array_merge($lang, array(
 	'ACP_SERVER_SETTINGS'		=> 'تنظیمات سرور',
 	'ACP_SIGNATURE_SETTINGS'	=> 'تنظیمات امضا',
 	'ACP_SMILIES'				=> 'شکلکک‌ها',
-	'ACP_STYLE_MANAGEMENT'		=> 'مدیریت قالب ها',
-	'ACP_STYLES'				=> 'قالب ها',
+	'ACP_STYLE_MANAGEMENT'		=> 'مدیریت قالب‌ها',
+	'ACP_STYLES'				=> 'قالب‌ها',
 	'ACP_STYLES_CACHE'			=> 'پاک سازی کش',
-	'ACP_STYLES_INSTALL'		=> 'نصب قالب ها',
+	'ACP_STYLES_INSTALL'		=> 'نصب قالب‌ها',
 
 	'ACP_SUBMIT_CHANGES'		=> 'ارسال تغییرات',
 
-	'ACP_TEMPLATES'				=> 'قالب ها (Templates)',
+	'ACP_TEMPLATES'				=> 'قالب‌ها (Templates)',
 	'ACP_THEMES'				=> 'تم ها (Themes)',
 
 	'ACP_UPDATE'					=> 'درحال به‌روز رسانی',
