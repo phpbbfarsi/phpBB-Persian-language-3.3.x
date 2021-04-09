@@ -172,7 +172,7 @@ $lang = array_merge($lang, array(
 // Additional help for commands.
 $lang = array_merge($lang, array(
 	'CLI_HELP_CRON_RUN'			=> $lang['CLI_DESCRIPTION_CRON_RUN'] . ' در صورت تمایل می‌توانید نام یک و ظیفه را برای اجرا برای یک کار مشخص کنید.',
-		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیرفعال سازی اکانت  ها توسط <info>--غیرفعال</info> گزینه.
+		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیرفعال سازی اکانتت ها توسط <info>--غیرفعال</info> گزینه.
 به صورت اختیاری ایمیل فعال سازی برای کاربر ارسال کنید <info>--ارسال ایمیل</info> گزینه.',
 	'CLI_HELP_USER_ADD'			=> ' <info>%command.name%</info> دستور اضافه کردن کاربر:
 اگر دستور اجرا بدون گزینه انجام شود از شما میخواهد که وارد آن شوید.
