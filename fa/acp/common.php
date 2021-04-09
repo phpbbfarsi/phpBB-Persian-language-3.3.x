@@ -60,7 +60,7 @@ $lang = array_merge($lang, array(
 	'ACP_BOARD_FEATURES'		=> 'خصوصیات انجمن',
 	'ACP_BOARD_MANAGEMENT'		=> 'مدیریت انجمن',
 	'ACP_BOARD_SETTINGS'		=> 'تنظیمات انجمن',
-	'ACP_BOTS'					=> 'روبات/عنکبوت های جست‌وجوگر',
+	'ACP_BOTS'					=> 'ربات/عنکبوت های جست‌وجوگر',
 
 	'ACP_CAPTCHA'				=> 'کپچا',
 
@@ -552,9 +552,9 @@ $lang = array_merge($lang, array(
 	'LOG_BBCODE_DELETE'		=> '<strong>BBCode حذف شد</strong><br />» %s',
 	'LOG_BBCODE_CONFIGURATION_ERROR'	=> '<strong>خطا هنگام تنظیمات BBCode</strong>: %1$s<br />» %2$s',
 
-	'LOG_BOT_ADDED'		=> '<strong>روبات جدیدی اضافه شد</strong><br />» %s',
-	'LOG_BOT_DELETE'	=> '<strong>روبات حذف شد</strong><br />» %s',
-	'LOG_BOT_UPDATED'	=> '<strong>روبات کنونی به‌روز رسانی شد</strong><br />» %s',
+	'LOG_BOT_ADDED'		=> '<strong>ربات جدیدی اضافه شد</strong><br />» %s',
+	'LOG_BOT_DELETE'	=> '<strong>ربات حذف شد</strong><br />» %s',
+	'LOG_BOT_UPDATED'	=> '<strong>ربات کنونی به‌روز رسانی شد</strong><br />» %s',
 
 	'LOG_CLEAR_ADMIN'		=> '<strong>رویدادهای مدیریت پاک شدند</strong>',
 	'LOG_CLEAR_CRITICAL'	=> '<strong>رویدادهای خطاها پاک شدند</strong>',
