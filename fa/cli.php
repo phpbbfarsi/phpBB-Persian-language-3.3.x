@@ -65,10 +65,10 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_FIX_LEFT_RIGHT_IDS'		=> 'تعمیر ساختار درختی انجمن‌ها و مدل ها ',
 	'CLI_DESCRIPTION_GET_CONFIG'				=> 'گرفتن مقدار برای گزینه پیکیربندی',
 	'CLI_DESCRIPTION_INCREMENT_CONFIG'			=> 'افزایش مقدار صحیح گزینه های پیکری بندی',
-	'CLI_DESCRIPTION_LIST_EXTENSIONS'			=> 'لیست تمامی افزونه های درون دیتابیس و فایل های سیستمی',
+	'CLI_DESCRIPTION_LIST_EXTENSIONS'			=> 'لیست تمامی افزونه‌های درون دیتابیس و فایل های سیستمی',
 	
 	'CLI_DESCRIPTION_OPTION_ENV'				=> 'نام محیط',
-	'CLI_DESCRIPTION_OPTION_SAFE_MODE'			=> 'اجرا در حالت امن (بدون افزونه ها).',
+	'CLI_DESCRIPTION_OPTION_SAFE_MODE'			=> 'اجرا در حالت امن (بدون افزونه‌ها).',
 	'CLI_DESCRIPTION_OPTION_SHELL'				=> 'اجرا shell',
 	
 	'CLI_DESCRIPTION_PURGE_EXTENSION'			=> 'پاکسازی افزونه مشخص.',
@@ -92,7 +92,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_THUMBNAIL_RECREATE'				=> 'بازسازی همه ریزعکس ها',
 
 	'CLI_DESCRIPTION_UPDATE_CHECK'					=> 'بررسی به روز بودن انجمن',
-	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'		=> 'نام افزونه ها برای بررسی ( اگر همه انتخاب شود، همه بررسی میشوند',
+	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'		=> 'نام افزونه‌ها برای بررسی ( اگر همه انتخاب شود، همه بررسی میشوند',
 	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_CACHE'		=> 'اجرای دستور بررسیبا سیستم کش',
 	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_STABILITY'	=> 'اجرای دستور انتخاب برای بررسی نسخه های پایدار یا ناپایدار',
 

@@ -66,7 +66,7 @@ $lang = array_merge($lang, array(
 
 	'ACP_CAT_CUSTOMISE'			=> 'سفارشات',
 	'ACP_CAT_DATABASE'			=> 'پایگاه داده',
-	'ACP_CAT_DOT_MODS'			=> 'افزونه ها',
+	'ACP_CAT_DOT_MODS'			=> 'افزونه‌ها',
 	'ACP_CAT_FORUMS'			=> 'انجمن‌ها',
 	'ACP_CAT_GENERAL'			=> 'اصلی',
 	'ACP_CAT_MAINTENANCE'		=> 'نگهداری و تعمیر',
@@ -89,8 +89,8 @@ $lang = array_merge($lang, array(
 
 	'ACP_EMAIL_SETTINGS'		=> 'تنظیماتE-Mail',
 	'ACP_EXTENSION_GROUPS'		=> 'مدیریت گروه پسوندها',
-	'ACP_EXTENSION_MANAGEMENT'	=> 'مدیریت افزونه ها',
-	'ACP_EXTENSIONS'			=> 'مدیریت افزونه ها',
+	'ACP_EXTENSION_MANAGEMENT'	=> 'مدیریت افزونه‌ها',
+	'ACP_EXTENSIONS'			=> 'مدیریت افزونه‌ها',
 
 	'ACP_FORUM_BASED_PERMISSIONS'	=> 'سطح دسترسی مستقر انجمن',
 	'ACP_FORUM_LOGS'				=> 'رویداد های انجمن',
@@ -229,7 +229,7 @@ $lang = array_merge($lang, array(
 
 	'BACK'					=> 'بازگشت',
 
-	'CONTAINER_EXCEPTION' => 'در هنگام نصب افزونه امکان خطا وجود دارد. به همین جهت در این هنگام به صورت موقت تمامی افزونه ها غیرفعال میشود. لطفا کش را از صفحه اصلی پاک کنید. هنگامیکه خطاها رفع شود مجدد افزونه ها فعال خواهد شد. چنانچه این مشکل ادامه دار شد با پشتیبانی زیر تماس بگیرید <a href="https://www.phpbb.com/support">phpBB.com</a> ',
+	'CONTAINER_EXCEPTION' => 'در هنگام نصب افزونه امکان خطا وجود دارد. به همین جهت در این هنگام به صورت موقت تمامی افزونه‌ها غیرفعال میشود. لطفا کش را از صفحه اصلی پاک کنید. هنگامیکه خطاها رفع شود مجدد افزونه‌ها فعال خواهد شد. چنانچه این مشکل ادامه دار شد با پشتیبانی زیر تماس بگیرید <a href="https://www.phpbb.com/support">phpBB.com</a> ',
 	'EXCEPTION' => 'استثنا',
 
 	'COLOUR_SWATCH'			=> ' تغییر رنگ Web-safe swatch',

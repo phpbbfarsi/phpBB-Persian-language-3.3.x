@@ -39,9 +39,9 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'EXTENSION'					=> 'افزونه',
-	'EXTENSIONS'				=> 'افزونه ها',
-	'EXTENSIONS_ADMIN'			=> 'مدیریت افزونه ها',
-	'EXTENSIONS_EXPLAIN'		=> 'مدیریت افزونه ابزاریست در انجمن شما که می‌توانید افزونه های نصب شده را مدیریت ، مشاهده و اطلاعات آن‌ها را بررسی کنید.',
+	'EXTENSIONS'				=> 'افزونه‌ها',
+	'EXTENSIONS_ADMIN'			=> 'مدیریت افزونه‌ها',
+	'EXTENSIONS_EXPLAIN'		=> 'مدیریت افزونه ابزاریست در انجمن شما که می‌توانید افزونه‌های نصب شده را مدیریت ، مشاهده و اطلاعات آن‌ها را بررسی کنید.',
 	'EXTENSION_INVALID_LIST'	=> 'افزونه “%s” معتبر نیست.<br />%s<br /><br />',
 	'EXTENSION_NOT_AVAILABLE'	=> 'افزونه انتخابی در انجمن شما قابل دسترس نیست. لطفا نسخه phpBB و php انجمن خود را بررسی کنید. (مشاهده صفحه جزئیات).',
 	'EXTENSION_DIR_INVALID'		=> 'افزونه انتخابی در مسیر نامعتبری آپلود شده است و قابل فعال سازی نیست.',
@@ -51,8 +51,8 @@ $lang = array_merge($lang, array(
 
 	'DETAILS'				=> 'جزئیات',
 
-	'EXTENSIONS_DISABLED'	=> 'افزونه های غیرفعال',
-	'EXTENSIONS_ENABLED'	=> 'افزونه های فعال',
+	'EXTENSIONS_DISABLED'	=> 'افزونه‌های غیرفعال',
+	'EXTENSIONS_ENABLED'	=> 'افزونه‌های فعال',
 
 	'EXTENSION_DELETE_DATA'	=> 'حذف کلی اطلاعات',
 	'EXTENSION_DISABLE'		=> 'غیرفعال',
@@ -70,14 +70,14 @@ $lang = array_merge($lang, array(
 	'EXTENSION_DISABLE_SUCCESS'		=> 'افزونه با موفقیت غیرفعال شد.',
 	'EXTENSION_ENABLE_SUCCESS'		=> 'افزونه با موفقیت فعال شد.',
 
-	'EXTENSION_NAME'			=> 'افزونه ها',
+	'EXTENSION_NAME'			=> 'افزونه‌ها',
 	'EXTENSION_ACTIONS'			=> 'عملکرد',
 	'EXTENSION_OPTIONS'			=> 'گزینه ها',
 	'EXTENSION_INSTALL_HEADLINE'=> 'نصب افزونه',
 	'EXTENSION_INSTALL_EXPLAIN'	=> '<ol>
 			<li>دانلود یک افزونه از پایگاه phpBB</li>
 			<li>در آوردن از حالت فشرده و بارگذاری فایل ها در پوشه <samp>ext/</samp> واقع در تالار phpBB شما</li>
-			<li>فعال سازی افزونه واقع در بخش مدیریت افزونه ها</li>
+			<li>فعال سازی افزونه واقع در بخش مدیریت افزونه‌ها</li>
 		</ol>',
 	'EXTENSION_UPDATE_HEADLINE'	=> 'به‌روز رسانی افزونه',
 	'EXTENSION_UPDATE_EXPLAIN'	=> '<ol>
@@ -98,7 +98,7 @@ $lang = array_merge($lang, array(
 	'EXTENSION_ENABLE_CONFIRM'		=> 'آیا از فعال کردن افزونه “%s” مطمئنید؟',
 	'EXTENSION_FORCE_UNSTABLE_CONFIRM'	=> 'آیا از استفاده کردن اجباری از این نسخه ناپایدار مطمئنید؟',
 
-	'RETURN_TO_EXTENSION_LIST'	=> 'بازگشت به لیست افزونه ها',
+	'RETURN_TO_EXTENSION_LIST'	=> 'بازگشت به لیست افزونه‌ها',
 
 	'EXT_DETAILS'			=> 'جزئیات افزونه',
 	'DISPLAY_NAME'			=> 'نمایش نام',
@@ -130,7 +130,7 @@ $lang = array_merge($lang, array(
 	'FORCE_UNSTABLE'					=> 'بررسی همیشگی جهت نسخه های ناپایدار',
 	'EXTENSIONS_VERSION_CHECK_SETTINGS'	=> 'تنظیمات بررسی نسخه',
 
-	'BROWSE_EXTENSIONS_DATABASE'		=> 'جست‌وجو در پایگاه افزونه ها',
+	'BROWSE_EXTENSIONS_DATABASE'		=> 'جست‌وجو در پایگاه افزونه‌ها',
 	
 	'META_FIELD_NOT_SET'	=> 'بخش متا دیتا %s تنظیم نشده است.',
 	'META_FIELD_INVALID'	=> 'بخش متا %s نامعتبر است.',
