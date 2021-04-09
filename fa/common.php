@@ -663,7 +663,7 @@ $lang = array_merge($lang, array(
 	),
 	'REMOVE'					=> 'حذف',
 	'REMOVE_INSTALL'			=> 'لطفا پوشه install را حذف، انتفال و یا تغییر نام دهید در غیر این صورت فقط کنترل پنل مدیریت  در دسترس خواهد بود.',
-	'REPLIES'					=> 'پاسخ ها',
+	'REPLIES'					=> 'پاسخ‌ها',
 	'REPLY_WITH_QUOTE'			=> 'پاسخ با نقل قول',
 	'REPLYING_GLOBAL_ANNOUNCE'	=> 'پاسخ به اطلاعیه ی سرارسری',
 	'REPLYING_MESSAGE'			=> 'پاسخ به پیام در %s',
