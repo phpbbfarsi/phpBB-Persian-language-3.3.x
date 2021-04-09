@@ -303,7 +303,7 @@ $lang = array_merge($lang, array(
 	'TASK_CREATE_TABLES'				=> 'ساخت جداول',
 
 	// Install data
-	'TASK_ADD_BOTS'				=> 'ثبت ربات های جست‌وجو',
+	'TASK_ADD_BOTS'				=> 'ثبت ربات‌های جست‌وجو',
 	'TASK_ADD_LANGUAGES'		=> 'نصب بسته های زبانی موجود',
 	'TASK_ADD_MODULES'			=> 'نصب ماژول ها',
 	'TASK_CREATE_SEARCH_INDEX'	=> 'ساخت صفحه جست‌وجو',
@@ -578,8 +578,8 @@ $lang = array_merge($lang, array(
 	'CONV_ERROR_COULD_NOT_READ'			=> 'دسترسی/خواندن “%s” مقدور نیست.',
 	'CONV_ERROR_GROUP_ACCESS'			=> 'اطلاعات احزار هویت گروه‌ها دریافت نمیشوند.',
 	'CONV_ERROR_INCONSISTENT_GROUPS'	=> 'در جدول گروه‌ها درون add_bots() ناسازگاری هایی وجود دارد. - باید همگی گروه‌های ویژه را دستی وارد کنید.',
-	'CONV_ERROR_INSERT_BOT'				=> 'قرار دادن ربات ها در جدول کاربران مقدور نیست.',
-	'CONV_ERROR_INSERT_BOTGROUP'		=> 'قرار دادن ربات ها در جدول ربات ها مقدور نیست.',
+	'CONV_ERROR_INSERT_BOT'				=> 'قرار دادن ربات‌ها در جدول کاربران مقدور نیست.',
+	'CONV_ERROR_INSERT_BOTGROUP'		=> 'قرار دادن ربات‌ها در جدول ربات‌ها مقدور نیست.',
 	'CONV_ERROR_INSERT_USER_GROUP'		=> 'قرار دادن کاربران در جدول user_group مقدور نیست.',
 	'CONV_ERROR_MESSAGE_PARSER'			=> 'خطای پیام تجزیه کننده',
 	'CONV_ERROR_NO_AVATAR_PATH'			=> 'قابل توجه توسعه دهندگان : باید $convertor[\'avatar_path\'] را برای استفاده %s مشخص کنید.',

@@ -335,7 +335,7 @@ $lang = array_merge($lang, array(
 		2	=> '%d مهمان',
 	),
 	'G_ADMINISTRATORS'			=> 'مدیران کل',
-	'G_BOTS'					=> 'ربات ها',
+	'G_BOTS'					=> 'ربات‌ها',
 	'G_GUESTS'					=> 'مهمان ها',
 	'G_REGISTERED'				=> 'کاربران عضو شده',
 	'G_REGISTERED_COPPA'		=> 'کاربران COPPA عضو شده',
