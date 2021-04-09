@@ -145,7 +145,7 @@ $lang = array_merge($lang, array(
 	'PROFILE_LANG_OPTIONS'		=> 'گزینه‌های اختصاصی زبان',
 	'PROFILE_TYPE_OPTIONS'		=> 'گزینه‌های اختصاصی نمایه',
 
-	'RADIO_BUTTONS'				=> 'دکمه های رادیو  (radio buttons)',
+	'RADIO_BUTTONS'				=> 'دکمه‌های رادیو  (radio buttons)',
 	'REMOVED_PROFILE_FIELD'		=> 'فیلد نمایه با موفقیت حذف شد',
 	'REQUIRED_FIELD'			=> 'فیلد ضروری',
 	'REQUIRED_FIELD_EXPLAIN'	=> 'اگر فیلد ضروری باشد،باید کاربران و مدیران آن را تکمیل کنند،اگر نمایش فیلد در حین ثبت نام غیرفعال شود،پر کردن فیلد فقط هنگامی ضروری مس شود که کاربر نمایه خود را ویرایش کند.',
