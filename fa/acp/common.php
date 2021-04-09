@@ -132,7 +132,7 @@ $lang = array_merge($lang, array(
 
 	'ACP_MANAGE_EXTENSIONS'		=> 'مدیریت پسوند پیوست‌ها',
 	'ACP_MANAGE_FORUMS'			=> 'مدیریت انجمن‌ها',
-	'ACP_MANAGE_RANKS'			=> 'مدیریت رتبه ها',
+	'ACP_MANAGE_RANKS'			=> 'مدیریت رتبه‌ها',
 	'ACP_MANAGE_REASONS'		=> 'مدیریت دلایل گزارش ها',
 	'ACP_MANAGE_USERS'			=> 'مدیریت کاربران',
 	'ACP_MASS_EMAIL'			=> 'ایمیل دسته جمعی',
@@ -158,7 +158,7 @@ $lang = array_merge($lang, array(
 
 	'ACP_QUICK_ACCESS'			=> 'دسترسی سریع',
 
-	'ACP_RANKS'					=> 'رتبه ها',
+	'ACP_RANKS'					=> 'رتبه‌ها',
 	'ACP_REASONS'				=> 'گزارش ها/دلایل تحریم',
 	'ACP_REGISTER_SETTINGS'		=> 'تنظیمات ثبت نام کاربران',
 
