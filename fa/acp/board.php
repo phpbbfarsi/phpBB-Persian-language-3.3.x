@@ -146,7 +146,7 @@ $lang = array_merge($lang, array(
 	'ALLOW_PRINT_PM'			=> 'پذیرفتن نمایش حالت پرینت در پیام خصوصی',
 	'ALLOW_QUOTE_PM'			=> 'پذیرفتن نقل قول در پیام خصوصی',
 	'ALLOW_SIG_PM'				=> 'پذیرفتن امضا در پیام خصوصی',
-	'ALLOW_SMILIES_PM'			=> 'پذیرفتن شکلکک‌ها در پیام خصوصی',
+	'ALLOW_SMILIES_PM'			=> 'پذیرفتن شکلک‌ها در پیام خصوصی',
 	'BOXES_LIMIT'				=> 'حداکثر تعداد پیام خصوصی در هر جعبه',
 	'BOXES_LIMIT_EXPLAIN'		=> 'کاربران نمی توانند بیشتر از این تعداد پیام خصوصی را ببینند، برای نا محدود کردن این ویژگی 0 را وارد کنید.',
 	'BOXES_MAX'					=> 'حداکثر تعداد پوشه پیام خصوصی',
@@ -202,7 +202,7 @@ $lang = array_merge($lang, array(
 	'QUOTE_DEPTH_LIMIT_EXPLAIN'		=> 'حداکثر تودرتویی نقل قول در هر پست. برای غیرفعال کردن این ویژگی 0 را وارد کنید.',
 	'SMILIES_LIMIT'					=> 'حداکثر تعداد شکلک در هر پست',
 	'SMILIES_LIMIT_EXPLAIN'			=> 'حداکثر تعداد شکلک در هر پست،برای غیرفعال کردن این ویژگی 0 را وارد کنید.',
-	'SMILIES_PER_PAGE'				=> 'تعداد شکلکک‌ها در هر صفحه',
+	'SMILIES_PER_PAGE'				=> 'تعداد شکلک‌ها در هر صفحه',
 	'TOPICS_PER_PAGE'				=> 'تعداد موضوعات در هر صفحه',
 ));
 
@@ -492,7 +492,7 @@ $lang = array_merge($lang, array(
 	'SERVER_PROTOCOL'			=> 'پروتکل سرور',
 	'SERVER_PROTOCOL_EXPLAIN'	=> 'اگر از این تنظیمات استفاده شود، در این گزینه می توانید پروتکل مورد استفاده را مشخص کنید. اگر این فیلد خالی باشد و یا مورد استفاده قرار نگیرد، تنظیمات امن کوکی این پروتکل را مشخص خواهد کرد. (<samp>htts://</samp> یا <samp>https://</samp>).',
 	'SERVER_URL_SETTINGS'		=> 'تنظیمات URL سرور',
-	'SMILIES_PATH'				=> 'مسیر ذخیره ی شکلکک‌ها',
+	'SMILIES_PATH'				=> 'مسیر ذخیره شکلک‌ها',
 	'SMILIES_PATH_EXPLAIN'		=> 'مسیری در دایرکتوری phpBB شما. برای مثال <samp>images/smilies</samp>.',
 	'UPLOAD_ICONS_PATH'			=> 'مسیر ذخیره افزونه آیکون‌های گروه',
 	'UPLOAD_ICONS_PATH_EXPLAIN'	=> 'مسیری در دایرکتوری phpBBb شما.  برای مثال <samp>images/upload_icons</samp>.',
