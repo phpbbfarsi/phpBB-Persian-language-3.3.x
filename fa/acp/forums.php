@@ -153,7 +153,7 @@ $lang = array_merge($lang, array(
 
 	'PARENT_IS_LINK_FORUM'		=> 'در انجمن‌هایی که به صورت لینک هستند، نگهداری زیرانجمن‌ها مقدور نیست.',
 	'PARENT_NOT_EXIST'			=> 'شاخه ریشه موجود نیست',
-	'PRUNE_ANNOUNCEMENTS'		=> 'هرس کردن اطلاعیه ها',
+	'PRUNE_ANNOUNCEMENTS'		=> 'هرس کردن اطلاعیه‌ها',
 	'PRUNE_STICKY'				=> 'هرس کردن موضوعات مهم',
 	'PRUNE_OLD_POLLS'			=> 'هرس کردن نظرسنجی های قدیمی',
 	'PRUNE_OLD_POLLS_EXPLAIN'	=> 'اگر به تعداد روز سن پست‌ها به نظرسنجی رای داده نشود، نظرسنجی موضوع حذف خواهد شد.',

@@ -83,7 +83,7 @@ $lang = array_merge($lang, array(
 	'SELECTED_FORUMS'	=> 'انجمن‌های انتخاب شده',
 
 	'POSTS_PRUNED'					=> 'پست‌ها هرس شدند',
-	'PRUNE_ANNOUNCEMENTS'			=> 'هرس اطلاعیه ها',
+	'PRUNE_ANNOUNCEMENTS'			=> 'هرس اطلاعیه‌ها',
 	'PRUNE_FINISHED_POLLS'			=> 'هرس نظرسنجی های بسته',
 	'PRUNE_FINISHED_POLLS_EXPLAIN'	=> 'هرس موضوعاتی که نظرسنجی های آن به پایان رسیده است',
 	'PRUNE_FORUM_CONFIRM'			=> 'آیا از هرس موضوعات موجود در انجمن‌های انتخاب شده با توجه به تنظیمات تعریف شده مطمئنید؟بعد از هرس امکان بازآوری موضوعات هرس شده وجود نخواهد داشت.',

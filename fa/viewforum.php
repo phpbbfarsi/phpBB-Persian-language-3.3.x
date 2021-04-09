@@ -41,11 +41,11 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'ACTIVE_TOPICS'		=> 'موضوعات فعال',
-	'ANNOUNCEMENTS'		=> 'اطلاعیه ها',
+	'ANNOUNCEMENTS'		=> 'اطلاعیه‌ها',
 
 	'FORUM_PERMISSIONS'		=> 'سطوح دسترسی انجمن',
 
-	'ICON_ANNOUNCEMENT'		=> 'اطلاعیه ها',
+	'ICON_ANNOUNCEMENT'		=> 'اطلاعیه‌ها',
 	'ICON_STICKY'			=> 'سنجاق شده',
 
 	'LOGIN_NOTIFY_FORUM'		=> 'شما در مورد این انجمن مطلع شده اید، لطفاً برای مشاهده آن وارد شوید.',
