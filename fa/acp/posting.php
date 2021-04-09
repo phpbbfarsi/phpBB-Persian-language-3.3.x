@@ -68,7 +68,7 @@ $lang = array_merge($lang, array(
 	'BBCODE_USAGE_EXPLAIN'		=> 'کاربرد BBCode اینگونه می باشد،متغیرهای دلخواه را جایگزین مثال کنید. (%sدر قسمت پایین می توانید ببینید%s).',
 
 	'EXAMPLE'						=> 'مثال :',
-	'EXAMPLES'						=> 'مثال ها :',
+	'EXAMPLES'						=> 'مثال‌ها :',
 
 	'HTML_REPLACEMENT'				=> 'جایگزین HTML',
 	'HTML_REPLACEMENT_EXAMPLE'		=> '&lt;span style="background-color: {COLOR};"&gt;{TEXT}&lt;/span&gt;<br /><br />&lt;span style="font-family: {SIMPLETEXT1};"&gt;{SIMPLETEXT2}&lt;/span&gt;',
