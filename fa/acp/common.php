@@ -60,19 +60,19 @@ $lang = array_merge($lang, array(
 	'ACP_BOARD_FEATURES'		=> 'خصوصیات انجمن',
 	'ACP_BOARD_MANAGEMENT'		=> 'مدیریت انجمن',
 	'ACP_BOARD_SETTINGS'		=> 'تنظیمات انجمن',
-	'ACP_BOTS'					=> 'روبات/عنکبوت های جست‌وجوگر',
+	'ACP_BOTS'					=> 'ربات/عنکبوت های جست‌وجوگر',
 
 	'ACP_CAPTCHA'				=> 'کپچا',
 
 	'ACP_CAT_CUSTOMISE'			=> 'سفارشات',
 	'ACP_CAT_DATABASE'			=> 'پایگاه داده',
-	'ACP_CAT_DOT_MODS'			=> 'افزونه ها',
+	'ACP_CAT_DOT_MODS'			=> 'افزونه‌ها',
 	'ACP_CAT_FORUMS'			=> 'انجمن‌ها',
 	'ACP_CAT_GENERAL'			=> 'اصلی',
 	'ACP_CAT_MAINTENANCE'		=> 'نگهداری و تعمیر',
 	'ACP_CAT_PERMISSIONS'		=> 'سطوح دسترسی',
 	'ACP_CAT_POSTING'			=> 'ارسالات',
-	'ACP_CAT_STYLES'			=> 'قالب ها',
+	'ACP_CAT_STYLES'			=> 'قالب‌ها',
 	'ACP_CAT_SYSTEM'			=> 'سیستم',
 	'ACP_CAT_USERGROUP'			=> 'کاربران و گروه‌ها',
 	'ACP_CAT_USERS'				=> 'کاربران',
@@ -89,8 +89,8 @@ $lang = array_merge($lang, array(
 
 	'ACP_EMAIL_SETTINGS'		=> 'تنظیماتE-Mail',
 	'ACP_EXTENSION_GROUPS'		=> 'مدیریت گروه پسوندها',
-	'ACP_EXTENSION_MANAGEMENT'	=> 'مدیریت افزونه ها',
-	'ACP_EXTENSIONS'			=> 'مدیریت افزونه ها',
+	'ACP_EXTENSION_MANAGEMENT'	=> 'مدیریت افزونه‌ها',
+	'ACP_EXTENSIONS'			=> 'مدیریت افزونه‌ها',
 
 	'ACP_FORUM_BASED_PERMISSIONS'	=> 'سطح دسترسی مستقر انجمن',
 	'ACP_FORUM_LOGS'				=> 'رویداد های انجمن',
@@ -113,8 +113,8 @@ $lang = array_merge($lang, array(
 
 	'ACP_HELP_PHPBB'			=> 'کمک پشتیبانی phpBB',
 
-	'ACP_ICONS'					=> 'نماد های مبحث',
-	'ACP_ICONS_SMILIES'			=> 'آیکون های/شکلک های موضوعات',
+	'ACP_ICONS'					=> 'نماد های موضوع',
+	'ACP_ICONS_SMILIES'			=> 'آیکون‌های/شکلک‌های موضوعات',
 	'ACP_INACTIVE_USERS'		=> 'کاربران غیرفعال',
 	'ACP_INDEX'					=> 'صفحه اصلی کنترل پنل مدیریت',
 
@@ -128,11 +128,11 @@ $lang = array_merge($lang, array(
 	'ACP_MAIN'					=> 'صفحه اصلی کنترل پنل مدیریت',
 
 	'ACP_MANAGE_ATTACHMENTS'			=> 'مدیریت پیوست‌ها',
-	'ACP_MANAGE_ATTACHMENTS_EXPLAIN'	=> 'در این قسمت می‌توانید لیست و حذف فایل های پیوست در پست ها و پیام‌های خصوصی را ببینید.',
+	'ACP_MANAGE_ATTACHMENTS_EXPLAIN'	=> 'در این قسمت می‌توانید لیست و حذف فایل‌های پیوست در پست‌ها و پیام‌های خصوصی را ببینید.',
 
 	'ACP_MANAGE_EXTENSIONS'		=> 'مدیریت پسوند پیوست‌ها',
 	'ACP_MANAGE_FORUMS'			=> 'مدیریت انجمن‌ها',
-	'ACP_MANAGE_RANKS'			=> 'مدیریت رتبه ها',
+	'ACP_MANAGE_RANKS'			=> 'مدیریت رتبه‌ها',
 	'ACP_MANAGE_REASONS'		=> 'مدیریت دلایل گزارش ها',
 	'ACP_MANAGE_USERS'			=> 'مدیریت کاربران',
 	'ACP_MASS_EMAIL'			=> 'ایمیل دسته جمعی',
@@ -158,7 +158,7 @@ $lang = array_merge($lang, array(
 
 	'ACP_QUICK_ACCESS'			=> 'دسترسی سریع',
 
-	'ACP_RANKS'					=> 'رتبه ها',
+	'ACP_RANKS'					=> 'رتبه‌ها',
 	'ACP_REASONS'				=> 'گزارش ها/دلایل تحریم',
 	'ACP_REGISTER_SETTINGS'		=> 'تنظیمات ثبت نام کاربران',
 
@@ -175,15 +175,15 @@ $lang = array_merge($lang, array(
 	'ACP_SERVER_CONFIGURATION'	=> 'پیکربندی سرور',
 	'ACP_SERVER_SETTINGS'		=> 'تنظیمات سرور',
 	'ACP_SIGNATURE_SETTINGS'	=> 'تنظیمات امضا',
-	'ACP_SMILIES'				=> 'شکلک ها',
-	'ACP_STYLE_MANAGEMENT'		=> 'مدیریت قالب ها',
-	'ACP_STYLES'				=> 'قالب ها',
+	'ACP_SMILIES'				=> 'شکلک‌ها',
+	'ACP_STYLE_MANAGEMENT'		=> 'مدیریت قالب‌ها',
+	'ACP_STYLES'				=> 'قالب‌ها',
 	'ACP_STYLES_CACHE'			=> 'پاک سازی کش',
-	'ACP_STYLES_INSTALL'		=> 'نصب قالب ها',
+	'ACP_STYLES_INSTALL'		=> 'نصب قالب‌ها',
 
 	'ACP_SUBMIT_CHANGES'		=> 'ارسال تغییرات',
 
-	'ACP_TEMPLATES'				=> 'قالب ها (Templates)',
+	'ACP_TEMPLATES'				=> 'قالب‌ها (Templates)',
 	'ACP_THEMES'				=> 'تم ها (Themes)',
 
 	'ACP_UPDATE'					=> 'درحال به‌روز رسانی',
@@ -229,7 +229,7 @@ $lang = array_merge($lang, array(
 
 	'BACK'					=> 'بازگشت',
 
-	'CONTAINER_EXCEPTION' => 'در هنگام نصب افزونه امکان خطا وجود دارد. به همین جهت در این هنگام به صورت موقت تمامی افزونه ها غیرفعال میشود. لطفا کش را از صفحه اصلی پاک کنید. هنگامیکه خطاها رفع شود مجدد افزونه ها فعال خواهد شد. چنانچه این مشکل ادامه دار شد با پشتیبانی زیر تماس بگیرید <a href="https://www.phpbb.com/support">phpBB.com</a> ',
+	'CONTAINER_EXCEPTION' => 'در هنگام نصب افزونه امکان خطا وجود دارد. به همین جهت در این هنگام به صورت موقت تمامی افزونه‌ها غیرفعال میشود. لطفا کش را از صفحه اصلی پاک کنید. هنگامیکه خطاها رفع شود مجدد افزونه‌ها فعال خواهد شد. چنانچه این مشکل ادامه دار شد با پشتیبانی زیر تماس بگیرید <a href="https://www.phpbb.com/support">phpBB.com</a> ',
 	'EXCEPTION' => 'استثنا',
 
 	'COLOUR_SWATCH'			=> ' تغییر رنگ Web-safe swatch',
@@ -257,7 +257,7 @@ $lang = array_merge($lang, array(
 	'EXPORT_DOWNLOAD'		=> 'دانلود',
 	'EXPORT_STORE'			=> 'ذخیره',
 
-	'GENERAL_OPTIONS'		=> 'گزینه های عمومی',
+	'GENERAL_OPTIONS'		=> 'گزینه‌های عمومی',
 	'GENERAL_SETTINGS'		=> 'تنظیمات عمومی',
 	'GLOBAL_MASK'			=> 'ماسک سطوح دسترسی سراسری',
 
@@ -285,14 +285,14 @@ $lang = array_merge($lang, array(
 	'NOTIFY'				=> 'اطلاعیه',
 	'NO_ADMIN'				=> 'اجازه مدیریت این تالار را ندارید',
 	'NO_EMAILS_DEFINED'		=> 'آدرس ایمیل معتبری یافت نشد.',
-	'NO_FILES_TO_DELETE'	=> 'فایل های پیوست انتخابی جهت حذف وجود ندارند.',
+	'NO_FILES_TO_DELETE'	=> 'فایل‌های پیوست انتخابی جهت حذف وجود ندارند.',
 	'NO_PASSWORD_SUPPLIED'	=> 'برای دسترسی به کنترل پنل مدیریت، باید گذرواژه خود را وارد کنید.',
 
 	'OFF'					=> 'Off',
 	'ON'					=> 'On',
 
 	'PARSE_BBCODE'						=> 'تجزیه BBCode',
-	'PARSE_SMILIES'						=> 'تجزیه شکلک ها',
+	'PARSE_SMILIES'						=> 'تجزیه شکلک‌ها',
 	'PARSE_URLS'						=> 'تجزیه لینک ها',
 	'PERMISSIONS_TRANSFERRED'			=> 'سطوح دسترسی انتقال یافت',
 	'PERMISSIONS_TRANSFERRED_EXPLAIN'	=> 'اخیرا سطح دسترسی %1$s را دارید. می توانید با سطوح دسترسی این کاربر در تالار گردش کنید. ولی تا زمانی که سطوح دسترسی مدیریت انتقال نشود، به کنترل پنل مدیریت دسترسی نخواهید داشت. در هر زمانی می توانید <a href="%2$s">.<strong>به سطوح دسترسی خود برگردید</strong></a>',
@@ -333,7 +333,7 @@ $lang = array_merge($lang, array(
 
 // PHP info
 $lang = array_merge($lang, array(
-	'ACP_PHP_INFO_EXPLAIN'	=> 'این صفحه اطلاعات و جزئیات نسخه PHP نصب شده در سرور را نمایش می دهد و شامل ماژول های بارگذاری شده، داده های در دسترس و تنظیمات پیش‌فرض می باشد. این اطلاعات در حین حل مشکلات ممکن است سودمند واقع شود. ممکن است بعضی از شرکت های هاستینگ اطلاعات نمایشی را به دلایل امنیتب محدود کنند. توصیه می شود که اطلاعات موجود در این صفحه را به هیچکس جزء <a href="http://www.phpbb.com/about/team/">اعضای تیم رسمی</a> بازگو نکنید.',
+	'ACP_PHP_INFO_EXPLAIN'	=> 'این صفحه اطلاعات و جزئیات نسخه PHP نصب شده در سرور را نمایش می دهد و شامل ماژول های بارگذاری شده، داده‌های در دسترس و تنظیمات پیش‌فرض می باشد. این اطلاعات در حین حل مشکلات ممکن است سودمند واقع شود. ممکن است بعضی از شرکت های هاستینگ اطلاعات نمایشی را به دلایل امنیتب محدود کنند. توصیه می شود که اطلاعات موجود در این صفحه را به هیچکس جزء <a href="http://www.phpbb.com/about/team/">اعضای تیم رسمی</a> بازگو نکنید.',
 
 	'NO_PHPINFO_AVAILABLE'	=> 'اطلاعات پیکربندی PHP شما قابل تشخیص نیست. Phpinfo() برای دلایل امنیتی بسته شده است.',
 ));
@@ -342,11 +342,11 @@ $lang = array_merge($lang, array(
 $lang = array_merge($lang, array(
 	'ACP_ADMIN_LOGS_EXPLAIN'	=> 'این لیست حاوی همگی عملیات صورت گرفته توسط مدیران تالار می باشد. می توانید بر اساس نام کاربری،IP،تاریخ و عملیات صورت گرفته مرتب سازی کنید.  اگر سطح دسترسی کافی داشته باشید می توانید عملیاتی و یا کل رویداد ها را حذف کنید.',
 	'ACP_CRITICAL_LOGS_EXPLAIN'	=> 'این لیست حاوی عملیات صورت گرفته در تالار است. از اطلاعات این لیست می توانید در حل کردن بعضی از مشکلات مانند ایمیل های ارسال نشده استفاده کنید. می توانید بر اساس نام کاربری،IP، تاریخ و عملیات صورت گرفته مرتب سازی کنید. اگر سطح دسترسی کافی داشته باشید می توانید عملیاتی و یا کل رویداد ها را حذف کنید.',
-	'ACP_MOD_LOGS_EXPLAIN'		=> 'این لیست حاوی همگی عملیات صورت گرفته در انجمن‌ها، موضوعات و پست ها می باشد و همچنین حاوی اطلاعات عملیات صورت گرفته توسط مدیران انجمن بر روی کاربران است. این اطلاعات شامل تحریم کاربران نیز می شود. می توانید بر اساس نام کاربری،IP، تاریخ و عملیات صورت گرفته مرتب سازی کنید. اگر سطوح دسترسی کافی داشته باشید می توانید عملیاتی و یا کل رویداد ها را حذف کنید.',
+	'ACP_MOD_LOGS_EXPLAIN'		=> 'این لیست حاوی همگی عملیات صورت گرفته در انجمن‌ها، موضوعات و پست‌ها می باشد و همچنین حاوی اطلاعات عملیات صورت گرفته توسط مدیران انجمن بر روی کاربران است. این اطلاعات شامل تحریم کاربران نیز می شود. می توانید بر اساس نام کاربری،IP، تاریخ و عملیات صورت گرفته مرتب سازی کنید. اگر سطوح دسترسی کافی داشته باشید می توانید عملیاتی و یا کل رویداد ها را حذف کنید.',
 	'ACP_USERS_LOGS_EXPLAIN'	=> 'این لیست حاوی اطلاعات عملیات صورت گرفته بر روی کاربران و یا توسط کاربران است (شامل گزارش ها،هشدار ها و یادداشت های کاربران)',
-	'ALL_ENTRIES'				=> 'همه ی داده ها',
+	'ALL_ENTRIES'				=> 'همه ی داده‌ها',
 
-	'DISPLAY_LOG'	=> 'نمایش داده ها از آخر',
+	'DISPLAY_LOG'	=> 'نمایش داده‌ها از آخر',
 
 	'NO_ENTRIES'	=> 'هیچ رویدادی در این بازه وجود ندارد',
 
@@ -360,7 +360,7 @@ $lang = array_merge($lang, array(
 	'ADMIN_INTRO'				=> 'از انتخاب phpBB متشکریم. این صفحه اطلاعات جامع و سریعی را از آمار تالار در اختیارتان قرار می دهد. لینک های موجود در سمت راست صفحه به شما این امکان را می دهد تا تالارتان را به صورت جامع مدیریت کنید. هر صفحه حاوی دستور العمل های نحوه کارکرد تنظیمات می باشد.',
 	'ADMIN_LOG'					=> 'عملیات صورت گرفته توسط مدیران',
 	'ADMIN_LOG_INDEX_EXPLAIN'	=> 'این بخش 5 عملیات اخیر صورت گرفته توسط مدیران را نمایش می دهد. همه ی رویدادها در منوی مربوطه و یا از لینک زیر در دسترس است.',
-	'AVATAR_DIR_SIZE'			=> 'حجم کلی نمایه ها ( آواتارها )',
+	'AVATAR_DIR_SIZE'			=> 'حجم شاخه آواتار',
 
 	'BOARD_STARTED'		=> 'تاریخ شروع فعالیت تالار',
 	'BOARD_VERSION'		=> 'نسخه تالار',
@@ -385,7 +385,7 @@ $lang = array_merge($lang, array(
 
 	'GZIP_COMPRESSION'	=> 'GZip فشرده ساز',
 
-	'NO_SEARCH_INDEX'	=> 'سیستم مدیریتی جست‌وجوی انتخاب شده فاقد صفحه اصلی است.<br />لطفا صفحه ای برای “%1$s” در %2$sصفحه جست‌وجو%3$s ایجاد کنید.',
+	'NO_SEARCH_INDEX'	=> 'سیستم مدیریتی جست‌وجوی انتخاب شده فاقد صفحه اصلی است.<br />لطفا صفحه‌ای برای “%1$s” در %2$sصفحه جست‌وجو%3$s ایجاد کنید.',
 	'NOT_AVAILABLE'		=> 'در دسترس نیست',
 	'NUMBER_FILES'		=> 'تعداد پیوست ',
 	'NUMBER_POSTS'		=> 'تعداد پست ',
@@ -394,7 +394,7 @@ $lang = array_merge($lang, array(
 	'NUMBER_ORPHAN'		=> 'پیوست‌های بدون صاحب',
 
 	'PHP_VERSION'		=> 'PHP نسخه',
-	'PHP_VERSION_OLD'	=> 'نسخه PHP این سرور (%1$s) دیگر توسط نسخه های بعدی phpBB پشتیبانی نخواهد شد حداقل نسخه مورد نیاز برای آینده PHP نسخه %2$sاست %3$sجزئیات%4$s',
+	'PHP_VERSION_OLD'	=> 'نسخه PHP این سرور (%1$s) دیگر توسط نسخه‌های بعدی phpBB پشتیبانی نخواهد شد حداقل نسخه مورد نیاز برای آینده PHP نسخه %2$sاست %3$sجزئیات%4$s',
 
 	'POSTS_PER_DAY'		=> 'تعداد پست در هر روز',
 
@@ -414,17 +414,17 @@ $lang = array_merge($lang, array(
 	'RESET_ONLINE'					=> 'بازنشانی بیشترین تعداد افراد آنلاین',
 	'RESET_ONLINE_CONFIRM'			=> 'آیا از بازنشانی بیشترین تعداد افراد آنلاین مطمئنید؟',
 	'RESET_ONLINE_SUCCESS'			=> 'بیشترین افراد آنلاین با موفقیت بازنشانی شد',
-	'RESYNC_POSTCOUNTS'				=> 'همگام سازی مجدد تعداد پست ها',
-	'RESYNC_POSTCOUNTS_EXPLAIN'		=> 'فقط به پست های موجود رسیدگی می شود . پست های هرس شده حساب نمی شوند.',
-	'RESYNC_POSTCOUNTS_CONFIRM'		=> 'آیا از همگام سازی مجدد تعداد پست ها مطمئنید؟',
-	'RESYNC_POSTCOUNTS_SUCCESS'		=> 'همگام سازی مجدد پست ها انجام شد',
+	'RESYNC_POSTCOUNTS'				=> 'همگام سازی مجدد تعداد پست‌ها',
+	'RESYNC_POSTCOUNTS_EXPLAIN'		=> 'فقط به پست‌های موجود رسیدگی می شود . پست‌های هرس شده حساب نمی شوند.',
+	'RESYNC_POSTCOUNTS_CONFIRM'		=> 'آیا از همگام سازی مجدد تعداد پست‌ها مطمئنید؟',
+	'RESYNC_POSTCOUNTS_SUCCESS'		=> 'همگام سازی مجدد پست‌ها انجام شد',
 	'RESYNC_POST_MARKING'			=> 'همگام سازی مجدد موضوعات علامت گذاری شده',
 	'RESYNC_POST_MARKING_CONFIRM'	=> 'آیا از همگام سازی مجدد موضوعات علامت گذاری شده مطمئنید؟',
-	'RESYNC_POST_MARKING_EXPLAIN'	=> 'ابتدا علامت گذاری تمام تاپیک ها از بین می رود و سپس تاپیک هایی که در 6 ماه گذشته در آن‌ها هرگونه فعالیتی دیده شده علامت گذاری می شوند.',
+	'RESYNC_POST_MARKING_EXPLAIN'	=> 'ابتدا علامت گذاری تمام موضوعات از بین می رود و سپس موضوعاتی که در 6 ماه گذشته در آن‌ها هرگونه فعالیتی دیده شده علامت گذاری می شوند.',
 	'RESYNC_POST_MARKING_SUCCESS'	=> 'همگام سازی مجدد موضوعات علامت گذاری شده انجام شد',
 	'RESYNC_STATS'					=> 'همگام سازی مجدد آمار',
 	'RESYNC_STATS_CONFIRM'			=> 'آیا از همگام سازی مجدد آمار مطمئنید؟',
-	'RESYNC_STATS_EXPLAIN'			=> 'محاسبه مجدد تعداد پست ها ، موضوعات ، اعضا و فایل ها.',
+	'RESYNC_STATS_EXPLAIN'			=> 'محاسبه مجدد تعداد پست‌ها ، موضوعات ، اعضا و فایل‌ها.',
 	'RESYNC_STATS_SUCCESS'			=> 'همگام سازی مجدد آمار انجام شد',
 	'RUN'							=> 'اجرا',
 
@@ -483,7 +483,7 @@ $lang = array_merge($lang, array(
 
 // Help support phpBB page
 $lang = array_merge($lang, array(
-	'EXPLAIN_SEND_STATISTICS'	=> 'لطفا اطلاعات سرور و پیکربندی تالارتان را به phpBB به منظور آنالیز آن‌ها،ارسال کنید. تمام اطلاعاتی که ممکن است حاوی هویت شما باشد،حذف خواهند شد. - اطلاعات کاملا <strong>بی نام</strong>خواهند بود. این اطلاعات برای عموم قابل دسترسی است و ما بر اساس این اطلاعات در مورد نسخه های بعدی phpBB تصمیم گیری می کنیم.همچنین این آمار با پروژه PHP که زبان برنامه نویسی phpBB هست نیز به اشتراک گذاشته خواهد شد.',
+	'EXPLAIN_SEND_STATISTICS'	=> 'لطفا اطلاعات سرور و پیکربندی تالارتان را به phpBB به منظور آنالیز آن‌ها،ارسال کنید. تمام اطلاعاتی که ممکن است حاوی هویت شما باشد،حذف خواهند شد. - اطلاعات کاملا <strong>بی نام</strong>خواهند بود. این اطلاعات برای عموم قابل دسترسی است و ما بر اساس این اطلاعات در مورد نسخه‌های بعدی phpBB تصمیم گیری می کنیم.همچنین این آمار با پروژه PHP که زبان برنامه نویسی phpBB هست نیز به اشتراک گذاشته خواهد شد.',
 	'EXPLAIN_SHOW_STATISTICS'	=> 'با استفاده از دکمه زیر می توانید تمامی اطلاعاتی را که منتقل خواهند شد، ببینید.',
 	'DONT_SEND_STATISTICS'		=> 'اگر مایل به ارسال آمار به phpBB نیستید، به کنترل پنل مدیریت بازگردید.',
 	'GO_ACP_MAIN'				=> 'بازگشت به صفحه شروع کنترل پنل مدیریت.',
@@ -552,9 +552,9 @@ $lang = array_merge($lang, array(
 	'LOG_BBCODE_DELETE'		=> '<strong>BBCode حذف شد</strong><br />» %s',
 	'LOG_BBCODE_CONFIGURATION_ERROR'	=> '<strong>خطا هنگام تنظیمات BBCode</strong>: %1$s<br />» %2$s',
 
-	'LOG_BOT_ADDED'		=> '<strong>روبات جدیدی اضافه شد</strong><br />» %s',
-	'LOG_BOT_DELETE'	=> '<strong>روبات حذف شد</strong><br />» %s',
-	'LOG_BOT_UPDATED'	=> '<strong>روبات کنونی به‌روز رسانی شد</strong><br />» %s',
+	'LOG_BOT_ADDED'		=> '<strong>ربات جدیدی اضافه شد</strong><br />» %s',
+	'LOG_BOT_DELETE'	=> '<strong>ربات حذف شد</strong><br />» %s',
+	'LOG_BOT_UPDATED'	=> '<strong>ربات کنونی به‌روز رسانی شد</strong><br />» %s',
 
 	'LOG_CLEAR_ADMIN'		=> '<strong>رویدادهای مدیریت پاک شدند</strong>',
 	'LOG_CLEAR_CRITICAL'	=> '<strong>رویدادهای خطاها پاک شدند</strong>',
@@ -588,7 +588,7 @@ $lang = array_merge($lang, array(
 	'LOG_FORK'					=> '<strong>موضوع کپی شد</strong><br />» from %s',
 	'LOG_LOCK'					=> '<strong>موضوع قفل شد</strong><br />» %s',
 	'LOG_LOCK_POST'				=> '<strong>پست قفل شد</strong><br />» %s',
-	'LOG_MERGE'					=> '<strong>پست ها در این موضوع ادغام شدند</strong><br />» %s',
+	'LOG_MERGE'					=> '<strong>پست‌ها در این موضوع ادغام شدند</strong><br />» %s',
 	'LOG_MOVE'					=> '<strong>موضوع انتقال داده شد</strong><br />» از %1$s به %2$s',
 	'LOG_MOVED_TOPIC'			=> '<strong>انتقال موضوع</strong><br />» %s',
 	'LOG_PM_REPORT_CLOSED'		=> '<strong>گزارش پیام خصوصی بسته شد</strong><br />» %s',
@@ -602,8 +602,8 @@ $lang = array_merge($lang, array(
 	'LOG_RESTORE_TOPIC'			=> '<strong>موضوع “%1$s بازیابی شد. نوشته شده توسط</strong><br />» %2$s',
 	'LOG_SOFTDELETE_POST'		=> '<strong>حذف موقت پست “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_SOFTDELETE_TOPIC'		=> '<strong>حذف موقت موضوع “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
-	'LOG_SPLIT_DESTINATION'		=> '<strong>پست های دوبخشی منقل شدند</strong><br />» به %s',
-	'LOG_SPLIT_SOURCE'			=> '<strong>پست های دوبخشی</strong><br />» از %s',
+	'LOG_SPLIT_DESTINATION'		=> '<strong>پست‌های دوبخشی منقل شدند</strong><br />» به %s',
+	'LOG_SPLIT_SOURCE'			=> '<strong>پست‌های دوبخشی</strong><br />» از %s',
 
 	'LOG_TOPIC_APPROVED'		=> '<strong>موضوع تأیید شد</strong><br />» %s',
 	'LOG_TOPIC_RESTORED'		=> '<strong>موضوع بازیابی شد</strong><br />» %s',
@@ -633,12 +633,12 @@ $lang = array_merge($lang, array(
 	'LOG_FORUM_DEL_FORUM'					=> '<strong>انجمن حذف شذ</strong><br />» %s',
 	'LOG_FORUM_DEL_FORUMS'					=> '<strong>انجمن و زیرانجمن‌های آن حذف شدند</strong><br />» %s',
 	'LOG_FORUM_DEL_MOVE_FORUMS'				=> '<strong>انجمن حذف شد و زیرانجمن‌های آن </strong> به %1$s منتقل شدند<br />» %2$s',
-	'LOG_FORUM_DEL_MOVE_POSTS'				=> '<strong>انجمن حذف شد و پست های آن </strong> به %1$s منتقل شدند<br />» %2$s',
-	'LOG_FORUM_DEL_MOVE_POSTS_FORUMS'		=> '<strong>انجمن و زیرانجمن‌های آن حذف شدند و پست ها</strong> به %1$s منتقل شدند<br />» %2$s',
-	'LOG_FORUM_DEL_MOVE_POSTS_MOVE_FORUMS'	=> '<strong>انجمن حذف شد و پست ها</strong> به %1$s منتقل شدند <strong>و زیرانجمن‌ها نیز</strong> به %2$s منتقل شدند<br />» %3$s',
-	'LOG_FORUM_DEL_POSTS'					=> '<strong>انجمن و پست های آن حذف شدند</strong><br />» %s',
-	'LOG_FORUM_DEL_POSTS_FORUMS'			=> '<strong>انجمن همراه با زیرانجمن‌ها و پست های آن حذف شدند </strong><br />» %s',
-	'LOG_FORUM_DEL_POSTS_MOVE_FORUMS'		=> '<strong>انجمن و پست های ان حذف شدند و زیرانجمن‌های آن نیز</strong> به %1$s منتقل شدند<br />» %2$s',
+	'LOG_FORUM_DEL_MOVE_POSTS'				=> '<strong>انجمن حذف شد و پست‌های آن </strong> به %1$s منتقل شدند<br />» %2$s',
+	'LOG_FORUM_DEL_MOVE_POSTS_FORUMS'		=> '<strong>انجمن و زیرانجمن‌های آن حذف شدند و پست‌ها</strong> به %1$s منتقل شدند<br />» %2$s',
+	'LOG_FORUM_DEL_MOVE_POSTS_MOVE_FORUMS'	=> '<strong>انجمن حذف شد و پست‌ها</strong> به %1$s منتقل شدند <strong>و زیرانجمن‌ها نیز</strong> به %2$s منتقل شدند<br />» %3$s',
+	'LOG_FORUM_DEL_POSTS'					=> '<strong>انجمن و پست‌های آن حذف شدند</strong><br />» %s',
+	'LOG_FORUM_DEL_POSTS_FORUMS'			=> '<strong>انجمن همراه با زیرانجمن‌ها و پست‌های آن حذف شدند </strong><br />» %s',
+	'LOG_FORUM_DEL_POSTS_MOVE_FORUMS'		=> '<strong>انجمن و پست‌های ان حذف شدند و زیرانجمن‌های آن نیز</strong> به %1$s منتقل شدند<br />» %2$s',
 	'LOG_FORUM_EDIT'						=> '<strong>جزئیات انجمن ویرایش شد</strong><br />» %s',
 	'LOG_FORUM_MOVE_DOWN'					=> '<strong>انجمن</strong> %1$s به <strong>زیر</strong> %2$s منقل شد',
 	'LOG_FORUM_MOVE_UP'						=> '<strong>انجمن</strong> %1$s به <strong>بالای</strong> %2$s منقل شد',
@@ -676,7 +676,7 @@ $lang = array_merge($lang, array(
 	'LOG_LANGUAGE_PACK_DELETED'		=> '<strong>بسته زبانی حذف شد</strong><br />» %s',
 	'LOG_LANGUAGE_PACK_INSTALLED'	=> '<strong>بسته زبانی نصب شد</strong><br />» %s',
 	'LOG_LANGUAGE_PACK_UPDATED'		=> '<strong>جزئیات بسته زبانی به‌روز رسانی شد</strong><br />» %s',
-	'LOG_LANGUAGE_FILE_REPLACED'	=> '<strong>فایل های زبان جایگزین شدند</strong><br />» %s',
+	'LOG_LANGUAGE_FILE_REPLACED'	=> '<strong>فایل‌های زبان جایگزین شدند</strong><br />» %s',
 	'LOG_LANGUAGE_FILE_SUBMITTED'	=> '<strong>فایل زبان ارسال و در پوشه مورد نظر ذخیره شد</strong><br />» %s',
 
 	'LOG_MASS_EMAIL'		=> '<strong>ایمیل های دسته جمعی ارسال شدند</strong><br />» %s',
@@ -716,8 +716,8 @@ $lang = array_merge($lang, array(
 	'LOG_AUTO_PRUNE'			=> '<strong>انجمن‌ها به صورت خودکار هرس شدند</strong><br />» %s',
 	'LOG_PRUNE_SHADOW'		=> '<strong>سایه موضوعات به صورت خودکار هرس شدند.</strong><br />» %s',
 	'LOG_PRUNE_USER_DEAC'		=> '<strong>کاربران غیرفعال شدند</strong><br />» %s',
-	'LOG_PRUNE_USER_DEL_DEL'	=> '<strong>کاربران هرس شده و پست ها حذف شدند </strong><br />» %s',
-	'LOG_PRUNE_USER_DEL_ANON'	=> '<strong>کاربران هرس شده و پست ها حفظ شدند</strong><br />» %s',
+	'LOG_PRUNE_USER_DEL_DEL'	=> '<strong>کاربران هرس شده و پست‌ها حذف شدند </strong><br />» %s',
+	'LOG_PRUNE_USER_DEL_ANON'	=> '<strong>کاربران هرس شده و پست‌ها حفظ شدند</strong><br />» %s',
 
 	'LOG_PURGE_CACHE'			=> '<strong>پاکسازی شدند cach</strong>',
 	'LOG_PURGE_SESSIONS'		=> '<strong>نشست ها پاکسازی شدند</strong>',
@@ -733,10 +733,10 @@ $lang = array_merge($lang, array(
 	'LOG_REFERER_INVALID'		=> '<strong>تأیید رجوع کننده موفقیت آمیز نبود</strong><br />»رجوع کننده “<em>%1$s</em>” بود که درخواست آن رد شده و نشست بسته شد',
 	'LOG_RESET_DATE'			=> '<strong>تاریخ شروع فعالیت تالار بازنشانی شد</strong>',
 	'LOG_RESET_ONLINE'			=> '<strong>بیشترین تعداد افراد آنلاین بازنشانی شد</strong>',
-	'LOG_RESYNC_FILES_STATS'	=> '<strong>آمار فایل ها همگام سازی مجدد شد</strong>',
+	'LOG_RESYNC_FILES_STATS'	=> '<strong>آمار فایل‌ها همگام سازی مجدد شد</strong>',
 	'LOG_RESYNC_POSTCOUNTS'		=> '<strong>تعداد پست کاربر همگام سازی مجدد شد</strong>',
 	'LOG_RESYNC_POST_MARKING'	=> '<strong>موضوعات علامت گذاری شده همگام سازی مجدد شد. </strong>',
-	'LOG_RESYNC_STATS'			=> '<strong>آمار پست ها، موضوعات و کاربران همگام سازی مجدد شدند.</strong>',
+	'LOG_RESYNC_STATS'			=> '<strong>آمار پست‌ها، موضوعات و کاربران همگام سازی مجدد شدند.</strong>',
 
 	'LOG_SEARCH_INDEX_CREATED'	=> '<strong>شاخص جست‌وجو ایجاد شد</strong><br />» %s',
 	'LOG_SEARCH_INDEX_REMOVED'	=> '<strong>شاخص جست‌وجو حذف شد</strong><br />» %s',
@@ -750,7 +750,7 @@ $lang = array_merge($lang, array(
 	'LOG_TEMPLATE_ADD_DB'			=> '<strong>مجموعه قالب جدیدی به پایگاه داده اضافه شد</strong><br />» %s',
 	// @deprecated 3.1
 	'LOG_TEMPLATE_ADD_FS'			=> '<strong>مجموعه قالب جدیدی به سیستم فایل اضافه شد</strong><br />» %s',
-	'LOG_TEMPLATE_CACHE_CLEARED'	=> '<strong>نسخه های cach پایگاه داده برای مجموعه فالب، حذف شد <em>%1$s</em></strong><br />» %2$s',
+	'LOG_TEMPLATE_CACHE_CLEARED'	=> '<strong>نسخه‌های cach پایگاه داده برای مجموعه فالب، حذف شد <em>%1$s</em></strong><br />» %2$s',
 	'LOG_TEMPLATE_DELETE'			=> '<strong>مجموعه قالب حذف شد</strong><br />» %s',
 	'LOG_TEMPLATE_EDIT'				=> '<strong>مجموعه قالب <em>%1$s</em> ویرایش شد</strong><br />» %2$s',
 	'LOG_TEMPLATE_EDIT_DETAILS'		=> '<strong>جزئیات قالب ویرایش شد</strong><br />» %s',
@@ -781,10 +781,10 @@ $lang = array_merge($lang, array(
 	'LOG_USER_DEL_ATTACH'	=> '<strong>همه ی پیوست‌های متعلق به کاربر حذف شد</strong><br />» %s',
 	'LOG_USER_DEL_AVATAR'	=> '<strong>نمایه کاربر حذف شد</strong><br />» %s',
 	'LOG_USER_DEL_OUTBOX'	=> '<strong>صندوق خروجی کاربر تخلیه شد</strong><br />» %s',
-	'LOG_USER_DEL_POSTS'	=> '<strong>همه ی پست های متعلق به کاربر حذف شد</strong><br />» %s',
+	'LOG_USER_DEL_POSTS'	=> '<strong>همه ی پست‌های متعلق به کاربر حذف شد</strong><br />» %s',
 	'LOG_USER_DEL_SIG'		=> '<strong>امضای کاربر حذف شد</strong><br />» %s',
 	'LOG_USER_INACTIVE'		=> '<strong>کاربر غیرفعال شد</strong><br />» %s',
-	'LOG_USER_MOVE_POSTS'	=> '<strong>پست های کاربر منتقل شدند</strong><br />» پست های متعلق به “%1$s” به انجمن “%2$s” منتقل شدند',
+	'LOG_USER_MOVE_POSTS'	=> '<strong>پست‌های کاربر منتقل شدند</strong><br />» پست‌های متعلق به “%1$s” به انجمن “%2$s” منتقل شدند',
 	'LOG_USER_NEW_PASSWORD'	=> '<strong>گذرواژه کاربر تغییر یافت</strong><br />» %s',
 	'LOG_USER_REACTIVATE'	=> '<strong>اکنون کاربر مجبور به فعال سازی دوباره اکانت خود می باشد</strong><br />» %s',
 	'LOG_USER_REMOVED_NR'	=> '<strong>بیان کاربر جدید از کاربر حذف شد</strong><br />» %s',
@@ -800,7 +800,7 @@ $lang = array_merge($lang, array(
 	'LOG_USER_GENERAL'			=> '<strong>داده اضافه شد :</strong><br />» %s',
 	'LOG_USER_INACTIVE_USER'	=> '<strong>اکانت کاربر غیرفعال شد</strong>',
 	'LOG_USER_LOCK'				=> '<strong>کاربر موضوع خود را قفل کرد</strong><br />» %s',
-	'LOG_USER_MOVE_POSTS_USER'	=> '<strong>همه پست ها به انجمن</strong>» %s منتقل شدند',
+	'LOG_USER_MOVE_POSTS_USER'	=> '<strong>همه پست‌ها به انجمن</strong>» %s منتقل شدند',
 	'LOG_USER_REACTIVATE_USER'	=> '<strong>اکنون کاربر مجبور به فعال سازی مجدد اکانت خود می باشد</strong>',
 	'LOG_USER_UNLOCK'			=> '<strong>کاربر قفل موضوع خود را باز کرد</strong><br />» %s',
 	'LOG_USER_WARNING'			=> '<strong>هشدار به کاربر اضافه شد</strong><br />» %s',
@@ -825,6 +825,6 @@ $lang = array_merge($lang, array(
 
 	'LOG_EXT_ENABLE'	=> '<strong>افزونه فعال شد</strong><br />» %s',
 	'LOG_EXT_DISABLE'	=> '<strong>افزونه غیرفعال شد</strong><br />» %s',
-	'LOG_EXT_PURGE'		=> '<strong>داده های افزونه حذف شد.</strong><br />» %s',
+	'LOG_EXT_PURGE'		=> '<strong>داده‌های افزونه حذف شد.</strong><br />» %s',
 	'LOG_EXT_UPDATE'	=> '<strong>افزونه به روز می‌باشد</strong><br />» %s',
 ));

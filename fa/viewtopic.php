@@ -117,8 +117,8 @@ $lang = array_merge($lang, array(
 	'VIEW_PREVIOUS_TOPIC'	=> 'موضوع قبلی',
 	'VIEW_RESULTS'			=> 'نمایش نتیجه',
 	'VIEW_TOPIC_POSTS'		=> array(
-		1	=> 'تعداد پست ها:%d',
-		2	=> 'تعداد پست ها:%d',
+		1	=> 'تعداد پست‌ها:%d',
+		2	=> 'تعداد پست‌ها:%d',
 	),
 	'VIEW_UNREAD_POST'		=> 'اولین پست خوانده نشده',
 	'VOTE_SUBMITTED'		=> 'رأی شما با موفقیت ثبت شد.',

@@ -64,11 +64,11 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_FIND_MIGRATIONS'			=> 'پیدا کردن انتقال بدون وابسطه.',
 	'CLI_DESCRIPTION_FIX_LEFT_RIGHT_IDS'		=> 'تعمیر ساختار درختی انجمن‌ها و مدل ها ',
 	'CLI_DESCRIPTION_GET_CONFIG'				=> 'گرفتن مقدار برای گزینه پیکیربندی',
-	'CLI_DESCRIPTION_INCREMENT_CONFIG'			=> 'افزایش مقدار صحیح گزینه های پیکری بندی',
-	'CLI_DESCRIPTION_LIST_EXTENSIONS'			=> 'لیست تمامی افزونه های درون دیتابیس و فایل های سیستمی',
+	'CLI_DESCRIPTION_INCREMENT_CONFIG'			=> 'افزایش مقدار صحیح گزینه‌های پیکری بندی',
+	'CLI_DESCRIPTION_LIST_EXTENSIONS'			=> 'لیست تمامی افزونه‌های درون دیتابیس و فایل‌های سیستمی',
 	
 	'CLI_DESCRIPTION_OPTION_ENV'				=> 'نام محیط',
-	'CLI_DESCRIPTION_OPTION_SAFE_MODE'			=> 'اجرا در حالت امن (بدون افزونه ها).',
+	'CLI_DESCRIPTION_OPTION_SAFE_MODE'			=> 'اجرا در حالت امن (بدون افزونه‌ها).',
 	'CLI_DESCRIPTION_OPTION_SHELL'				=> 'اجرا shell',
 	
 	'CLI_DESCRIPTION_PURGE_EXTENSION'			=> 'پاکسازی افزونه مشخص.',
@@ -92,9 +92,9 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_THUMBNAIL_RECREATE'				=> 'بازسازی همه ریزعکس ها',
 
 	'CLI_DESCRIPTION_UPDATE_CHECK'					=> 'بررسی به روز بودن انجمن',
-	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'		=> 'نام افزونه ها برای بررسی ( اگر همه انتخاب شود، همه بررسی میشوند',
+	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'		=> 'نام افزونه‌ها برای بررسی ( اگر همه انتخاب شود، همه بررسی میشوند',
 	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_CACHE'		=> 'اجرای دستور بررسیبا سیستم کش',
-	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_STABILITY'	=> 'اجرای دستور انتخاب برای بررسی نسخه های پایدار یا ناپایدار',
+	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_STABILITY'	=> 'اجرای دستور انتخاب برای بررسی نسخه‌های پایدار یا ناپایدار',
 
 	'CLI_DESCRIPTION_UPDATE_HASH_BCRYPT'		=> 'به‌روز رسانی هش گذرواژههای انقضا شده به هش های با bcrypt.',
 	
@@ -112,7 +112,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_USER_ADD_OPTION_NOTIFY'	=> 'ارسال ایمیل فعال سازی کاربر جدید ( به صورت پیش‌فرض ارسال نمی شود.)',
 	'CLI_DESCRIPTION_USER_DELETE'				=> 'حذف اکانت کاربر',
 	'CLI_DESCRIPTION_USER_DELETE_USERNAME'		=> 'حذف نام کاربری کاربر',
-	'CLI_DESCRIPTION_USER_DELETE_OPTION_POSTS'	=> 'حذف تمامی پست های کاربر. بدون انجام این گزینه پست های کاربر همچنان باقی خواهد ماند.',
+	'CLI_DESCRIPTION_USER_DELETE_OPTION_POSTS'	=> 'حذف تمامی پست‌های کاربر. بدون انجام این گزینه پست‌های کاربر همچنان باقی خواهد ماند.',
 	'CLI_DESCRIPTION_USER_RECLEAN'				=> 'پاکسازی مجدد نام های کاربری',
  
 	'CLI_EXTENSION_DISABLE_FAILURE'		=> 'امکان غیرفعال سازی افزونه %s وجود ندارد.',
@@ -133,7 +133,7 @@ $lang = array_merge($lang, array(
         'CLI_EXTENSIONS_DISABLED' => 'غیرفعال',
         'CLI_EXTENSIONS_ENABLED' => 'فعال',
 
-    'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار  درختی انجمن‌ها و مدل ها با موفقیت انجام شد. ',
+    'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار درختی انجمن‌ها و مدل ها با موفقیت انجام شد. ',
 	'CLI_FIXUP_UPDATE_HASH_BCRYPT_SUCCESS'		=> 'گذرواژههای منقضی و هش شده با موفقیت به‌روز رسانی شد.',
 	
 	'CLI_MIGRATION_NAME'					=> 'نام مهاجرت ، که شامل فضای جمله می شود ( استفاده از اسلش به جای بک اسلش جهت جلوگیری از مشکلات )',
@@ -172,7 +172,7 @@ $lang = array_merge($lang, array(
 // Additional help for commands.
 $lang = array_merge($lang, array(
 	'CLI_HELP_CRON_RUN'			=> $lang['CLI_DESCRIPTION_CRON_RUN'] . ' در صورت تمایل می‌توانید نام یک و ظیفه را برای اجرا برای یک کار مشخص کنید.',
-		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیرفعال سازی اکانت  ها توسط <info>--غیرفعال</info> گزینه.
+		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیرفعال سازی اکانتت ها توسط <info>--غیرفعال</info> گزینه.
 به صورت اختیاری ایمیل فعال سازی برای کاربر ارسال کنید <info>--ارسال ایمیل</info> گزینه.',
 	'CLI_HELP_USER_ADD'			=> ' <info>%command.name%</info> دستور اضافه کردن کاربر:
 اگر دستور اجرا بدون گزینه انجام شود از شما میخواهد که وارد آن شوید.

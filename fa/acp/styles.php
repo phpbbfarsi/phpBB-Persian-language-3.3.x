@@ -40,7 +40,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, [
-	'ACP_STYLES_EXPLAIN'	        => 'در این بخش می‌توانید به مدیریت قالب های انجمن خود بپردازید.',
+	'ACP_STYLES_EXPLAIN'	        => 'در این بخش می‌توانید به مدیریت قالب‌های انجمن خود بپردازید.',
 
 	'CANNOT_BE_INSTALLED'			=> 'امکان نصب وجود ندارد.',
 	'CONFIRM_UNINSTALL_STYLES'		=> 'آیا از حذف قالب انتخابی مطمئنید؟',
@@ -48,14 +48,14 @@ $lang = array_merge($lang, [
 
 	'DEACTIVATE_DEFAULT'		=> 'نمی توانید قالب پیش‌فرض را غیرفعال کنید.',
 	'DELETE_FROM_FS'			=> 'حذف از سیستم فایل',
-	'DELETE_STYLE_FILES_FAILED'	=> 'خطا در حذف فایل های قالب "%s".',
-	'DELETE_STYLE_FILES_SUCCESS'	=> 'فایل های قالب "%s" حذف شدند.',
+	'DELETE_STYLE_FILES_FAILED'	=> 'خطا در حذف فایل‌های قالب "%s".',
+	'DELETE_STYLE_FILES_SUCCESS'	=> 'فایل‌های قالب "%s" حذف شدند.',
 	'DETAILS'					=> 'جزئیات',
 
 	'INHERITING_FROM'			=> 'برگرفته از',
 	'INSTALL_STYLE'				=> 'نصب قالب',
-	'INSTALL_STYLES'			=> 'نصب قالب ها',
-	'INSTALL_STYLES_EXPLAIN'		=> 'در این بخش می توانید قالبی را همراه با عناصر آن نصب کنید،عناصر اضافه شده موجب حذف شدن عناصر قبلی نخواهند شد،بعضی از قالب ها نیازمند عناصر پیش‌فرض هستند،اگر قالبی این چنین بود، به شما اطلاع داده خواهد شد.',
+	'INSTALL_STYLES'			=> 'نصب قالب‌ها',
+	'INSTALL_STYLES_EXPLAIN'		=> 'در این بخش می توانید قالبی را همراه با عناصر آن نصب کنید،عناصر اضافه شده موجب حذف شدن عناصر قبلی نخواهند شد،بعضی از قالب‌ها نیازمند عناصر پیش‌فرض هستند،اگر قالبی این چنین بود، به شما اطلاع داده خواهد شد.',
 	'INVALID_STYLE_ID'			=> 'شماره قالب معتبر نیست.',
 
 	'NO_MATCHING_STYLES_FOUND'	=> 'قالبی یافت نشد.',
@@ -74,8 +74,8 @@ $lang = array_merge($lang, [
 	'STYLE_ERR_NAME_EXIST'		=> 'قالبی با این عنوان موجود است.',
 	'STYLE_ERR_STYLE_NAME'		=> 'برای این قالب باید نامی انتخاب کنید.',
 	'STYLE_INSTALLED'			=> 'قالب "%s" با موفقیت نصب شد.',
-	'STYLE_INSTALLED_RETURN_INSTALLED_STYLES'	=> 'بازگشت به لیست قالب های نصب شده',
-	'STYLE_INSTALLED_RETURN_UNINSTALLED_STYLES'	=> 'نصب قالب های بیشتر',
+	'STYLE_INSTALLED_RETURN_INSTALLED_STYLES'	=> 'بازگشت به لیست قالب‌های نصب شده',
+	'STYLE_INSTALLED_RETURN_UNINSTALLED_STYLES'	=> 'نصب قالب‌های بیشتر',
 	'STYLE_NAME'				=> 'نام قالب',
     'STYLE_NAME_RESERVED'		=> 'قالب "%s" قابل نصب نیست زیرا هم نام آن قبلا استفاده شده است.',
 	'STYLE_NOT_INSTALLED'		=> 'قالب "%s" نصب نشد.',

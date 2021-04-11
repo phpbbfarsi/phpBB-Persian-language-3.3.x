@@ -52,7 +52,7 @@ $lang = array_merge($lang, array(
 	'CANNOT_DEACTIVATE_BOT'	                => 'شما مجاز به غیرفعال سازی حساب های bot نیستید. لطفا آنرا غیرفعال کنید.',
 	'CANNOT_DEACTIVATE_FOUNDER'		=> 'نمی توانید اکانت های صاحبان امتیاز سایت را غیرفعال کنید.',
 	'CANNOT_DEACTIVATE_YOURSELF'	        => 'نمی توانید اکانت خودتان را غیرفعال کنید.',
-	'CANNOT_FORCE_REACT_BOT'		=> 'نمی توانید روبات ها را مجبور به فعال سازی مجدد اکانتشان کنید،لطفا برای فعال سازی آن‌ها به صفحه مربوطه رباط ها رجوع کنید.',
+	'CANNOT_FORCE_REACT_BOT'		=> 'نمی توانید ربات ها را مجبور به فعال سازی مجدد اکانتشان کنید،لطفا برای فعال سازی آن‌ها به صفحه مربوطه ربات‌ها رجوع کنید.',
 	'CANNOT_FORCE_REACT_FOUNDER'	=> 'نمی توانید صاحبان امتیاز سایت را مجبور به فعال سازی مجدد اکانتشان کنید.',
 	'CANNOT_FORCE_REACT_YOURSELF'	=> 'نمی توانید خودتان را مجبور به فعال سازی مجدد اکانتتان کنید.',
 	'CANNOT_REMOVE_ANONYMOUS'		=> 'نمی توانید اکانت کاربران مهمان را حذف کنید.',
@@ -62,7 +62,7 @@ $lang = array_merge($lang, array(
 	'CANNOT_SET_FOUNDER_INACTIVE'	=> 'برای ترفیع رتبه کاربر باید ابتدا اکانت وی را فعال کنید.',
 	'CONFIRM_EMAIL_EXPLAIN'			=> 'فقط هنگامی به مشخص کردن این گزینه نیاز هست که ایمیل کاربر را تغییر دهید',
 
-	'DELETE_POSTS'			=> 'حذف پست ها',
+	'DELETE_POSTS'			=> 'حذف پست‌ها',
 	'DELETE_USER'			=> 'حذف کاربر',
 	'DELETE_USER_EXPLAIN'	=> 'لطفا توجه داشته باشید که حذف کاربر غیرقابل برگشت می باشد.',
 
@@ -80,7 +80,7 @@ $lang = array_merge($lang, array(
 
 	'LAST_ACTIVE'			=> 'آخرین فعالیت',
 
-	'MOVE_POSTS_EXPLAIN'	=> 'لطفا انجمنی را انتخاب کنید که می خواهید پست های کاربر را از آن انتقال دهید.',
+	'MOVE_POSTS_EXPLAIN'	=> 'لطفا انجمنی را انتخاب کنید که می خواهید پست‌های کاربر را از آن انتقال دهید.',
 
 	'NO_SPECIAL_RANK'		=> 'رتبه مخصوصی مشخص نشده است',
 	'NO_WARNINGS'			=> 'بدون هشدار',
@@ -90,7 +90,7 @@ $lang = array_merge($lang, array(
 
 	'REGISTERED'			=> 'عضو شده',
 	'REGISTERED_IP'			=> 'عضو شده با IP',
-	'RETAIN_POSTS'			=> 'نگه داشتن پست ها',
+	'RETAIN_POSTS'			=> 'نگه داشتن پست‌ها',
 
 	'SELECT_FORM'			=> 'انتخاب فرم',
 	'SELECT_USER'			=> 'انتخاب کاربر',
@@ -111,12 +111,12 @@ $lang = array_merge($lang, array(
 	'USER_ADMIN_DEL_ATTACH'			=> 'حدف همه پیوست‌ها',
 	'USER_ADMIN_DEL_AVATAR'			=> 'حذف آواتار',
 	'USER_ADMIN_DEL_OUTBOX'			=> 'خالی کردن صندوق خروجی پیام خصوصی',
-	'USER_ADMIN_DEL_POSTS'			=> 'حذف همه پست ها',
+	'USER_ADMIN_DEL_POSTS'			=> 'حذف همه پست‌ها',
 	'USER_ADMIN_DEL_SIG'			=> 'حذف امضا',
 	'USER_ADMIN_EXPLAIN'			=> 'در این بخش می توانید اطلاعات کاربر را تغییر دهید و اکانت وی را مدیریت کنید.',
 	'USER_ADMIN_FORCE'				=> 'اجبار به فعال سازی مجدد',
 	'USER_ADMIN_LEAVE_NR'			=> 'حذف از کاربران به تازگی عضو شده',
-	'USER_ADMIN_MOVE_POSTS'			=> 'انتقال همه پست ها',
+	'USER_ADMIN_MOVE_POSTS'			=> 'انتقال همه پست‌ها',
 	'USER_ADMIN_SIG_REMOVED'		=> 'با موفقیت امضای کاربر از اکانت وی حذف شد.',
 
 	'USER_ATTACHMENTS_REMOVED'		=> 'با مئفقیت همه پیوست‌های این کاربر حذف شد.',
@@ -138,11 +138,11 @@ $lang = array_merge($lang, array(
 	'USER_OUTBOX_EMPTIED'			=> 'با موفقیت صندوق خروجی پیام‌های خصوصی کاربر خالی شد.',
 	'USER_OUTBOX_EMPTY'				=> 'صندوق خروجی پیام خصوصی کاربر در حال حاضر خالی می باشد.',
 	'USER_OVERVIEW_UPDATED'			=> 'جزئیات کاربر به‌روز رسانی شد.',
-	'USER_POSTS_DELETED'			=> 'با موفقیت تمامی پست های کاربر حذف شد.',
-	'USER_POSTS_MOVED'				=> 'با موفقیت پست های کاربر به انجمن مقصد منتقل شد.',
+	'USER_POSTS_DELETED'			=> 'با موفقیت تمامی پست‌های کاربر حذف شد.',
+	'USER_POSTS_MOVED'				=> 'با موفقیت پست‌های کاربر به انجمن مقصد منتقل شد.',
 	'USER_PREFS_UPDATED'			=> 'ویژگی های کاربر به‌روز رسانی شد.',
 	'USER_PROFILE'					=> 'نمایه کاربر',
-	'USER_PROFILE_UPDATED'			=> 'نمایه کاربر به‌روز رسانی شد..',
+	'USER_PROFILE_UPDATED'			=> 'نمایه کاربر به‌روز رسانی شد.',
 	'USER_RANK'						=> 'رتبه کاربر',
 	'USER_RANK_UPDATED'				=> 'رتبه کاربر به‌روز رسانی شد.',
 	'USER_SIG_UPDATED'				=> 'امضای کاربر با موفقیت به‌روز رسانی شد.',
