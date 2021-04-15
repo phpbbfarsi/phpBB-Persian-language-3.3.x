@@ -168,8 +168,8 @@ $lang = array_merge($lang, array(
 	'CHANGING_PREFERENCES'	=> 'تغییر تنظیمات انجمن',
 	'CHANGING_PROFILE'		=> 'تغییر تنظیمات نمایه',
 	'CHARACTERS'			=> array(
-		1	=> 'نویسه %d',
-		2	=> 'نویسه %d',
+		1	=> '%d نویسه',
+		2	=> '%d نویسه',
 	),
 	'COLLAPSE_VIEW'			=> 'نمای کشویی',
 	'CLOSE_WINDOW'			=> 'بستن پنجره',
