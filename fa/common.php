@@ -662,7 +662,7 @@ $lang = array_merge($lang, array(
 		2	=> '%d کاربر عضو شده و',
 	),
 	'REMOVE'					=> 'حذف',
-	'REMOVE_INSTALL'			=> 'لطفا پوشه install را حذف، انتفال و یا تغییر نام دهید در غیر این صورت فقط کنترل پنل مدیریت  در دسترس خواهد بود.',
+	'REMOVE_INSTALL'			=> 'لطفا پوشه install را حذف، انتقال و یا تغییر نام دهید. در غیر این صورت فقط کنترل پنل مدیریت  در دسترس خواهد بود.',
 	'REPLIES'					=> 'پاسخ‌ها',
 	'REPLY_WITH_QUOTE'			=> 'پاسخ با نقل قول',
 	'REPLYING_GLOBAL_ANNOUNCE'	=> 'پاسخ به اطلاعیه ی سرارسری',
@@ -771,7 +771,7 @@ $lang = array_merge($lang, array(
 
 	'TOO_LONG'						=> 'مقدار وارد شده بسیار طولانی است.',
 
-	'TOO_LONG_CONFIRM_CODE'			=> 'کد تأیید وارد شده بسیار طویل است.',
+	'TOO_LONG_CONFIRM_CODE'			=> 'کد تأیید وارد شده بسیار طولانی است.',
 	'TOO_LONG_DATEFORMAT'			=> 'فرمت تاریخ وارد شده بسیار طولانی است.',
 	'TOO_LONG_JABBER'				=> 'اکانت jabber وارد شده بسیار طولانی است.',
 	'TOO_LONG_NEW_PASSWORD'			=> 'گذرواژه وارد شده بسیار طولانی است.',
@@ -792,7 +792,7 @@ $lang = array_merge($lang, array(
 	'TOO_SHORT_USER_PASSWORD'		=> 'گذرواژه وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_USERNAME'			=> 'نام کاربری وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_EMAIL'				=> 'آدرس ایمیل وارد شده بسیار کوتاه است.',
-	'TOO_SHORT_EMAIL_CONFIRM'		=> 'تأیید ایمیل آدرس بسیا کوتاه است.',
+	'TOO_SHORT_EMAIL_CONFIRM'		=> 'تأیید ایمیل آدرس بسیار کوتاه است.',
 	'TOO_SMALL'						=> 'مقدار وارد شده بسیار کم است.',
 	'TOO_SMALL_MAX_RECIPIENTS'		=> 'مقدار گزینه <strong>بیشترین تعداد گیرنده در هر پیام خصوصی</strong> بسیار کم است',
 
