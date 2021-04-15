@@ -460,14 +460,14 @@ $lang = array_merge($lang, array(
 $lang = array_merge($lang, array(
 	'INACTIVE_DATE'					=> 'تاریخ عدم فعالیت',
 	'INACTIVE_REASON'				=> 'دلیل',
-	'INACTIVE_REASON_MANUAL'		=> 'اکانت توسط مدیر غیرفعال شده است',
+	'INACTIVE_REASON_MANUAL'		=> 'حساب توسط مدیر غیرفعال شده است',
 	'INACTIVE_REASON_PROFILE'		=> 'جزئیات نمایه تغییر یافت',
-	'INACTIVE_REASON_REGISTER'		=> 'اکانت هایی که به تازگی ثبت نام کرده اند',
-	'INACTIVE_REASON_REMIND'		=> 'کاربر مجبور به فعال سازی دوباره اکانت خود خواهد شد.',
+	'INACTIVE_REASON_REGISTER'		=> 'حساب هایی که به تازگی ثبت نام کرده اند',
+	'INACTIVE_REASON_REMIND'		=> 'کاربر مجبور به فعال سازی دوباره حساب خود خواهد شد.',
 	'INACTIVE_REASON_UNKNOWN'		=> 'نامعلوم',
 	'INACTIVE_USERS'				=> 'کاربران غیرفعال',
-	'INACTIVE_USERS_EXPLAIN'		=> 'این لیستی از کاربران ثبت نام کرده می باشد که اکانت آن‌ها غیرفعال است. می توانید این کاربران را فعال، حذف و یا به آن‌ها ایمیلی به منظور یادآوری ارسال کنید.',
-	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'این لیستی از 10 کاربر اخیر ثبت نام کرده می باشد که اکانت آن‌ها غیرفعال است. لیست کامل در منوی مربوطه و یا در لینک زیر در دسترس می باشد که در آن جا می توانید این کاربران را فعال، حذف و یا به آن‌ها ایمیلی به منظور یادآوری ارسال کنید.',
+	'INACTIVE_USERS_EXPLAIN'		=> 'این لیستی از کاربران ثبت نام کرده می باشد که حساب آن‌ها غیرفعال است. می توانید این کاربران را فعال، حذف و یا به آن‌ها ایمیلی به منظور یادآوری ارسال کنید.',
+	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'این لیستی از 10 کاربر اخیر ثبت نام کرده می باشد که حساب آن‌ها غیرفعال است. لیست کامل در منوی مربوطه و یا در لینک زیر در دسترس می باشد که در آن جا می توانید این کاربران را فعال، حذف و یا به آن‌ها ایمیلی به منظور یادآوری ارسال کنید.',
 
 	'NO_INACTIVE_USERS'	=> 'کاربر غیرفعالی وجود ندارد',
 
@@ -668,9 +668,9 @@ $lang = array_merge($lang, array(
 
 	'LOG_IP_BROWSER_FORWARDED_CHECK'	=> '<strong>کنترل نشست IP،مرورگر و X_FORWARDED_FOR شکست خورد</strong><br />»IP کاربر “<em>%1$s</em>” در IP نشست “<em>%2$s</em>” کنترل شد , حلقه مرورگر کاربر “<em>%3$s</em>” در نشست حلقه مرورگر “<em>%4$s</em>” کنترل شد و X_FORWARDED_FOR string کاربر “<em>%5$s</em>” در حلقه نشست X_FORWARDED_FOR “<em>%6$s</em>” کنترل شد.',
 
-	'LOG_JAB_CHANGED'			=> '<strong>اکانت Jabeer تغییر یافت</strong>',
+	'LOG_JAB_CHANGED'			=> '<strong>حساب Jabeer تغییر یافت</strong>',
 	'LOG_JAB_PASSCHG'			=> '<strong>گذرواژه Jabber تغییر یافت</strong>',
-	'LOG_JAB_REGISTER'			=> '<strong>اکانت Jabber ثبت نام شد</strong>',
+	'LOG_JAB_REGISTER'			=> '<strong>حساب Jabber ثبت نام شد</strong>',
 	'LOG_JAB_SETTINGS_CHANGED'	=> '<strong>تنظیمات Jabber تغییر یافت</strong>',
 
 	'LOG_LANGUAGE_PACK_DELETED'		=> '<strong>بسته زبانی حذف شد</strong><br />» %s',
@@ -786,22 +786,22 @@ $lang = array_merge($lang, array(
 	'LOG_USER_INACTIVE'		=> '<strong>کاربر غیرفعال شد</strong><br />» %s',
 	'LOG_USER_MOVE_POSTS'	=> '<strong>پست‌های کاربر منتقل شدند</strong><br />» پست‌های متعلق به “%1$s” به انجمن “%2$s” منتقل شدند',
 	'LOG_USER_NEW_PASSWORD'	=> '<strong>گذرواژه کاربر تغییر یافت</strong><br />» %s',
-	'LOG_USER_REACTIVATE'	=> '<strong>اکنون کاربر مجبور به فعال سازی دوباره اکانت خود می باشد</strong><br />» %s',
+	'LOG_USER_REACTIVATE'	=> '<strong>اکنون کاربر مجبور به فعال سازی دوباره حساب خود می باشد</strong><br />» %s',
 	'LOG_USER_REMOVED_NR'	=> '<strong>بیان کاربر جدید از کاربر حذف شد</strong><br />» %s',
 
 	'LOG_USER_UPDATE_EMAIL'	=> '<strong>ایمیل کاربر “%1$s” </strong><br />» از “%2$s” به “%3$s” تغییر یافت',
 	'LOG_USER_UPDATE_NAME'	=> '<strong>نام کاربری</strong><br />» از “%1$s” به “%2$s” تغییر یافت',
 	'LOG_USER_USER_UPDATE'	=> '<strong>جزئیات کاربر به‌روز رسانی شد</strong><br />» %s',
 
-	'LOG_USER_ACTIVE_USER'		=> '<strong>اکانت کاربر فعال شد</strong>',
+	'LOG_USER_ACTIVE_USER'		=> '<strong>حساب کاربر فعال شد</strong>',
 	'LOG_USER_DEL_AVATAR_USER'	=> '<strong>نمایه کاربر حذف شد</strong>',
 	'LOG_USER_DEL_SIG_USER'		=> '<strong>امضای کاربر حذف شد</strong>',
 	'LOG_USER_FEEDBACK'			=> '<strong>بازخورد به کاربر اضافه شد</strong><br />» %s',
 	'LOG_USER_GENERAL'			=> '<strong>داده اضافه شد :</strong><br />» %s',
-	'LOG_USER_INACTIVE_USER'	=> '<strong>اکانت کاربر غیرفعال شد</strong>',
+	'LOG_USER_INACTIVE_USER'	=> '<strong>حساب کاربر غیرفعال شد</strong>',
 	'LOG_USER_LOCK'				=> '<strong>کاربر موضوع خود را قفل کرد</strong><br />» %s',
 	'LOG_USER_MOVE_POSTS_USER'	=> '<strong>همه پست‌ها به انجمن</strong>» %s منتقل شدند',
-	'LOG_USER_REACTIVATE_USER'	=> '<strong>اکنون کاربر مجبور به فعال سازی مجدد اکانت خود می باشد</strong>',
+	'LOG_USER_REACTIVATE_USER'	=> '<strong>اکنون کاربر مجبور به فعال سازی مجدد حساب خود می باشد</strong>',
 	'LOG_USER_UNLOCK'			=> '<strong>کاربر قفل موضوع خود را باز کرد</strong><br />» %s',
 	'LOG_USER_WARNING'			=> '<strong>هشدار به کاربر اضافه شد</strong><br />» %s',
 	'LOG_USER_WARNING_BODY'		=> '<strong>هشدار مقابل به کاربر ارسال شد</strong><br />» %s',
