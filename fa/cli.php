@@ -101,8 +101,8 @@ $lang = array_merge($lang, array(
 	'CLI_ERROR_INVALID_STABILITY' => '"%s" نیاز به تنظیم به پایدار یا ناپایدار است.',
 	
 	'CLI_DESCRIPTION_USER_ACTIVATE'				=> 'فعال یا غیرفعال بودن یک کاربر',
-	'CLI_DESCRIPTION_USER_ACTIVATE_USERNAME'	=> 'نام کاربری یک اکانت برای فعال سازی',
-	'CLI_DESCRIPTION_USER_ACTIVATE_DEACTIVATE'	=> 'غیرفعال سازی اکانت کاربر',
+	'CLI_DESCRIPTION_USER_ACTIVATE_USERNAME'	=> 'نام کاربری یک حساب برای فعال سازی',
+	'CLI_DESCRIPTION_USER_ACTIVATE_DEACTIVATE'	=> 'غیرفعال سازی حساب کاربر',
 	'CLI_DESCRIPTION_USER_ACTIVATE_ACTIVE'		=> 'کاربر در حال حاضر فعال است',
 	'CLI_DESCRIPTION_USER_ACTIVATE_INACTIVE'	=> 'کاربر درحال حاضر غیرفعال است',
 	'CLI_DESCRIPTION_USER_ADD'					=> 'اضافه کردن کاربر جدید',
@@ -110,7 +110,7 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_USER_ADD_OPTION_PASSWORD'	=> 'گذرواژه کاربر جدید',
 	'CLI_DESCRIPTION_USER_ADD_OPTION_EMAIL'		=> 'آدرس ایمیل کاربر جدید',
 	'CLI_DESCRIPTION_USER_ADD_OPTION_NOTIFY'	=> 'ارسال ایمیل فعال سازی کاربر جدید ( به صورت پیش‌فرض ارسال نمی شود.)',
-	'CLI_DESCRIPTION_USER_DELETE'				=> 'حذف اکانت کاربر',
+	'CLI_DESCRIPTION_USER_DELETE'				=> 'حذف حساب کاربر',
 	'CLI_DESCRIPTION_USER_DELETE_USERNAME'		=> 'حذف نام کاربری کاربر',
 	'CLI_DESCRIPTION_USER_DELETE_OPTION_POSTS'	=> 'حذف تمامی پست‌های کاربر. بدون انجام این گزینه پست‌های کاربر همچنان باقی خواهد ماند.',
 	'CLI_DESCRIPTION_USER_RECLEAN'				=> 'پاکسازی مجدد نام های کاربری',
@@ -120,7 +120,7 @@ $lang = array_merge($lang, array(
 	'CLI_EXTENSION_DISABLED'			=> 'افزونه %sفعال نیست',
 	'CLI_EXTENSION_ENABLE_FAILURE'		=> 'امکان فعال سازی افزونه %s وجود ندارد.',
 	'CLI_EXTENSION_ENABLE_SUCCESS'		=> 'افزونه %s با موفقیت فعال شد.',
-	'CLI_EXTENSION_ENABLED'				=> 'افزووه %s در حال حاضر فعال است.',
+	'CLI_EXTENSION_ENABLED'				=> 'افزونه %s در حال حاضر فعال است.',
 	'CLI_EXTENSION_NOT_EXIST'			=> 'افزونه %s وجود ندارد',
 	'CLI_EXTENSION_NAME'				=> 'نام افزونه',
 	'CLI_EXTENSION_PURGE_FAILURE'		=> 'امکان پاکسازی افزونه %s وجود ندارد.',
@@ -172,7 +172,7 @@ $lang = array_merge($lang, array(
 // Additional help for commands.
 $lang = array_merge($lang, array(
 	'CLI_HELP_CRON_RUN'			=> $lang['CLI_DESCRIPTION_CRON_RUN'] . ' در صورت تمایل می‌توانید نام یک و ظیفه را برای اجرا برای یک کار مشخص کنید.',
-		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیرفعال سازی اکانتت ها توسط <info>--غیرفعال</info> گزینه.
+		'CLI_HELP_USER_ACTIVATE'	=> 'فعال سازی یا غیرفعال سازی حسابت ها توسط <info>--غیرفعال</info> گزینه.
 به صورت اختیاری ایمیل فعال سازی برای کاربر ارسال کنید <info>--ارسال ایمیل</info> گزینه.',
 	'CLI_HELP_USER_ADD'			=> ' <info>%command.name%</info> دستور اضافه کردن کاربر:
 اگر دستور اجرا بدون گزینه انجام شود از شما میخواهد که وارد آن شوید.

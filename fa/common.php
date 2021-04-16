@@ -62,8 +62,8 @@ $lang = array_merge($lang, array(
 	'6_MONTHS'		=> '6 ماه',
 	'7_DAYS'		=> '7 روز',
 
-	'ACCOUNT_ALREADY_ACTIVATED'		=> 'اکانت شما در حال حاضر فعال می‌باشد.',
-	'ACCOUNT_DEACTIVATED'			=> 'اکانت شما به طور دستی غیرفعال شده است و فقط از جانب مدیران کل قابل فعال سازی است.',
+	'ACCOUNT_ALREADY_ACTIVATED'		=> 'حساب شما در حال حاضر فعال می‌باشد.',
+	'ACCOUNT_DEACTIVATED'			=> 'حساب شما به طور دستی غیرفعال شده است و فقط از جانب مدیران کل قابل فعال سازی است.',
 	'ACP'							=> 'کنترل پنل مدیر کل',
 	'ACP_SHORT'						=> 'ACP',
 	'ACTIVE'						=> 'فعال',
@@ -93,7 +93,7 @@ $lang = array_merge($lang, array(
 	'ATTACHED_IMAGE_NOT_IMAGE'		=> 'تصویری که برای پیوست کردن آن تلاش میکنید، نامعتبر است.',
 	'AUTHOR'						=> 'نویسنده',
 	'AUTH_NO_PROFILE_CREATED'		=> 'ایجاد مشخصات کاربر ناموفق بود.',
- 	'AUTH_PROVIDER_OAUTH_ERROR_ALREADY_LINKED'				=> 'این اکانت به کاربر دیگری متصل شده است.',
+ 	'AUTH_PROVIDER_OAUTH_ERROR_ALREADY_LINKED'				=> 'این حساب به کاربر دیگری متصل شده است.',
 	'AUTH_PROVIDER_OAUTH_ERROR_INVALID_ENTRY'				=> 'ورود به پایگاه داده با مشکل مواجه شده است.',
 	'AUTH_PROVIDER_OAUTH_ERROR_INVALID_SERVICE_TYPE'		=> 'سرویس راه دور مجاز نیست.',
 	'AUTH_PROVIDER_OAUTH_ERROR_REQUEST'						=> 'هنگام انجام مرحله OAuth مشکلی پیش آمده است.',
@@ -168,8 +168,8 @@ $lang = array_merge($lang, array(
 	'CHANGING_PREFERENCES'	=> 'تغییر تنظیمات انجمن',
 	'CHANGING_PROFILE'		=> 'تغییر تنظیمات نمایه',
 	'CHARACTERS'			=> array(
-		1	=> 'نویسه %d',
-		2	=> 'نویسه %d',
+		1	=> '%d نویسه',
+		2	=> '%d نویسه',
 	),
 	'COLLAPSE_VIEW'			=> 'نمای کشویی',
 	'CLOSE_WINDOW'			=> 'بستن پنجره',
@@ -399,8 +399,8 @@ $lang = array_merge($lang, array(
 	'LOGIN'								=> 'ورود',
 	'LOGIN_CHECK_PM'					=> 'برای مشاهده پیام خصوصی، وارد شوید.',
 	'LOGIN_CONFIRMATION'				=> 'تأیید ورود',
-	'LOGIN_CONFIRM_EXPLAIN'				=> 'در این بخش، برای جلوگیری از ورود های مخرب به اکانتتان، اگر بیش از مقدار تعیین شده به صورت نادرست گذرواژه و نام کاربریتان را وارد کنید، از شما خواهد خواست که که کد تأیید را وارد کنید. اگر نمی‌توانید کد را ببینید و یا بخوانید لطفا با %sمدیر کل تالار%s تماس بگیرید.', // unused
-	'LOGIN_ERROR_ATTEMPTS'				=> 'بیش از حد مجاز اقدام به ورود به اکانتتان کرده اید، حال باید علاوه بر وارد کردن نام کاربری و گذرواژه، کد تأیید را نیز وارد کنید.',
+	'LOGIN_CONFIRM_EXPLAIN'				=> 'در این بخش، برای جلوگیری از ورود های مخرب به حسابتان، اگر بیش از مقدار تعیین شده به صورت نادرست گذرواژه و نام کاربریتان را وارد کنید، از شما خواهد خواست که که کد تأیید را وارد کنید. اگر نمی‌توانید کد را ببینید و یا بخوانید لطفا با %sمدیر کل تالار%s تماس بگیرید.', // unused
+	'LOGIN_ERROR_ATTEMPTS'				=> 'بیش از حد مجاز اقدام به ورود به حسابتان کرده اید، حال باید علاوه بر وارد کردن نام کاربری و گذرواژه، کد تأیید را نیز وارد کنید.',
 	'LOGIN_ERROR_EXTERNAL_AUTH_APACHE'	=> 'هویت شما از طرف آپاچی تأیید نشد.',
 	'LOGIN_ERROR_OAUTH_SERVICE_DOES_NOT_EXIST'	=> 'سرویس تأیید اعتباری که وجود ندارد، درخواست شده است.',
 	'LOGIN_ERROR_PASSWORD'				=> 'گذرواژه وارد شده اشتباه می‌باشد، لطفا گذرواژه خود را بررسی کنید و مجددا تلاش کنید. اگر نتوانستید با %sمدیر کل تالار%s تماس بگیرید.',
@@ -662,7 +662,7 @@ $lang = array_merge($lang, array(
 		2	=> '%d کاربر عضو شده و',
 	),
 	'REMOVE'					=> 'حذف',
-	'REMOVE_INSTALL'			=> 'لطفا پوشه install را حذف، انتفال و یا تغییر نام دهید در غیر این صورت فقط کنترل پنل مدیریت  در دسترس خواهد بود.',
+	'REMOVE_INSTALL'			=> 'لطفا پوشه install را حذف، انتقال و یا تغییر نام دهید. در غیر این صورت فقط کنترل پنل مدیریت  در دسترس خواهد بود.',
 	'REPLIES'					=> 'پاسخ‌ها',
 	'REPLY_WITH_QUOTE'			=> 'پاسخ با نقل قول',
 	'REPLYING_GLOBAL_ANNOUNCE'	=> 'پاسخ به اطلاعیه ی سرارسری',
@@ -771,9 +771,9 @@ $lang = array_merge($lang, array(
 
 	'TOO_LONG'						=> 'مقدار وارد شده بسیار طولانی است.',
 
-	'TOO_LONG_CONFIRM_CODE'			=> 'کد تأیید وارد شده بسیار طویل است.',
+	'TOO_LONG_CONFIRM_CODE'			=> 'کد تأیید وارد شده بسیار طولانی است.',
 	'TOO_LONG_DATEFORMAT'			=> 'فرمت تاریخ وارد شده بسیار طولانی است.',
-	'TOO_LONG_JABBER'				=> 'اکانت jabber وارد شده بسیار طولانی است.',
+	'TOO_LONG_JABBER'				=> 'حساب jabber وارد شده بسیار طولانی است.',
 	'TOO_LONG_NEW_PASSWORD'			=> 'گذرواژه وارد شده بسیار طولانی است.',
 	'TOO_LONG_PASSWORD_CONFIRM'		=> 'تأیید گذرواژه وارد شده بسیار طولانی است.',
 	'TOO_LONG_USER_PASSWORD'		=> 'گذرواژه وارد شده بسیار طولانی است.',
@@ -786,13 +786,13 @@ $lang = array_merge($lang, array(
 
 	'TOO_SHORT_CONFIRM_CODE'		=> 'کد تأیید وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_DATEFORMAT'			=> 'فرمت تاریخ وارد شده بسیار کوتاه است.',
-	'TOO_SHORT_JABBER'				=> 'اکانت jabber وارد شده بسیار کوتاه است.',
+	'TOO_SHORT_JABBER'				=> 'حساب jabber وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_NEW_PASSWORD'		=> 'گذرواژه وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_PASSWORD_CONFIRM'	=> 'تأیید گذرواژه وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_USER_PASSWORD'		=> 'گذرواژه وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_USERNAME'			=> 'نام کاربری وارد شده بسیار کوتاه است.',
 	'TOO_SHORT_EMAIL'				=> 'آدرس ایمیل وارد شده بسیار کوتاه است.',
-	'TOO_SHORT_EMAIL_CONFIRM'		=> 'تأیید ایمیل آدرس بسیا کوتاه است.',
+	'TOO_SHORT_EMAIL_CONFIRM'		=> 'تأیید ایمیل آدرس بسیار کوتاه است.',
 	'TOO_SMALL'						=> 'مقدار وارد شده بسیار کم است.',
 	'TOO_SMALL_MAX_RECIPIENTS'		=> 'مقدار گزینه <strong>بیشترین تعداد گیرنده در هر پیام خصوصی</strong> بسیار کم است',
 
@@ -880,7 +880,7 @@ $lang = array_merge($lang, array(
 	'VIEWING_MCP'				=> 'مشاهده کنترل پنل مدیران',
 	'VIEWING_MEMBER_PROFILE'	=> 'مشاهده نمایه کاربران',
 	'VIEWING_PRIVATE_MESSAGES'	=> 'خواندن پیام خصوصی',
-	'VIEWING_REGISTER'			=> 'در حال ثبت اکانت',
+	'VIEWING_REGISTER'			=> 'در حال ثبت حساب',
 	'VIEWING_UCP'				=> 'مشاهده کنترل پنل کاربری',
 	'VIEWS'						=> 'مشاهده',
 	'VIEW_BOOKMARKS'			=> 'مشاهده نشانه گذاری ها',
@@ -889,8 +889,8 @@ $lang = array_merge($lang, array(
 	'VIEW_NEWEST_POST'			=> 'مشاهده اولین پست خوانده نشده',
 	'VIEW_NOTES'				=> 'مشاهده یادداشت کاربر',
 	'VIEW_ONLINE_TIMES'			=> array(
-		1	=> 'بر اساس اطلاعات مربوط به %d دقیقه قبل',
-		2	=> 'بر اساس اطلاعات مربوط به %d دقیقه قبل',
+		1	=> 'بر اساس اطلاعات مربوط به %d دقیقه پیش',
+		2	=> 'بر اساس اطلاعات مربوط به %d دقیقه پیش',
 	),
 	'VIEW_TOPIC'				=> 'مشاهده موضوع',
 	'VIEW_TOPIC_ANNOUNCEMENT'	=> 'اطلاعیه: ',
@@ -917,7 +917,7 @@ $lang = array_merge($lang, array(
 	'WRONG_PASSWORD'	=> 'گذرواژه نادرستی وارد کردید.',
 
 	'WRONG_DATA_COLOUR'			=> 'مقدار رنگ وارد شده نامعتبر است.',
-	'WRONG_DATA_JABBER'			=> 'نام وارد شده اکانت Jabber نامعتبر است.',
+	'WRONG_DATA_JABBER'			=> 'نام وارد شده حساب Jabber نامعتبر است.',
 	'WRONG_DATA_LANG'			=> 'زبان انتخاب شده نامعتبر است.',
         'WRONG_DATA_POST_SD' => 'نوع مرتب سازی پست انتخابی نامعتبر است.',
         'WRONG_DATA_POST_SK' => 'نوع تنظیمات مرتب سازی پست انتخابی نامعتبر است.',
@@ -938,8 +938,8 @@ $lang = array_merge($lang, array(
 		'YESTERDAY'	=> 'دیروز',
 		'AGO'		=> array(
 			0		=> 'کمتر از یک دقیقه پیش',
-			1		=> '%d دقیقه قبل',
-			2		=> '%d دقیقه قبل',
+			1		=> '%d دقیقه پیش',
+			2		=> '%d دقیقه پیش',
 		),
 
 

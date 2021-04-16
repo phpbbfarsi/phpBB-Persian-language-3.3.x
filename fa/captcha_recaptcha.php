@@ -48,7 +48,7 @@ $lang = array_merge($lang, [
 	'CAPTCHA_RECAPTCHA_V3'			=> 'ریکپچا نسخه۳',
 	'RECAPTCHA_INCORRECT'			=> 'جواب شما نادرست است.',
 	'RECAPTCHA_NOSCRIPT'			=> 'لطفا جاوا اسکریپت مرورگر خود را فعال کنید.',
-	'RECAPTCHA_NOT_AVAILABLE'		=> 'برای استفاده از کد ریکپچا، باید یک اکانت در سایت گوگل ایجاد کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
+	'RECAPTCHA_NOT_AVAILABLE'		=> 'برای استفاده از کد ریکپچا، باید یک حساب در سایت گوگل ایجاد کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
 	'RECAPTCHA_INVISIBLE'			=> 'این کپچا در واقع مخفی خواهد بود. برای تأیید صحت عملکرد آن، باید یک نماد کوچک در گوشه سمت راست پایین این صفحه ظاهر شود.',
 	'RECAPTCHA_V3_LOGIN_ERROR_ATTEMPTS'	=> 'شما بیشتر از حداکثر تعداد مجاز ورود به سیستم تلاش کرده اید.<br>علاوه بر نام کاربری و گذرواژه، از ریکپچا نسخه۳ نامرئی برای تأیید اعتبار جلسه شما استفاده خواهد شد.',
 
