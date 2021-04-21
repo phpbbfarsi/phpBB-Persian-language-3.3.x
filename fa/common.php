@@ -571,13 +571,13 @@ $lang = array_merge($lang, array(
 	'ONLINE_BUDDIES'			=> 'دوستان آنلاین',
 	// "... :: x registered and y hidden"
 	'ONLINE_USERS_TOTAL'		=> array(
-		1	=> 'در حال حاضر <strong>%1$d</strong> کاربر آنلاین می‌باشد : %2$s و %3$s',
-		2	=> 'در حال حاضر <strong>%1$d</strong> کاربر آنلاین می‌باشند : %2$s و %3$s',
+		1	=> 'در مجموع <strong>%1$d</strong> کاربر برخط :: %2$s و %3$s',
+		2	=> 'در مجموع <strong>%1$d</strong> کاربر برخط :: %2$s و %3$s',
 	),
 	// "... :: x registered, y hidden and z guests"
 	'ONLINE_USERS_TOTAL_GUESTS'	=> array(
-		1	=> 'در حال حاضر <strong>%1$d</strong> کاربر آنلاین می‌باشد: %2$s %3$s و %4$s',
-		2	=> 'در حال حاضر <strong>%1$d</strong> کاربر آنلاین می‌باشند: %2$s %3$s و %4$s',
+		1	=> 'در مجموع <strong>%1$d</strong> کاربر برخط :: %2$s %3$s و %4$s',
+		2	=> 'در مجموع <strong>%1$d</strong> کاربر برخط :: %2$s %3$s و %4$s',
 	),
 	'OPTIONS'					=> 'گزینه',
 
