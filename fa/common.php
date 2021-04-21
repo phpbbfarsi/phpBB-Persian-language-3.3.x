@@ -476,7 +476,7 @@ $lang = array_merge($lang, array(
 	// A, B, C and 2 others replied...
 	// A, B, C and others replied...
 	'NOTIFICATION_BOOKMARK'				=> array(
-		1	=> '<strong>پاسخ</strong> از طرف %1$s برای موضوع نشانه گذاری شده:',
+		1	=> '<strong>پاسخ</strong> از طرف %1$s برای موضوع نشانه‌گذاری شده:',
 	),
 	'NOTIFICATION_FORUM'				=> '<em>انجمن:</em> %1$s',
 	'NOTIFICATION_GROUP_REQUEST'		=> '<strong>درخواست گروه</strong> از %1$s جهت پیوستن به گروه %2$s.',
@@ -883,7 +883,7 @@ $lang = array_merge($lang, array(
 	'VIEWING_REGISTER'			=> 'در حال ثبت حساب',
 	'VIEWING_UCP'				=> 'مشاهده کنترل پنل کاربری',
 	'VIEWS'						=> 'مشاهده',
-	'VIEW_BOOKMARKS'			=> 'مشاهده نشانه گذاری ها',
+	'VIEW_BOOKMARKS'			=> 'مشاهده نشانه‌گذاری ها',
 	'VIEW_FORUM_LOGS'			=> 'مشاهده رخداد',
 	'VIEW_LATEST_POST'			=> 'مشاهده اخرین پست',
 	'VIEW_NEWEST_POST'			=> 'مشاهده اولین پست خوانده نشده',
