@@ -187,7 +187,7 @@ $lang = array_merge($lang, array(
 	'CONNECTION_FAILED'		=> 'اتصال صورت نگرفت.',
 	'CONNECTION_SUCCESS'	=> 'اتصال با موفقیت صورت گرفت!',
 	'CONTACT'				=> 'تماس',
-	'CONTACT_USER'			=> 'تماس %s',
+	'CONTACT_USER'			=> 'تماس با %s',
 	'CONTACT_US'			=> 'تماس با ما',
 	'COOKIE_CONSENT_INFO'	=> 'جزئیات بیشتر',
 	'COOKIE_CONSENT_MSG'	=> 'این سایت از کوکی استفاده میکند تا مطمئن شود بهترین تجربه را در سایت ما داشته باشید.',
@@ -571,13 +571,13 @@ $lang = array_merge($lang, array(
 	'ONLINE_BUDDIES'			=> 'دوستان آنلاین',
 	// "... :: x registered and y hidden"
 	'ONLINE_USERS_TOTAL'		=> array(
-		1	=> 'در حال حاضر <strong>%1$d</strong> نفر کاربر آنلاین میباشند : %2$s و %3$s',
-		2	=> 'در حال حاضر <strong>%1$d</strong> نفر کاربر آنلاین میباشند : %2$s و %3$s',
+		1	=> 'در حال حاضر <strong>%1$d</strong> کاربر آنلاین می‌باشد : %2$s و %3$s',
+		2	=> 'در حال حاضر <strong>%1$d</strong> کاربر آنلاین می‌باشند : %2$s و %3$s',
 	),
 	// "... :: x registered, y hidden and z guests"
 	'ONLINE_USERS_TOTAL_GUESTS'	=> array(
-		1	=> 'در حال حاضر <strong>%1$d</strong> نفر کاربر آنلاین میباشند: %2$s %3$s و %4$s',
-		2	=> 'در حال حاضر <strong>%1$d</strong> نفر کاربر آنلاین میباشند: %2$s %3$s و %4$s',
+		1	=> 'در حال حاضر <strong>%1$d</strong> کاربر آنلاین می‌باشد: %2$s %3$s و %4$s',
+		2	=> 'در حال حاضر <strong>%1$d</strong> کاربر آنلاین می‌باشند: %2$s %3$s و %4$s',
 	),
 	'OPTIONS'					=> 'گزینه',
 
