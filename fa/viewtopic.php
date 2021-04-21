@@ -44,11 +44,11 @@ $lang = array_merge($lang, array(
 	'ATTACHMENT'						=> 'پیوست',
 	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'قابلیت پیوست غیرفعال شده است.',
 
-	'BOOKMARK_ADDED'		=> 'موضوع با موفقیت نشانه گذاری شد.',
-	'BOOKMARK_ERR'			=> 'نشانه گذاری  این موضوع با شکست مواجه شد. لطفا مجددا تلاش کنید.',
-	'BOOKMARK_REMOVED'		=> 'نشانه گذاری موضوع با موفقیت حذف شد.',
-	'BOOKMARK_TOPIC'		=> 'نشانه گذاری موضوع',
-	'BOOKMARK_TOPIC_REMOVE'	=> 'حذف از نشانه گذاری ها',
+	'BOOKMARK_ADDED'		=> 'موضوع با موفقیت نشانه‌گذاری شد.',
+	'BOOKMARK_ERR'			=> 'نشانه‌گذاری  این موضوع با شکست مواجه شد. لطفا مجددا تلاش کنید.',
+	'BOOKMARK_REMOVED'		=> 'نشانه‌گذاری موضوع با موفقیت حذف شد.',
+	'BOOKMARK_TOPIC'		=> 'نشانه‌گذاری موضوع',
+	'BOOKMARK_TOPIC_REMOVE'	=> 'حذف از نشانه‌گذاری ها',
 	'BUMPED_BY'				=> 'آخرین بالا اندازی (Bump) توسط %1$s در %2$s.',
 	'BUMP_TOPIC'			=> 'بالا انداختن (Bump کردن)',
 
@@ -77,8 +77,8 @@ $lang = array_merge($lang, array(
 	'MAKE_NORMAL'				=> 'تغییر به ”موضوع استاندارد“',
 	'MAKE_STICKY'				=> 'تغییر به ”سنجاق شده“',
 	'MAX_OPTIONS_SELECT'		=> array(
-		1	=> 'شما می توانید <strong>%d</strong> گزینه را انتخاب نمایید',
-		2	=> 'شما می توانید حداکثر تا <strong>%d</strong> گزینه را انتخاب نمایید',
+		1	=> 'شما می‌توانید <strong>%d</strong> گزینه را انتخاب نمایید',
+		2	=> 'شما می‌توانید حداکثر تا <strong>%d</strong> گزینه را انتخاب نمایید',
 	),
 	'MISSING_INLINE_ATTACHMENT'	=> 'فایل پیوست <strong>%s</strong> دیگر موجود نیست',
 	'MOVE_TOPIC'				=> 'انتقال موضوع',

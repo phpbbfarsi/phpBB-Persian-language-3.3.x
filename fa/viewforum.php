@@ -50,7 +50,7 @@ $lang = array_merge($lang, array(
 
 	'LOGIN_NOTIFY_FORUM'		=> 'شما در مورد این انجمن مطلع شده اید، لطفاً برای مشاهده آن وارد شوید.',
 
-	'MARK_TOPICS_READ'		=> 'نشانه گذاری موضوعات بعنوان خوانده شده',
+	'MARK_TOPICS_READ'		=> 'نشانه‌گذاری موضوعات بعنوان خوانده شده',
 
 	'NEW_POSTS_HOT'		=> 'پست‌های جدید [ مشهور ]',	// Not used anymore
 	'NEW_POSTS_LOCKED'		=> 'پست‌های جدید [ قفل شده ]',	// Not used anymore
@@ -63,7 +63,7 @@ $lang = array_merge($lang, array(
 
 	'POST_FORUM_LOCKED'		=> 'انجمن قفل شده است.',
 
-	'TOPICS_MARKED'		=> 'موضوعات این انجمن بعنوان خوانده شده نشانه گذاری شدند.',
+	'TOPICS_MARKED'		=> 'موضوعات این انجمن بعنوان خوانده شده نشانه‌گذاری شدند.',
 
 	'UNREAD_POSTS_HOT'		=> 'پست‌های خوانده نشده [ مشهور ]',
 	'UNREAD_POSTS_LOCKED'	=> 'پست‌های خوانده نشده [ قفل شده ]',
