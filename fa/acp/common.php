@@ -655,7 +655,7 @@ $lang = array_merge($lang, array(
 	'LOG_GROUP_UPDATED'		=> '<strong>جزئیات گروه کاربری به‌روز رسانی شد</strong><br />» %s',
 	'LOG_MODS_ADDED'		=> '<strong>رهبران جدید به گروه کاربری </strong> %1$s اضافه شدند<br />» %2$s',
 	'LOG_USERS_ADDED'		=> '<strong>اعضای جدید به گروه کاربری</strong> %1$s اضافه شدند<br />» %2$s',
-	'LOG_USERS_APPROVED'	=> '<strong>اعضا در گروه کاربری</strong> %1$s تأیید شدند<br />» %2$s',
+	'LOG_USERS_APPROVED'	=> '<strong>اعضا در گروه کاربری</strong> %1$s پذیرفته شدند<br />» %2$s',
 	'LOG_USERS_PENDING'		=> '<strong>کاربران دخواست عضویت در گروه “%1$s” ارسال کرده اند که نیازمند تأیید می باشد</strong><br />» %2$s',
 
 	'LOG_IMAGE_GENERATION_ERROR'	=> '<strong>خطایی در حین ایجاد تصویر روی داد</strong><br />» خطا رد %1$s و خط %2$s: %3$s',
