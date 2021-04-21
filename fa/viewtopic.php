@@ -77,8 +77,8 @@ $lang = array_merge($lang, array(
 	'MAKE_NORMAL'				=> 'تغییر به ”موضوع استاندارد“',
 	'MAKE_STICKY'				=> 'تغییر به ”سنجاق شده“',
 	'MAX_OPTIONS_SELECT'		=> array(
-		1	=> 'شما می توانید <strong>%d</strong> گزینه را انتخاب نمایید',
-		2	=> 'شما می توانید حداکثر تا <strong>%d</strong> گزینه را انتخاب نمایید',
+		1	=> 'شما می‌توانید <strong>%d</strong> گزینه را انتخاب نمایید',
+		2	=> 'شما می‌توانید حداکثر تا <strong>%d</strong> گزینه را انتخاب نمایید',
 	),
 	'MISSING_INLINE_ATTACHMENT'	=> 'فایل پیوست <strong>%s</strong> دیگر موجود نیست',
 	'MOVE_TOPIC'				=> 'انتقال موضوع',
