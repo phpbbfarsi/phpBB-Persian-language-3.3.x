@@ -486,7 +486,7 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_POST'					=> array(
 		1	=> '<strong>پاسخ</strong> از طرف %1$s در موضوع:',
 	),
-	'NOTIFICATION_POST_APPROVED'		=> '<strong>پست تأیید شد</strong>:',
+	'NOTIFICATION_POST_APPROVED'		=> '<strong>پست پذیرفته شد</strong>:',
 	'NOTIFICATION_POST_DISAPPROVED'		=> '<strong>پست تأیید نشد</strong>:',
 	'NOTIFICATION_POST_IN_QUEUE'		=> '<strong>پست نیاز به تأیید</strong> درخواست شده توسط %1$s:',
 	'NOTIFICATION_QUOTE'				=> array(
