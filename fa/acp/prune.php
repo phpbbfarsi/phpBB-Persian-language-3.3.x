@@ -55,7 +55,7 @@ $lang = array_merge($lang, array(
 
 	'LAST_ACTIVE_EXPLAIN'		=> 'تاریخی در فرمت <kbd>YYYY-MM-DD</kbd> وارد کنید. <kbd>0000-00-00</kbd> را برای هرس کردن کاربرانی که هیچگاه وارد نشده اند،وارد کنید. در آن صورت <em>قبل</em> و <em>بعد</em> نادیده گرفته خواهند شد.',
 
-	'POSTS_ON_QUEUE'			=> 'پست‌های در انتظار تأیید.',
+	'POSTS_ON_QUEUE'			=> 'پست‌های در انتظار پذیرش.',
 	'PRUNE_USERS_GROUP_EXPLAIN'	=> 'محدودیت کاربران در گروه انتخاب شده',
 	'PRUNE_USERS_GROUP_NONE'	=> 'همه گروه‌ها',
 	'PRUNE_USERS_LIST'				=> 'کاربران هرس شدند',

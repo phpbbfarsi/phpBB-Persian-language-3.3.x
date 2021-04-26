@@ -486,7 +486,7 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_POST'					=> array(
 		1	=> '<strong>پاسخ</strong> از طرف %1$s در موضوع:',
 	),
-	'NOTIFICATION_POST_APPROVED'		=> '<strong>پست تأیید شد</strong>:',
+	'NOTIFICATION_POST_APPROVED'		=> '<strong>پست پذیرفته شد</strong>:',
 	'NOTIFICATION_POST_DISAPPROVED'		=> '<strong>پست تأیید نشد</strong>:',
 	'NOTIFICATION_POST_IN_QUEUE'		=> '<strong>پست نیاز به تأیید</strong> درخواست شده توسط %1$s:',
 	'NOTIFICATION_QUOTE'				=> array(
@@ -623,7 +623,7 @@ $lang = array_merge($lang, array(
 	'POST_TIME'				=> 'تاریخ پست',
 	'POST_TOPIC'			=> 'ارسال موضوع جدید',
 	'POST_UNAPPROVED'		=> 'این پست با موفقیت تأیید شد.',
-	'POST_UNAPPROVED_ACTION'	=> 'پست منتظر تأیید است:',
+	'POST_UNAPPROVED_ACTION'	=> 'پست در انتظار پذیرش است:',
 	'POST_UNAPPROVED_EXPLAIN'	=> 'این پست برای کاربران دیگر قابل مشاهده نیست. تا زمانی که مدیران آن را تأیید کنند.',
 	'POWERED_BY'			=> 'توسعه یافته توسط %s',
 	
@@ -803,12 +803,12 @@ $lang = array_merge($lang, array(
 	'TOPIC_LOCKED'		=> 'این موضوع قفل شده است، نمی‌توانید پستی را ویرایش یا پاسخی را ارسال کنید.',
 	'TOPIC_LOCKED_SHORT'=> 'موضوع قفل شده است',
 	'TOPIC_MOVED'		=> 'موضوع انتقال داده شده',
-	'TOPIC_REVIEW'		=> 'پیشنمایش موضوع',
+	'TOPIC_REVIEW'		=> 'پیش‌نمایش موضوع',
 	'TOPIC_TITLE'		=> 'عنوان موضوع',
 	'TOPIC_UNAPPROVED'	=> 'این موضوع تأیید نشده است.',
 	'TOPIC_UNAPPROVED_FORUM'	=> array(
-		1	=> 'موضوع در انتظار تأیید',
-		2	=> 'موضوعات در انتظار تأیید',
+		1	=> 'موضوع در انتظار پذیرش',
+		2	=> 'موضوعات در انتظار پذیرش',
 	),
 	'TOPIC_DELETED'		=> 'این موضوع با موفقیت حذف شد.',
 	'TOTAL_ATTACHMENTS'	=> 'پیوست‌ها',
