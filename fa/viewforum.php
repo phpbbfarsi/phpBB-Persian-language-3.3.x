@@ -70,7 +70,7 @@ $lang = array_merge($lang, array(
 
 	'VIEW_FORUM'			=> 'مشاهده انجمن',
 	'VIEW_FORUM_TOPICS'		=> array(
-		1	=> 'تعداد موضوعات %d',
-		2	=> 'تعداد موضوعات %d',
+		1	=> '%d موضوع',
+		2	=> '%d موضوع',
 	),
 ));
