@@ -63,8 +63,8 @@ $lang = array_merge($lang, array(
 	'FULL_BACKUP'		=> 'کامل',
 
 	'RESTORE_FAILURE'		=> 'ممکن است فایل پشتیبان خراب شده باشد',
-	'RESTORE_OPTIONS'		=> 'بازیابی گزینه‌ها',	
-		'RESTORE_SELECTED_BACKUP'	=> 'آیا از بازیابی پایگاه داده انتخاب شده مطمئنید؟',
+	'RESTORE_OPTIONS'		=> 'بازیابی گزینه‌ها',
+	'RESTORE_SELECTED_BACKUP'	=> 'آیا از بازیابی پایگاه داده انتخاب شده مطمئنید؟',
 	'RESTORE_SUCCESS'		=> 'پایگاه داده با موفقیت بازیابی شد.<br /><br />حال تالار شما باید شبیه زمانی باشد که پشتیان در آن تاریخ گرفته شده بود.',
 
 	'SELECT_ALL'			=> 'انتخاب همه',

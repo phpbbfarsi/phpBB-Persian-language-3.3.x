@@ -72,8 +72,8 @@ $lang = array_merge($lang, array(
 
 	'LENGTH_BAN_INVALID'		=> 'تاریخ باید در فرمت <kbd>YYYY-MM-DD</kbd> باشد.',
 
-		'OPTIONS_BANNED'			=> 'تحریم شده',	
-		'OPTIONS_EXCLUDED'			=> 'تحریم لغو شده',
+		'OPTIONS_BANNED'		=> 'تحریم شده',
+		'OPTIONS_EXCLUDED'		=> 'تحریم لغو شده',
 
 	'PERMANENT'		=> 'همیشگی',
 

@@ -91,7 +91,7 @@ $lang = array_merge($lang, array(
 	'RESULT_SORT'			=> 'مرتب کردن نتایج بر اساس',
 	'RETURN_FIRST'			=> 'اول برگرد',
 	'RETURN_FIRST_EXPLAIN'	=> 'برای نمایش کامل پست 0 را وارد کنید.',
-	'GO_TO_SEARCH_ADV'			=> 'رفتن به جست‌وجوی پیشرفته',
+	'GO_TO_SEARCH_ADV'		=> 'رفتن به جست‌وجوی پیشرفته',
 
 	'SEARCHED_FOR'				=> 'عبارت استفاده شده در جست‌وجو',
 	'SEARCHED_TOPIC'			=> 'موضوع جست‌وجو شده',

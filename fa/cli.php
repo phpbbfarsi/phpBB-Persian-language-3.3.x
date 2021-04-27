@@ -129,9 +129,9 @@ $lang = array_merge($lang, array(
 	'CLI_EXTENSION_UPDATE_SUCCESS'		=> 'افزونه %s با موفقیت ارتقا یافت.',
 	'CLI_EXTENSION_NOT_FOUND'			=> 'افزونه ای یافت نشد.',
 	'CLI_EXTENSION_NOT_ENABLEABLE'		=> 'افزونه %s فعال نیست',
-		'CLI_EXTENSIONS_AVAILABLE' => 'موجود',
-		'CLI_EXTENSIONS_DISABLED' => 'غیرفعال',
-		'CLI_EXTENSIONS_ENABLED' => 'فعال',
+	'CLI_EXTENSIONS_AVAILABLE'			=> 'موجود',
+	'CLI_EXTENSIONS_DISABLED'			=> 'غیرفعال',
+	'CLI_EXTENSIONS_ENABLED'			=> 'فعال',
 
 	'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار درختی انجمن‌ها و مدل ها با موفقیت انجام شد. ',
 	'CLI_FIXUP_UPDATE_HASH_BCRYPT_SUCCESS'		=> 'گذرواژههای منقضی و هش شده با موفقیت به‌روز رسانی شد.',
@@ -140,7 +140,7 @@ $lang = array_merge($lang, array(
 	'CLI_MIGRATIONS_AVAILABLE'				=> 'مهاجرتهای در  دسترس',
 	'CLI_MIGRATIONS_INSTALLED'				=> 'مهاجرت ها نصب شدند',
 	'CLI_MIGRATIONS_ONLY_AVAILABLE'			=> 'نمایش مهاجرت های در دسترس',
-	'CLI_MIGRATIONS_EMPTY'				  => 'مهاجرتی وجود ندارد',
+	'CLI_MIGRATIONS_EMPTY'					=> 'مهاجرتی وجود ندارد',
 
 	'CLI_REPARSER_REPARSE_REPARSING'		=> 'اصلاح %1$s (دامنه %2$d..%3$d)',
 	'CLI_REPARSER_REPARSE_REPARSING_START'	=> 'اصلاح %s...',

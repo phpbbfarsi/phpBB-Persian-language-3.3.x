@@ -144,7 +144,7 @@ $lang = array_merge($lang, array(
 		1	=> 'کاربران حاضر در این انجمن: %2$s و %1$d مهمان',
 		2	=> 'کاربران حاضر در این انجمن: %2$s و %1$d مهمان',
 	),
-	'BUTTON_DELETE'		 => 'حذف',
+	'BUTTON_DELETE'			=> 'حذف',
 	'BUTTON_EDIT'			=> 'ویرایش',
 	'BUTTON_FORUM_LOCKED'	=> 'قفل شده',
 	'BUTTON_INFORMATION'	=> 'اطلاعات',
@@ -156,9 +156,9 @@ $lang = array_merge($lang, array(
 	'BUTTON_PM_REPLY_ALL'	=> 'پاسخ به همه',
 	'BUTTON_POST_REPLY'		=> 'ارسال پست',
 	'BUTTON_QUOTE'			=> 'نقل قول',
-	'BUTTON_REPORT'		 => 'گزارش',
+	'BUTTON_REPORT'			=> 'گزارش',
 	'BUTTON_TOPIC_LOCKED'	=> 'قفل شده',
-	'BUTTON_WARN'		   => 'هشدار',
+	'BUTTON_WARN'			=> 'هشدار',
 	'BYTES'					=> 'بایت',
 	'BYTES_SHORT'			=> 'B',
 
@@ -555,14 +555,14 @@ $lang = array_merge($lang, array(
 	'NO_USER_SPECIFIED'			=> 'نام کاربری مشخص نشده است.',
 
 	// Nullar/Singular/Plural language entry. The key numbers define the number range in which a certain grammatical expression is valid.
-		'NUM_ATTACHMENTS' => array(
-			   1 => '%d پیوست',
-			   2 => '%d پیوست',
-		),
+	'NUM_ATTACHMENTS' => array(
+		1	=> '%d پیوست',
+		2	=> '%d پیوست',
+	),
 	'NUM_POSTS_IN_QUEUE'		=> array(
-		0			=> 'پستی در صف وجود ندارد',		// 0
-		1			=> '1 پست در صف است',		// 1
-		2			=> '%d پست در صف است',		// 2+
+		0	=> 'پستی در صف وجود ندارد',		// 0
+		1	=> '1 پست در صف است',		// 1
+		2	=> '%d پست در صف است',		// 2+
 	),
 
 	'OCCUPATION'				=> 'شغل',
@@ -603,7 +603,7 @@ $lang = array_merge($lang, array(
 	'POSTED_ON_DATE'		=> 'تاریخ',
 	'POSTS'					=> 'پست',
 	'POSTS_UNAPPROVED'		=> 'حداقل یک پست در این موضوع تأیید نشده است.',
-	'POSTS_UNAPPROVED_FORUM'		=> 'حداقل یک پست در این انجمن تأیید نشده است.',
+	'POSTS_UNAPPROVED_FORUM'	=> 'حداقل یک پست در این انجمن تأیید نشده است.',
 	'POST_BY_AUTHOR'		=> 'توسط',
 	'POST_BY_FOE'			=> '<strong>%1$s</strong>, در لیست دشمنان شما وجود دارد که پستی ارسال کرده است.',
 	'POST_DISPLAY'			=> '%1$sنمایش این پست%2$s.',
@@ -916,14 +916,14 @@ $lang = array_merge($lang, array(
 	'WHO_IS_ONLINE'		=> 'چه کسی حاضر است؟',
 	'WRONG_PASSWORD'	=> 'گذرواژه نادرستی وارد کردید.',
 
-	'WRONG_DATA_COLOUR'			=> 'مقدار رنگ وارد شده نامعتبر است.',
-	'WRONG_DATA_JABBER'			=> 'نام وارد شده حساب Jabber نامعتبر است.',
-	'WRONG_DATA_LANG'			=> 'زبان انتخاب شده نامعتبر است.',
-		'WRONG_DATA_POST_SD' => 'نوع مرتب سازی پست انتخابی نامعتبر است.',
-		'WRONG_DATA_POST_SK' => 'نوع تنظیمات مرتب سازی پست انتخابی نامعتبر است.',
-		'WRONG_DATA_TOPIC_SD' => 'نوع مرتب سازی موضوع انتخابی نامعتبر است.',
-		'WRONG_DATA_TOPIC_SK' => 'نوع تنظیمات مرتب سازی موضوع انتخابی نامعتبر است.',
-	'WROTE'						=> 'نوشته شده',
+	'WRONG_DATA_COLOUR'		=> 'مقدار رنگ وارد شده نامعتبر است.',
+	'WRONG_DATA_JABBER'		=> 'نام وارد شده حساب Jabber نامعتبر است.',
+	'WRONG_DATA_LANG'		=> 'زبان انتخاب شده نامعتبر است.',
+	'WRONG_DATA_POST_SD'	=> 'نوع مرتب سازی پست انتخابی نامعتبر است.',
+	'WRONG_DATA_POST_SK'	=> 'نوع تنظیمات مرتب سازی پست انتخابی نامعتبر است.',
+	'WRONG_DATA_TOPIC_SD'	=> 'نوع مرتب سازی موضوع انتخابی نامعتبر است.',
+	'WRONG_DATA_TOPIC_SK'	=> 'نوع تنظیمات مرتب سازی موضوع انتخابی نامعتبر است.',
+	'WROTE'					=> 'نوشته شده',
 
 	'YAHOO'				=> 'یاهو مسنجر',
 	'YOUTUBE'			=> 'یوتیوب',
@@ -1002,7 +1002,7 @@ $lang = array_merge($lang, array(
 		'Etc/GMT-7' 	=> 'UTC+7',
 		'Etc/GMT-6' 	=> 'UTC+6',
 		'Etc/GMT-5' 	=> 'UTC+5',
-		'Etc/GMT-4'	=> 'UTC+4',
+		'Etc/GMT-4'		=> 'UTC+4',
 		'Etc/GMT-3' 	=> 'UTC+3',
 		'Etc/GMT-2' 	=> 'UTC+2',
 		'Etc/GMT-1' 	=> 'UTC+1',
