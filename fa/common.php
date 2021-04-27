@@ -144,10 +144,10 @@ $lang = array_merge($lang, array(
 		1	=> 'کاربران حاضر در این انجمن: %2$s و %1$d مهمان',
 		2	=> 'کاربران حاضر در این انجمن: %2$s و %1$d مهمان',
 	),
-	'BUTTON_DELETE'         => 'حذف',
+	'BUTTON_DELETE'		 => 'حذف',
 	'BUTTON_EDIT'			=> 'ویرایش',
 	'BUTTON_FORUM_LOCKED'	=> 'قفل شده',
-	'BUTTON_INFORMATION'    => 'اطلاعات',
+	'BUTTON_INFORMATION'	=> 'اطلاعات',
 	'BUTTON_NEW_TOPIC'		=> 'موضوع جدید',
 	'BUTTON_PM'				=> 'پیام خصوصی',
 	'BUTTON_PM_FORWARD'		=> 'ارسال به',
@@ -156,9 +156,9 @@ $lang = array_merge($lang, array(
 	'BUTTON_PM_REPLY_ALL'	=> 'پاسخ به همه',
 	'BUTTON_POST_REPLY'		=> 'ارسال پست',
 	'BUTTON_QUOTE'			=> 'نقل قول',
-	'BUTTON_REPORT'         => 'گزارش',
+	'BUTTON_REPORT'		 => 'گزارش',
 	'BUTTON_TOPIC_LOCKED'	=> 'قفل شده',
-	'BUTTON_WARN'           => 'گزارش',
+	'BUTTON_WARN'		   => 'گزارش',
 	'BYTES'					=> 'بایت',
 	'BYTES_SHORT'			=> 'B',
 
@@ -539,7 +539,7 @@ $lang = array_merge($lang, array(
 	'NO_POSTS_TIME_FRAME'		=> 'در بازه زمانی انتخاب شده، پستی درون انجمن موجود نیست.',
 	'NO_FEED_ENABLED'			=> 'در این تالار خوراک (feeds) در دسترس نیستند.',
 	'NO_FEED'					=> 'خوراک (feed) درخواست شده، در دسترس نیست',
-    'NO_STYLE_DATA'				=> 'داده ای از طرف قالب انجمن برای user_style %s و کاربر user_id %s دریافت نشد  ',
+	'NO_STYLE_DATA'				=> 'داده ای از طرف قالب انجمن برای user_style %s و کاربر user_id %s دریافت نشد  ',
 	'NO_STYLE_CFG'				=> 'امکان دریافت  تنظیمات فایل قالب وجود ندارد: %s',
 	'NO_SUBJECT'				=> 'عنوانی برای موضوع انتخاب نشده است.',								// Used for posts having no subject defined but displayed within management pages.
 	'NO_SUCH_SEARCH_MODULE'		=> 'جست‌وجوی مورد نظر نتیجه ای دربر نداشت.',
@@ -555,10 +555,10 @@ $lang = array_merge($lang, array(
 	'NO_USER_SPECIFIED'			=> 'نام کاربری مشخص نشده است.',
 
 	// Nullar/Singular/Plural language entry. The key numbers define the number range in which a certain grammatical expression is valid.
-        'NUM_ATTACHMENTS' => array(
-               1 => '%d پیوست',
-               2 => '%d پیوست',
-        ),
+		'NUM_ATTACHMENTS' => array(
+			   1 => '%d پیوست',
+			   2 => '%d پیوست',
+		),
 	'NUM_POSTS_IN_QUEUE'		=> array(
 		0			=> 'پستی در صف وجود ندارد',		// 0
 		1			=> '1 پست در صف است',		// 1
@@ -603,7 +603,7 @@ $lang = array_merge($lang, array(
 	'POSTED_ON_DATE'		=> 'تاریخ',
 	'POSTS'					=> 'پست',
 	'POSTS_UNAPPROVED'		=> 'حداقل یک پست در این موضوع تأیید نشده است.',
-	'POSTS_UNAPPROVED_FORUM'        => 'حداقل یک پست در این انجمن تأیید نشده است.',
+	'POSTS_UNAPPROVED_FORUM'		=> 'حداقل یک پست در این انجمن تأیید نشده است.',
 	'POST_BY_AUTHOR'		=> 'توسط',
 	'POST_BY_FOE'			=> '<strong>%1$s</strong>, در لیست دشمنان شما وجود دارد که پستی ارسال کرده است.',
 	'POST_DISPLAY'			=> '%1$sنمایش این پست%2$s.',
@@ -919,10 +919,10 @@ $lang = array_merge($lang, array(
 	'WRONG_DATA_COLOUR'			=> 'مقدار رنگ وارد شده نامعتبر است.',
 	'WRONG_DATA_JABBER'			=> 'نام وارد شده حساب Jabber نامعتبر است.',
 	'WRONG_DATA_LANG'			=> 'زبان انتخاب شده نامعتبر است.',
-        'WRONG_DATA_POST_SD' => 'نوع مرتب سازی پست انتخابی نامعتبر است.',
-        'WRONG_DATA_POST_SK' => 'نوع تنظیمات مرتب سازی پست انتخابی نامعتبر است.',
-        'WRONG_DATA_TOPIC_SD' => 'نوع مرتب سازی موضوع انتخابی نامعتبر است.',
-        'WRONG_DATA_TOPIC_SK' => 'نوع تنظیمات مرتب سازی موضوع انتخابی نامعتبر است.',
+		'WRONG_DATA_POST_SD' => 'نوع مرتب سازی پست انتخابی نامعتبر است.',
+		'WRONG_DATA_POST_SK' => 'نوع تنظیمات مرتب سازی پست انتخابی نامعتبر است.',
+		'WRONG_DATA_TOPIC_SD' => 'نوع مرتب سازی موضوع انتخابی نامعتبر است.',
+		'WRONG_DATA_TOPIC_SK' => 'نوع تنظیمات مرتب سازی موضوع انتخابی نامعتبر است.',
 	'WROTE'						=> 'نوشته شده',
 
 	'YAHOO'				=> 'یاهو مسنجر',

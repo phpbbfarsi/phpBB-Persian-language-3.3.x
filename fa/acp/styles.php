@@ -40,7 +40,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, [
-	'ACP_STYLES_EXPLAIN'	        => 'در این بخش می‌توانید به مدیریت قالب‌های انجمن خود بپردازید.',
+	'ACP_STYLES_EXPLAIN'			=> 'در این بخش می‌توانید به مدیریت قالب‌های انجمن خود بپردازید.',
 
 	'CANNOT_BE_INSTALLED'			=> 'امکان نصب وجود ندارد.',
 	'CONFIRM_UNINSTALL_STYLES'		=> 'آیا از حذف قالب انتخابی مطمئنید؟',
@@ -77,7 +77,7 @@ $lang = array_merge($lang, [
 	'STYLE_INSTALLED_RETURN_INSTALLED_STYLES'	=> 'بازگشت به لیست قالب‌های نصب شده',
 	'STYLE_INSTALLED_RETURN_UNINSTALLED_STYLES'	=> 'نصب قالب‌های بیشتر',
 	'STYLE_NAME'				=> 'نام قالب',
-    'STYLE_NAME_RESERVED'		=> 'قالب "%s" قابل نصب نیست زیرا هم نام آن قبلا استفاده شده است.',
+	'STYLE_NAME_RESERVED'		=> 'قالب "%s" قابل نصب نیست زیرا هم نام آن قبلا استفاده شده است.',
 	'STYLE_NOT_INSTALLED'		=> 'قالب "%s" نصب نشد.',
 	'STYLE_PATH'				=> 'مسیر قالب',
 	'STYLE_UNINSTALL'			=> 'حذف',
