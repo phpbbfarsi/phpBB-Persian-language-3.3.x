@@ -158,7 +158,7 @@ $lang = array_merge($lang, array(
 	'BUTTON_QUOTE'			=> 'نقل قول',
 	'BUTTON_REPORT'		 => 'گزارش',
 	'BUTTON_TOPIC_LOCKED'	=> 'قفل شده',
-	'BUTTON_WARN'		   => 'گزارش',
+	'BUTTON_WARN'		   => 'هشدار',
 	'BYTES'					=> 'بایت',
 	'BYTES_SHORT'			=> 'B',
 
