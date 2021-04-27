@@ -520,8 +520,8 @@ $lang = array_merge($lang, array(
 	'LOG_ACL_DEL_MOD_LOCAL_M_'			=> '<strong>حذف مدیران انجمن</strong> از %1$s<br />» %2$s',
 	'LOG_ACL_DEL_FORUM_LOCAL_F_'		=> '<strong>حذف سطوح دسترسی کاربران/گروه‌ها به انجمن</strong> از %1$s<br />» %2$s',
 
-	'LOG_ACL_TRANSFER_PERMISSIONS'		=> '<strong>سطوح دسترسی از</strong><br />» %s منتقل شدند.',
-	'LOG_ACL_RESTORE_PERMISSIONS'		=> '<strong>سطوح دسترسی بازنگری شدند</strong><br />» %s',
+	'LOG_ACL_TRANSFER_PERMISSIONS'		=> '<strong>سطوح دسترسی واگذار شده از</strong><br />» %s',
+	'LOG_ACL_RESTORE_PERMISSIONS'		=> '<strong>سطوح دسترسی خودتان بازگردانی شدند، پس از استفاده از سطوع دسترسی واگذار شده از</strong><br />» %s',
 
 	'LOG_ADMIN_AUTH_FAIL'		=> '<strong>ورود به مدیریت موفقیت آمیز نبود</strong>',
 	'LOG_ADMIN_AUTH_SUCCESS'	=> '<strong>ورود به مدیریت موفقیت آمیز بود</strong>',
