@@ -92,8 +92,8 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_THUMBNAIL_RECREATE'				=> 'بازسازی همه ریزعکس ها',
 
 	'CLI_DESCRIPTION_UPDATE_CHECK'					=> 'بررسی به روز بودن انجمن',
-	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'		=> 'نام افزونه‌ها برای بررسی ( اگر همه انتخاب شود، همه بررسی میشوند',
-	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_CACHE'		=> 'اجرای دستور بررسیبا سیستم کش',
+	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'		=> 'نام افزونه‌ها برای بررسی ( اگر همه انتخاب شود، همه بررسی میشوند)',
+	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_CACHE'		=> 'اجرای دستور بررسی با نهانگاه',
 	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_STABILITY'	=> 'اجرای دستور انتخاب برای بررسی نسخه‌های پایدار یا ناپایدار',
 
 	'CLI_DESCRIPTION_UPDATE_HASH_BCRYPT'		=> 'به‌روز رسانی هش گذرواژههای انقضا شده به هش های با bcrypt.',

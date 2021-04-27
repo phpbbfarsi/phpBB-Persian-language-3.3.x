@@ -61,7 +61,7 @@ $lang = array_merge($lang, [
 	'NO_MATCHING_STYLES_FOUND'	=> 'قالبی یافت نشد.',
 	'NO_UNINSTALLED_STYLE'		=> 'قالب نصب نشده ای یافت نشد.',
 
-	'PURGED_CACHE'				=> 'کش پاکسازی شد.',
+	'PURGED_CACHE'				=> 'نهانگاه پاکسازی شد.',
 
 	'REQUIRES_STYLE'			=> 'برای نصب این قالب نیاز به قالب "%s" دارید.',
 

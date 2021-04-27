@@ -178,7 +178,7 @@ $lang = array_merge($lang, array(
 	'ACP_SMILIES'				=> 'شکلک‌ها',
 	'ACP_STYLE_MANAGEMENT'		=> 'مدیریت قالب‌ها',
 	'ACP_STYLES'				=> 'قالب‌ها',
-	'ACP_STYLES_CACHE'			=> 'پاک سازی کش',
+	'ACP_STYLES_CACHE'			=> 'پاک سازی نهانگاه',
 	'ACP_STYLES_INSTALL'		=> 'نصب قالب‌ها',
 
 	'ACP_SUBMIT_CHANGES'		=> 'ارسال تغییرات',
@@ -229,7 +229,7 @@ $lang = array_merge($lang, array(
 
 	'BACK'					=> 'بازگشت',
 
-	'CONTAINER_EXCEPTION' => 'در هنگام نصب افزونه امکان خطا وجود دارد. به همین جهت در این هنگام به صورت موقت تمامی افزونه‌ها غیرفعال میشود. لطفا کش را از صفحه اصلی پاک کنید. هنگامیکه خطاها رفع شود مجدد افزونه‌ها فعال خواهد شد. چنانچه این مشکل ادامه دار شد با پشتیبانی زیر تماس بگیرید <a href="https://www.phpbb.com/support">phpBB.com</a> ',
+	'CONTAINER_EXCEPTION' => 'در هنگام نصب افزونه امکان خطا وجود دارد. به همین جهت در این هنگام به صورت موقت تمامی افزونه‌ها غیرفعال میشود. لطفا سعی کنید نهانگاه را از صفحه اصلی پاک کنید. هنگامیکه خطاها رفع شود، افزونه‌ها مجددا فعال خواهند شد. چنانچه این مشکل ادامه پیدا کرد، با پشتیبانی تماس بگیرید <a href="https://www.phpbb.com/support">phpBB.com</a>.',
 	'EXCEPTION' => 'استثنا',
 
 	'COLOUR_SWATCH'			=> ' تغییر رنگ Web-safe swatch',
@@ -584,7 +584,7 @@ $lang = array_merge($lang, array(
 	'LOG_BUMP_TOPIC'			=> '<strong>موضوع کاربر بامپ (bump) شد</strong><br />» %s',
 	'LOG_DELETE_POST'			=> '<strong>حذف پست “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_DELETE_SHADOW_TOPIC'	=> '<strong>موضوع سایه دار حذف شد</strong><br />» %s',
-	'LOG_DELETE_TOPIC'			=> '<strong>موضوع حذف شد “%1$s” توسط “%2$s” به دلیل</strong><br />» %3$s',
+	'LOG_DELETE_TOPIC'			=> '<strong>حذف موضوع “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_FORK'					=> '<strong>موضوع کپی شد</strong><br />» from %s',
 	'LOG_LOCK'					=> '<strong>موضوع قفل شد</strong><br />» %s',
 	'LOG_LOCK_POST'				=> '<strong>پست قفل شد</strong><br />» %s',
@@ -594,12 +594,12 @@ $lang = array_merge($lang, array(
 	'LOG_PM_REPORT_CLOSED'		=> '<strong>گزارش پیام خصوصی بسته شد</strong><br />» %s',
 	'LOG_PM_REPORT_DELETED'		=> '<strong>گزارش پیام خصوصی حذف شد</strong><br />» %s',
 	'LOG_POST_APPROVED'			=> '<strong>پست پذیرفته شد</strong><br />» %s',
-	'LOG_POST_DISAPPROVED'		=> '<strong>پست تأیید نشده “%1$s” نوشته شده توسط “%3$s” به دلیل</strong><br />» %2$s',
-	'LOG_POST_EDITED'			=> '<strong>پست ویرایش شد “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
+	'LOG_POST_DISAPPROVED'		=> '<strong>پست پذیرفته نشده “%1$s” نوشته شده توسط “%3$s” به دلیل</strong><br />» %2$s',
+	'LOG_POST_EDITED'			=> '<strong>پست ویرایش شده “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_POST_RESTORED'			=> '<strong>پست بازیابی شد</strong><br />» %s',
 	'LOG_REPORT_CLOSED'			=> '<strong>گزارش بسته شد</strong><br />» %s',
 	'LOG_REPORT_DELETED'		=> '<strong>گزارش حذف شد</strong><br />» %s',
-	'LOG_RESTORE_TOPIC'			=> '<strong>موضوع “%1$s بازیابی شد. نوشته شده توسط</strong><br />» %2$s',
+	'LOG_RESTORE_TOPIC'			=> '<strong>بازیابی موضوع “%1$s نوشته شده توسط</strong><br />» %2$s',
 	'LOG_SOFTDELETE_POST'		=> '<strong>حذف موقت پست “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_SOFTDELETE_TOPIC'		=> '<strong>حذف موقت موضوع “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_SPLIT_DESTINATION'		=> '<strong>پست‌های دوبخشی منقل شدند</strong><br />» به %s',
@@ -607,7 +607,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_TOPIC_APPROVED'		=> '<strong>موضوع تأیید شد</strong><br />» %s',
 	'LOG_TOPIC_RESTORED'		=> '<strong>موضوع بازیابی شد</strong><br />» %s',
-	'LOG_TOPIC_DISAPPROVED'		=> '<strong>موضوع تأیید نشد “%1$s” نوشته شده توسط “%3$s” به دلیل</strong><br />» %2$s',
+	'LOG_TOPIC_DISAPPROVED'		=> '<strong>موضوع تأیید نشده “%1$s” نوشته شده توسط “%3$s” به دلیل</strong><br />» %2$s',
 	'LOG_TOPIC_RESYNC'			=> '<strong>انطباق (resync) شمارنده موضوع</strong><br />» %s',
 	'LOG_TOPIC_TYPE_CHANGED'	=> '<strong>نوع موضوع تغییر یافت</strong><br />» %s',
 	'LOG_UNLOCK'				=> '<strong>قفل موضوع باز شد</strong><br />» %s',
@@ -719,7 +719,7 @@ $lang = array_merge($lang, array(
 	'LOG_PRUNE_USER_DEL_DEL'	=> '<strong>کاربران هرس شده و پست‌ها حذف شدند </strong><br />» %s',
 	'LOG_PRUNE_USER_DEL_ANON'	=> '<strong>کاربران هرس شده و پست‌ها حفظ شدند</strong><br />» %s',
 
-	'LOG_PURGE_CACHE'			=> '<strong>پاکسازی شدند cach</strong>',
+	'LOG_PURGE_CACHE'			=> '<strong>نهانگاه پاکسازی شد</strong>',
 	'LOG_PURGE_SESSIONS'		=> '<strong>نشست ها پاکسازی شدند</strong>',
 
 	'LOG_RANK_ADDED'		=> '<strong>رتبه جدیدی اضافه شد</strong><br />» %s',
@@ -750,7 +750,7 @@ $lang = array_merge($lang, array(
 	'LOG_TEMPLATE_ADD_DB'			=> '<strong>مجموعه قالب جدیدی به پایگاه داده اضافه شد</strong><br />» %s',
 	// @deprecated 3.1
 	'LOG_TEMPLATE_ADD_FS'			=> '<strong>مجموعه قالب جدیدی به سیستم فایل اضافه شد</strong><br />» %s',
-	'LOG_TEMPLATE_CACHE_CLEARED'	=> '<strong>نسخه‌های cach پایگاه داده برای مجموعه فالب، حذف شد <em>%1$s</em></strong><br />» %2$s',
+	'LOG_TEMPLATE_CACHE_CLEARED'	=> '<strong>نسخه‌های کش شده فایل های قالب در مجموعه قالب، حذف شد <em>%1$s</em></strong><br />» %2$s',
 	'LOG_TEMPLATE_DELETE'			=> '<strong>مجموعه قالب حذف شد</strong><br />» %s',
 	'LOG_TEMPLATE_EDIT'				=> '<strong>مجموعه قالب <em>%1$s</em> ویرایش شد</strong><br />» %2$s',
 	'LOG_TEMPLATE_EDIT_DETAILS'		=> '<strong>جزئیات قالب ویرایش شد</strong><br />» %s',
