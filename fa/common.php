@@ -579,7 +579,7 @@ $lang = array_merge($lang, array(
 		1	=> 'در مجموع <strong>%1$d</strong> کاربر برخط :: %2$s %3$s و %4$s',
 		2	=> 'در مجموع <strong>%1$d</strong> کاربر برخط :: %2$s %3$s و %4$s',
 	),
-	'OPTIONS'					=> 'گزینه',
+	'OPTIONS'					=> 'گزینه‌ها',
 
 	'PAGE_NOT_FOUND'		=> 'صفحه درخواستی وجود ندارد',
 	'PAGE_OF'				=> 'صفحه <strong>%1$d</strong> از <strong>%2$d</strong>',
