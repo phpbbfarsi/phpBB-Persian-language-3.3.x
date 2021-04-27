@@ -143,7 +143,7 @@ $lang = array_merge($lang, array(
 		1		=> '%1$d یادآور فرستاده شد<br />» %2$s',
 		2		=> '%1$d یادآور فرستاده شد<br />» %2$s',
 	),
-	'USER_ONLINE'			=> 'آنلاین',
+	'USER_ONLINE'			=> 'برخط',
 	'USER_PRESENCE'			=> 'حضور در تالار',
 	'USERS_PER_PAGE'		=> 'کاربر در صفحه',
 
