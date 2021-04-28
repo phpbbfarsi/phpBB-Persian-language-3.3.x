@@ -566,7 +566,7 @@ $lang = array_merge($lang, array(
 	),
 
 	'OCCUPATION'				=> 'شغل',
-	'OFFLINE'					=> 'برون‌خط',
+	'OFFLINE'					=> 'آفلاین',
 	'ONLINE'					=> 'آنلاین',
 	'ONLINE_BUDDIES'			=> 'دوستان آنلاین',
 	// "... :: x registered and y hidden"
