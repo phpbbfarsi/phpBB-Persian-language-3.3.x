@@ -40,7 +40,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, [
-	'ACP_STYLES_EXPLAIN'	        => 'در این بخش می‌توانید به مدیریت قالب‌های انجمن خود بپردازید.',
+	'ACP_STYLES_EXPLAIN'			=> 'در این بخش می‌توانید به مدیریت قالب‌های انجمن خود بپردازید.',
 
 	'CANNOT_BE_INSTALLED'			=> 'امکان نصب وجود ندارد.',
 	'CONFIRM_UNINSTALL_STYLES'		=> 'آیا از حذف قالب انتخابی مطمئنید؟',
@@ -55,13 +55,13 @@ $lang = array_merge($lang, [
 	'INHERITING_FROM'			=> 'برگرفته از',
 	'INSTALL_STYLE'				=> 'نصب قالب',
 	'INSTALL_STYLES'			=> 'نصب قالب‌ها',
-	'INSTALL_STYLES_EXPLAIN'		=> 'در این بخش می‌توانید قالبی را همراه با عناصر آن نصب کنید،عناصر اضافه شده موجب حذف شدن عناصر قبلی نخواهند شد،بعضی از قالب‌ها نیازمند عناصر پیش‌فرض هستند،اگر قالبی این چنین بود، به شما اطلاع داده خواهد شد.',
+	'INSTALL_STYLES_EXPLAIN'	=> 'در این بخش می‌توانید قالبی را همراه با عناصر آن نصب کنید،عناصر اضافه شده موجب حذف شدن عناصر قبلی نخواهند شد،بعضی از قالب‌ها نیازمند عناصر پیش‌فرض هستند،اگر قالبی این چنین بود، به شما اطلاع داده خواهد شد.',
 	'INVALID_STYLE_ID'			=> 'شماره قالب معتبر نیست.',
 
 	'NO_MATCHING_STYLES_FOUND'	=> 'قالبی یافت نشد.',
 	'NO_UNINSTALLED_STYLE'		=> 'قالب نصب نشده ای یافت نشد.',
 
-	'PURGED_CACHE'				=> 'کش پاکسازی شد.',
+	'PURGED_CACHE'				=> 'نهانگاه پاکسازی شد.',
 
 	'REQUIRES_STYLE'			=> 'برای نصب این قالب نیاز به قالب "%s" دارید.',
 
@@ -77,7 +77,7 @@ $lang = array_merge($lang, [
 	'STYLE_INSTALLED_RETURN_INSTALLED_STYLES'	=> 'بازگشت به لیست قالب‌های نصب شده',
 	'STYLE_INSTALLED_RETURN_UNINSTALLED_STYLES'	=> 'نصب قالب‌های بیشتر',
 	'STYLE_NAME'				=> 'نام قالب',
-    'STYLE_NAME_RESERVED'		=> 'قالب "%s" قابل نصب نیست زیرا هم نام آن قبلا استفاده شده است.',
+	'STYLE_NAME_RESERVED'		=> 'قالب "%s" قابل نصب نیست زیرا هم نام آن قبلا استفاده شده است.',
 	'STYLE_NOT_INSTALLED'		=> 'قالب "%s" نصب نشد.',
 	'STYLE_PATH'				=> 'مسیر قالب',
 	'STYLE_UNINSTALL'			=> 'حذف',

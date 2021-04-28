@@ -92,8 +92,8 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_THUMBNAIL_RECREATE'				=> 'بازسازی همه ریزعکس ها',
 
 	'CLI_DESCRIPTION_UPDATE_CHECK'					=> 'بررسی به روز بودن انجمن',
-	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'		=> 'نام افزونه‌ها برای بررسی ( اگر همه انتخاب شود، همه بررسی میشوند',
-	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_CACHE'		=> 'اجرای دستور بررسیبا سیستم کش',
+	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'		=> 'نام افزونه‌ها برای بررسی ( اگر همه انتخاب شود، همه بررسی میشوند)',
+	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_CACHE'		=> 'اجرای دستور بررسی با نهانگاه',
 	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_STABILITY'	=> 'اجرای دستور انتخاب برای بررسی نسخه‌های پایدار یا ناپایدار',
 
 	'CLI_DESCRIPTION_UPDATE_HASH_BCRYPT'		=> 'به‌روز رسانی هش گذرواژههای انقضا شده به هش های با bcrypt.',
@@ -129,18 +129,18 @@ $lang = array_merge($lang, array(
 	'CLI_EXTENSION_UPDATE_SUCCESS'		=> 'افزونه %s با موفقیت ارتقا یافت.',
 	'CLI_EXTENSION_NOT_FOUND'			=> 'افزونه ای یافت نشد.',
 	'CLI_EXTENSION_NOT_ENABLEABLE'		=> 'افزونه %s فعال نیست',
-        'CLI_EXTENSIONS_AVAILABLE' => 'موجود',
-        'CLI_EXTENSIONS_DISABLED' => 'غیرفعال',
-        'CLI_EXTENSIONS_ENABLED' => 'فعال',
+	'CLI_EXTENSIONS_AVAILABLE'			=> 'موجود',
+	'CLI_EXTENSIONS_DISABLED'			=> 'غیرفعال',
+	'CLI_EXTENSIONS_ENABLED'			=> 'فعال',
 
-    'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار درختی انجمن‌ها و مدل ها با موفقیت انجام شد. ',
+	'CLI_FIXUP_FIX_LEFT_RIGHT_IDS_SUCCESS'		=> 'تعمیرات ساختار درختی انجمن‌ها و مدل ها با موفقیت انجام شد. ',
 	'CLI_FIXUP_UPDATE_HASH_BCRYPT_SUCCESS'		=> 'گذرواژههای منقضی و هش شده با موفقیت به‌روز رسانی شد.',
 	
 	'CLI_MIGRATION_NAME'					=> 'نام مهاجرت ، که شامل فضای جمله می شود ( استفاده از اسلش به جای بک اسلش جهت جلوگیری از مشکلات )',
 	'CLI_MIGRATIONS_AVAILABLE'				=> 'مهاجرتهای در  دسترس',
 	'CLI_MIGRATIONS_INSTALLED'				=> 'مهاجرت ها نصب شدند',
-	'CLI_MIGRATIONS_ONLY_AVAILABLE'		    => 'نمایش مهاجرت های در دسترس',
-	'CLI_MIGRATIONS_EMPTY'                  => 'مهاجرتی وجود ندارد',
+	'CLI_MIGRATIONS_ONLY_AVAILABLE'			=> 'نمایش مهاجرت های در دسترس',
+	'CLI_MIGRATIONS_EMPTY'					=> 'مهاجرتی وجود ندارد',
 
 	'CLI_REPARSER_REPARSE_REPARSING'		=> 'اصلاح %1$s (دامنه %2$d..%3$d)',
 	'CLI_REPARSER_REPARSE_REPARSING_START'	=> 'اصلاح %s...',

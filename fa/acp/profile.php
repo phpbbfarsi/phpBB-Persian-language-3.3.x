@@ -121,11 +121,11 @@ $lang = array_merge($lang, array(
 
 	'LANG_SPECIFIC_OPTIONS'		=> 'گزینه تخصصی زبان [<strong>%s</strong>]',
 
-        'LETTER_NUM_DOTS'         => 'هر گونه حروف ، اعداد و نقطه ( دوره ای )',
-        'LETTER_NUM_ONLY'         => 'هر گونه حروف و عدد',
-        'LETTER_NUM_PUNCTUATION'  => 'هر گونه حروف ، عدد ، کاما ، نقطه ، خط و زیر خط و شروع با هر حرفی',
-        'LETTER_NUM_SPACERS'      => 'هر گونه حروف ، عدد و جدا کننده ای',
-        'LETTER_NUM_UNDERSCORE'   => 'هر گونه حروف و عدد و خط و زیرخط',
+		'LETTER_NUM_DOTS'		=> 'هر گونه حروف ، اعداد و نقطه ( دوره ای )',
+		'LETTER_NUM_ONLY'		=> 'هر گونه حروف و عدد',
+		'LETTER_NUM_PUNCTUATION'	=> 'هر گونه حروف ، عدد ، کاما ، نقطه ، خط و زیر خط و شروع با هر حرفی',
+		'LETTER_NUM_SPACERS'	=> 'هر گونه حروف ، عدد و جدا کننده ای',
+		'LETTER_NUM_UNDERSCORE'	=> 'هر گونه حروف و عدد و خط و زیرخط',
 
 	'MAX_FIELD_CHARS'		=> 'حداکثر تعداد نویسه',
 	'MAX_FIELD_NUMBER'		=> 'بزرگترین عدد مورد قبول',

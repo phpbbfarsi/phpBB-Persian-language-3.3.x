@@ -58,7 +58,7 @@ $lang = array_merge($lang, [
  	'RECAPTCHA_PRIVATE'				=> 'کلید مخفی',
 	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'کلید مخفی ریکپچا شما. از اینجا تهیه کنید. <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. لطفا از ریکپچا نسخه۲ استفاده کنید که از نوع مخفی است.',
 	'RECAPTCHA_V3_PRIVATE_EXPLAIN'	=> 'کلید مخفی ریکپچا شما. از اینجا تهیه کنید.  <a href="https://www.google.com/recaptcha">www.google.com/recaptcha</a>. ریکپچا نسخه2 استفاده کنید.',
-    'RECAPTCHA_V3_DOMAIN'				=> 'دامنه درخواست',
+	'RECAPTCHA_V3_DOMAIN'				=> 'دامنه درخواست',
 	'RECAPTCHA_V3_DOMAIN_EXPLAIN'		=> 'دامنه ای برای دریافت اسکریپت و استفاده برای تأیید درخواست.<br>از <samp>recaptcha.net</samp> استفاده کنید، هنگامی که <samp>google.com</samp> در دسترس نیست.',
 
 	'RECAPTCHA_V3_METHOD'				=> 'روش درخواست',
