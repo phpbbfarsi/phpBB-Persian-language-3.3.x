@@ -1,4 +1,4 @@
-Subject: گزارش پیام خصوصی - "{TOPIC_TITLE}"
+Subject: گزارش پیام خصوصی - "{SUBJECT}"
 
 سلام {USERNAME}،
 
