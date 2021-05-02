@@ -49,9 +49,9 @@ $lang = array_merge($lang, array(
 
 	'LANGUAGE_DETAILS_UPDATED'			=> 'جزئیات زبان با موفقیت به‌روز رسانی شد.',
 	'LANGUAGE_PACK_ALREADY_INSTALLED'	=> 'پکیج زبانی قبلا نصب شده بود.',
-	'LANGUAGE_PACK_DELETED'				=> 'بسته زبانی <strong>%s</strong> با موفقیت حذف شد. زبان کاربرانی که از این بسته زبانی استفاده می کرند به زبان پیش‌فرض تالار تغییر یافت.',
+	'LANGUAGE_PACK_DELETED'				=> 'بسته زبانی “%s” با موفقیت حذف شد. زبان کاربرانی که از این بسته زبانی استفاده می کرند به زبان پیش‌فرض تالار تغییر یافت.',
 	'LANGUAGE_PACK_DETAILS'				=> 'جزئیات بسته زبانی',
-	'LANGUAGE_PACK_INSTALLED'			=> 'بسته زبانی <strong>%s</strong> با موفقیت نصب شد.',
+	'LANGUAGE_PACK_INSTALLED'			=> 'بسته زبانی “%s” با موفقیت نصب شد.',
 	'LANGUAGE_PACK_CPF_UPDATE'			=> 'تابع های زبانی فیلد های سفارشی از زبان پیش‌فرض کپی می شوند،در صورت نیاز آن‌ها را تغییر دهید.',
 	'LANGUAGE_PACK_ISO'					=> 'ISO',
 	'LANGUAGE_PACK_LOCALNAME'			=> 'نام محلی',
@@ -72,8 +72,8 @@ $lang = array_merge($lang, array(
 	'NO_REMOVE_DEFAULT_LANG'		=> 'نمی‌توانید بسته زبانی پیش‌فرض را حذف کنید.<br />اگر مایل به حذف این بسته زبانی هستید ابتدا بسته زبانی پیش‌فرض تالارتان را تغییر دهید.',
 	'NO_UNINSTALLED_LANGUAGE_PACKS'	=> 'هیچ بسته زبانی حذف نشده است.',
 
-	'THOSE_MISSING_LANG_FILES'			=> 'فایل‌های مقابل از بسته زبانی %s گم شده اند',
-	'THOSE_MISSING_LANG_VARIABLES'		=> 'متغیر های زبانی مقابل از بسته زبانی <strong>%s</strong> گم شده اند',
+	'THOSE_MISSING_LANG_FILES'			=> 'فایل‌های مقابل از بسته زبانی “%s” گم شده اند',
+	'THOSE_MISSING_LANG_VARIABLES'		=> 'متغیر های زبانی مقابل از بسته زبانی “%s” گم شده اند',
 
 	'UNINSTALLED_LANGUAGE_PACKS'	=> 'بسته های زبانی حذف شده',
 	
