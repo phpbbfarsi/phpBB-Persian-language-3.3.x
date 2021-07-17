@@ -40,25 +40,25 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACTIVE_TOPICS'		=> 'موضوعات فعال',
-	'ANNOUNCEMENTS'		=> 'اطلاعیه‌ها',
+	'ACTIVE_TOPICS'			=> 'موضوعات فعال',
+	'ANNOUNCEMENTS'			=> 'اطلاعیه‌ها',
 
 	'FORUM_PERMISSIONS'		=> 'سطوح دسترسی انجمن',
 
-	'ICON_ANNOUNCEMENT'		=> 'اطلاعیه‌ها',
+	'ICON_ANNOUNCEMENT'		=> 'اطلاعیه',
 	'ICON_STICKY'			=> 'سنجاق شده',
 
-	'LOGIN_NOTIFY_FORUM'		=> 'شما در مورد این انجمن مطلع شده اید، لطفاً برای مشاهده آن وارد شوید.',
+	'LOGIN_NOTIFY_FORUM'	=> 'شما در مورد این انجمن مطلع شده اید، لطفاً برای مشاهده آن وارد شوید.',
 
 	'MARK_TOPICS_READ'		=> 'نشانه‌گذاری موضوعات بعنوان خوانده شده',
 
-	'NEW_POSTS_HOT'		=> 'پست‌های جدید [ مشهور ]',	// Not used anymore
+	'NEW_POSTS_HOT'			=> 'پست‌های جدید [ مشهور ]',	// Not used anymore
 	'NEW_POSTS_LOCKED'		=> 'پست‌های جدید [ قفل شده ]',	// Not used anymore
 	'NO_NEW_POSTS_HOT'		=> 'بدون پست جدید [ مشهور ]',	// Not used anymore
 	'NO_NEW_POSTS_LOCKED'	=> 'بدون پست جدید [ قفل شده ]',	// Not used anymore
 	'NO_READ_ACCESS'		=> 'شما اجازه خواندن و دیدن موضوعات این انجمن را ندارید.',
 	'NO_FORUMS_IN_CATEGORY'	=> 'در این شاخه هیچ انجمنی وجود ندارد',
-	'NO_UNREAD_POSTS_HOT'	=> 'بدون پست خوانده نشده [ مشهور ]',
+	'NO_UNREAD_POSTS_HOT'		=> 'بدون پست خوانده نشده [ مشهور ]',
 	'NO_UNREAD_POSTS_LOCKED'	=> 'بدون پست خوانده نشده [ قفل شده ]',
 
 	'POST_FORUM_LOCKED'		=> 'انجمن قفل شده است.',
