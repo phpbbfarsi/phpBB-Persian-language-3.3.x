@@ -45,7 +45,7 @@ $lang = array_merge($lang, array(
 	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'قابلیت پیوست غیرفعال شده است.',
 
 	'BOOKMARK_ADDED'		=> 'موضوع با موفقیت نشانه‌گذاری شد.',
-	'BOOKMARK_ERR'			=> 'نشانه‌گذاری  این موضوع با شکست مواجه شد. لطفا مجددا تلاش کنید.',
+	'BOOKMARK_ERR'			=> 'نشانه‌گذاری  این موضوع با شکست مواجه شد. لطفاً مجددا تلاش کنید.',
 	'BOOKMARK_REMOVED'		=> 'نشانه‌گذاری موضوع با موفقیت حذف شد.',
 	'BOOKMARK_TOPIC'		=> 'نشانه‌گذاری موضوع',
 	'BOOKMARK_TOPIC_REMOVE'	=> 'حذف از نشانه‌گذاری ها',
