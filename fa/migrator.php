@@ -80,5 +80,6 @@ $lang = array_merge($lang, array(
 	'PARENT_MODULE_FIND_ERROR'			=> 'امکان تعیین مدل والد وجود ندارد: %s',
 	'PERMISSION_NOT_EXIST'				=> 'تنظیمات سطوح دسترسی "%s" به طور غیر منتظره ای وجود ندارد',
 
+	'ROLE_ASSIGNED_NOT_EXIST'			=> 'سطوح دسترسی گروه "%1$s" دیگر وجود ندارد. شماره دسترسی "%2$s"',
 	'ROLE_NOT_EXIST'					=> 'نقش سطوح دسترسی "%s" به طور غیر منتظره ای وجود ندارد.',
 ));
