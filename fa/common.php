@@ -435,6 +435,7 @@ $lang = array_merge($lang, array(
 	'MESSAGE'				=> 'پیام',
 	'MESSAGES'				=> 'پیام‌ها',
 	'MESSAGES_COUNT'		=> array(
+		0	=> 'پیام نامحدود',	
 		1	=> '%d پیام',
 		2	=> '%d پیام',
 	),
@@ -606,7 +607,7 @@ $lang = array_merge($lang, array(
 	'POSTS_UNAPPROVED_FORUM'	=> 'حداقل یک پست در این انجمن تأیید نشده است.',
 	'POST_BY_AUTHOR'		=> 'توسط',
 	'POST_BY_FOE'			=> '<strong>%1$s</strong>, در لیست دشمنان شما وجود دارد که پستی ارسال کرده است.',
-	'POST_DISPLAY'			=> '%1$sنمایش این پست%2$s.',
+	'POST_DISPLAY'			=> 'نمایش پست',
 	'POST_DAY'				=> '%.2f پست در روز',
 	'POST_DELETED_ACTION'	=> 'پست حذف شده:',
 	'POST_DELETED'			=> 'این پست با موفقیت حذف شد.',
