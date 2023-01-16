@@ -680,6 +680,10 @@ $lang = array_merge($lang, array(
 	'RETURN_TOPIC'				=> '%sبازگشت به آخرین موضوع مشاهده شده%s',
 	'RETURN_TO'					=> 'بازگشت به “%s”',
 	'RETURN_TO_INDEX'			=> 'بازگشت به صفحه اصلی',
+	
+	'ROUTE_NOT_FOUND'				=> 'مسیر درخواستی “%s” پیدا نشد.',
+	'ROUTE_INVALID_MISSING_PARAMS'	=> 'پارامترهای نامعتبر یاگمشده ای برای “%s” ارسال شده',
+
 	'FEED'						=> 'خوراک',
 	'FEED_NEWS'					=> 'اخبار',
 	'FEED_TOPICS_ACTIVE'		=> 'موضوعات فعال',
