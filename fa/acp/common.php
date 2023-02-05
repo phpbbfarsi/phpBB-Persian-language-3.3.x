@@ -741,6 +741,10 @@ $lang = array_merge($lang, array(
 	'LOG_SEARCH_INDEX_CREATED'	=> '<strong>شاخص جست‌وجو ایجاد شد</strong><br />» %s',
 	'LOG_SEARCH_INDEX_REMOVED'	=> '<strong>شاخص جست‌وجو حذف شد</strong><br />» %s',
 	'LOG_SPHINX_ERROR'			=> '<strong>Sphinx خطا</strong><br />» %s',
+	
+	'LOG_SPAMHAUS_OPEN_RESOLVER'		=> 'Spamhaus does not allow queries using an open resolver. Blacklist checking has been disabled. For more information, see https://www.spamhaus.com/product/help-for-spamhaus-public-mirror-users/.',
+	'LOG_SPAMHAUS_VOLUME_LIMIT'			=> 'Spamhaus query volume limit has been exceeded. Blacklist checking has been disabled. For more information, see https://www.spamhaus.com/product/help-for-spamhaus-public-mirror-users/.',
+
 	'LOG_STYLE_ADD'				=> '<strong>قالب جدید اضافه شد</strong><br />» %s',
 	'LOG_STYLE_DELETE'			=> '<strong>قالب حذف شد</strong><br />» %s',
 	'LOG_STYLE_EDIT_DETAILS'	=> '<strong>قالب ویرایش شد</strong><br />» %s',
