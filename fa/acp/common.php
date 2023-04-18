@@ -742,8 +742,8 @@ $lang = array_merge($lang, array(
 	'LOG_SEARCH_INDEX_REMOVED'	=> '<strong>شاخص جست‌وجو حذف شد</strong><br />» %s',
 	'LOG_SPHINX_ERROR'			=> '<strong>Sphinx خطا</strong><br />» %s',
 	
-	'LOG_SPAMHAUS_OPEN_RESOLVER'		=> 'Spamhaus does not allow queries using an open resolver. Blacklist checking has been disabled. For more information, see https://www.spamhaus.com/product/help-for-spamhaus-public-mirror-users/.',
-	'LOG_SPAMHAUS_VOLUME_LIMIT'			=> 'Spamhaus query volume limit has been exceeded. Blacklist checking has been disabled. For more information, see https://www.spamhaus.com/product/help-for-spamhaus-public-mirror-users/.',
+	'LOG_SPAMHAUS_OPEN_RESOLVER'		=> 'Spamhaus اجازه پرس و جو با استفاده از یک حل کننده باز را نمی دهد. چک کردن لیست سیاه از کار افتاده است.برای اطلاعات بیشتر می توانید به آدرس https://www.spamhaus.com/ Product/help-for-spamhaus-public- Mirror-users/ مراجعه کنید.',
+	'LOG_SPAMHAUS_VOLUME_LIMIT'			=> 'محدودیت حجم جستجوی Spamhaus از حد مجاز فراتر رفته است. چک کردن لیست سیاه از کار افتاده است. برای اطلاعات بیشتر می توانید به آدرس https://www.spamhaus.com/product/help-for-spamhaus-public-mirror-users/ مراجعه کنید.',
 
 	'LOG_STYLE_ADD'				=> '<strong>قالب جدید اضافه شد</strong><br />» %s',
 	'LOG_STYLE_DELETE'			=> '<strong>قالب حذف شد</strong><br />» %s',
