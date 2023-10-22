@@ -48,8 +48,7 @@ $lang = array_merge($lang, array(
 
 	// Introduction page
 	'INTRODUCTION_TITLE'	=> 'معرفی',
-	'INTRODUCTION_BODY'		=> 'به phpBB3 خوش آمدید !<br /><br />phpBB™ محبوب ترین تالار بازمتن در سطح جهانی است. phpBB3 آخرین محصول از بسته هایی است که ساخت آن از سال 2000 شروع شده است. phpBB3 مانند نسخه‌های قبل، پر امکانات و کاربر پسند می باشد، phpBB3 به طور کامل توسط تیم پشتیبانی phpBB پشتیبانی میشود. phpBB3 تا حد زیادی همه امکاناتی که phpBB2 را محبوب کرده بود، را ارتقاء داده و بعضی امکاناتی را که در نسخه‌های قبلی وجود نداشت، اضافه کرده است. امیدواریم فراتر از انتظارات شما را برآورده کند.<br /><br />این سیستم نصب شما را در نصب phpBB3 ، به‌روز رسانی آن به آخرین نسخه phpBB3 و تبدیل سایر سیستم های تالار گفتگو (شامل phpBB2 ) به phpBB3 راهنمایی خواهد کرد. برای اطلاعات بیشتر به <a href="../docs/INSTALL.html"> راهنمای نصب</a> مراجعه کنید. <br /><br />برای خواندن لایسنس phpBB لطفاً گزینه مربوط را در منوی کناری انتخاب کنید. برای ادامه از قسمت بالا گزینه مناسب را انتخاب کنید.(نصب یا تبدیل)',
-	
+	'INTRODUCTION_BODY'		=> 'به phpBB3 خوش آمدید !<br /><br />phpBB™ محبوب ترین تالار بازمتن در سطح جهانی است. phpBB3 آخرین محصول از بسته هایی است که ساخت آن از سال 2000 شروع شده است. phpBB3 مانند نسخه‌های قبل، پر امکانات و کاربر پسند می باشد، phpBB3 به طور کامل توسط تیم پشتیبانی phpBB پشتیبانی میشود. phpBB3 تا حد زیادی همه امکاناتی که phpBB2 را محبوب کرده بود، را ارتقاء داده و بعضی امکاناتی را که در نسخه‌های قبلی وجود نداشت، اضافه کرده است. امیدواریم فراتر از انتظارات شما را برآورده کند.<br /><br />این سیستم نصب شما را در نصب phpBB3 ، به‌روز رسانی آن به آخرین نسخه phpBB3 و تبدیل سایر سیستم های تالار گفتگو (شامل phpBB2 ) به phpBB3 راهنمایی خواهد کرد. برای اطلاعات بیشتر به <a href="%1$s"> راهنمای نصب</a> مراجعه کنید. <br /><br />برای خواندن لایسنس phpBB لطفاً گزینه مربوط را در منوی کناری انتخاب کنید. برای ادامه از قسمت بالا گزینه مناسب را انتخاب کنید.(نصب یا تبدیل)',	
 	// Support page
 	'SUPPORT_TITLE'		=> 'پشتیبانی',
 	'SUPPORT_BODY'		=> 'Full support will be provided for the current stable release of phpBB3, free of charge. This includes:</p><ul><li>installation</li><li>configuration</li><li>technical questions</li><li>problems relating to potential bugs in the software</li><li>updating from Release Candidate (RC) versions to the latest stable version</li><li>converting from phpBB 2.0.x to phpBB3</li><li>converting from other discussion board software to phpBB3 (please see the <a href="https://www.phpbb.com/community/viewforum.php?f=486">Convertors Forum</a>)</li></ul><p>We encourage users still running beta versions of phpBB3 to replace their installation with a fresh copy of the latest version.</p><h2>Extensions / Styles</h2><p>For issues relating to Extensions, please post in the appropriate <a href="https://www.phpbb.com/community/viewforum.php?f=451">Extensions Forum</a>.<br />For issues relating to styles, templates and themes, please post in the appropriate <a href="https://www.phpbb.com/community/viewforum.php?f=471">Styles Forum</a>.<br /><br />If your question relates to a specific package, please post directly in the topic dedicated to the package.</p><h2>Obtaining Support</h2><p><a href="https://www.phpbb.com/support/">Support Section</a><br /><a href="https://www.phpbb.com/support/docs/en/3.3/ug/quickstart/">Quick Start Guide</a><br /><br />To ensure you stay up to date with the latest news and releases, follow us on <a href="https://www.twitter.com/phpbb/">Twitter</a> and <a href="https://www.facebook.com/phpbb/">Facebook</a><br /><br />',
@@ -109,7 +108,7 @@ $lang = array_merge($lang, array(
 
 	// Server requirements
 	'PHP_VERSION_REQD'					=> 'نسخه PHP',
-	'PHP_VERSION_REQD_EXPLAIN'			=> 'phpBB نیاز به نسخه 7.1.3 PHP یا بیشتر دارد.',
+	'PHP_VERSION_REQD_EXPLAIN'			=> 'phpBB نیاز به نسخه 7.2.0 PHP یا بیشتر دارد.',
 	'PHP_GETIMAGESIZE_SUPPORT'			=> 'تابع phpBB getimagesize() مورد نیاز است',
 	'PHP_GETIMAGESIZE_SUPPORT_EXPLAIN'	=> 'ضروری - برای این که phpBB عملکرد درستی داشته باشد، باید تابع getimagesize در دسترس باشد.',
 	'PCRE_UTF_SUPPORT'					=> 'PCRE UTF-8 پشتیبانی',
@@ -577,6 +576,7 @@ $lang = array_merge($lang, array(
 	'CHECK_TABLE_PREFIX'		=> 'لطفاً پیشوند جداول را کنترل کرده و دوباره امتحان کنید',
 
 	// Conversion in progress
++	'CATEGORY'					=> 'دسته',	
 	'CONTINUE_CONVERT'			=> 'ادامه تبدیل',
 	'CONTINUE_CONVERT_BODY'		=> 'قبلا فرایند تبدیل انجام گرفته است. حال می‌توانید فرآیند تبدیل جدیدی را شروع کنید و یا فرآیند انجام شده را ادامه دهید.',
 	'CONVERT_NEW_CONVERSION'	=> 'تبدیل جدید',
@@ -637,6 +637,10 @@ $lang = array_merge($lang, array(
 	'CONVERT_COMPLETE'			=> 'فرآیند تبدیل اتمام یافت',
 	'CONVERT_COMPLETE_EXPLAIN'	=> 'انجمن شما با موفقیت به نسخه phpBB 3.3 ارتقا پیدا کرد می‌توانید هم اکنوان وارد حساب خود شوید.<a href="../">دسترسی به انجمن</a>. لطفاً قبل از حذف پوشه نصب و فعال سازی انجمن از تغییر تمامی تنظیمات جدید اطمینان حاصل نمایید. راهنمای استفاده از این سیستم در این آدرس موجود است. <a href="https://www.phpbb.com/support/docs/en/3.3/ug/">مستندات</a> و <a href="https://www.phpbb.com/community/viewforum.php?f=661">انجمن پشتیبانی</a>.',
 
+	'COLLIDING_CLEAN_USERNAME'			=> '<strong>%s</strong> یک نام کاربری مشخص برای:',
+	'COLLIDING_USER'					=> '» شماره کاربر: <strong>%d</strong> نما کاربری: <strong>%s</strong> (%d پست )',
+	'COLLIDING_USERNAMES_FOUND'			=> 'نام‌های کاربری متضاد در انجمن شما پیدا شد. برای تکمیل تبدیل لطفاً این کاربران را حذف یا تغییر نام دهید تا برای هر نام کاربری فقط یک کاربر در انجمن شما وجود داشته باشد.',
+	'CONV_ERR_FATAL'					=> 'خطای تبدیل',
 	'CONV_ERROR_ATTACH_FTP_DIR'			=> 'در تالار قدیمی، بارگذاری FTP برای پیوست‌ها فعال می باشد. لطفاً بارگذاری پیوست با FTP را غیرفعال کنید و مطمئن شوید که پوشه مشخصی برای بارگذاری تعیین شده است. سپس تمام پیوست‌ها را به این پوشه قابل دسترس بارگذاری کرده و تبدیل گر را دوباره فعال کنید.',
 	'CONV_ERROR_CONFIG_EMPTY'			=> 'اطلاعات پیکربندی برای تبدیل گر وجود ندارد.',
 	'CONV_ERROR_FORUM_ACCESS'			=> 'اطلاعات دسترسی به انجمن دریافت نمیشود.',

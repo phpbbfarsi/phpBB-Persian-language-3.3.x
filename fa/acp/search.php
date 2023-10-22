@@ -55,7 +55,7 @@ $lang = array_merge($lang, array(
 	'DEFAULT_SEARCH_RETURN_CHARS'			=> 'Default number of returned characters',
 	'DEFAULT_SEARCH_RETURN_CHARS_EXPLAIN'	=> 'The default number of characters that will be returned while searching. A value of 0 will return the entire post.',
 	'DELETE_INDEX'							=> 'حذف شاخص',
-	'DELETING_INDEX_IN_PROGRESS'			=> 'حذف شاخص در حال اجرا می باشد',
+	'DELETING_INDEX_IN_PROGRESS'			=> 'حذف شاخص در حال اجرا می باشد ...',
 	'DELETING_INDEX_IN_PROGRESS_EXPLAIN'	=> 'در حال حاضر مرجع جست‌وجو شاخص خود را پاکسازی می کند،این فرآیند ممکن است چند دقیقه به طول انجامد.',
 
 
@@ -100,7 +100,7 @@ $lang = array_merge($lang, array(
 	'GO_TO_SEARCH_INDEX'					=> 'رفتن به صفحه اصلی جست‌وجو',
 
 	'INDEX_STATS'							=> 'آمار شاخص',
-	'INDEXING_IN_PROGRESS'					=> 'ضاخص بندی در حال اجرا می باشد',
+	'INDEXING_IN_PROGRESS'					=> 'شاخص بندی در حال اجرا می باشد ...',
 	'INDEXING_IN_PROGRESS_EXPLAIN'			=> 'مرجع جست‌وجو در حال شاخص بندی تمامی پست‌های تالار می باشد،این فرآیند ممکن است بسته به حجم تالار بین چند دقیقه تا چند ساعت به طول بیانجامد.',
 
 	'LIMIT_SEARCH_LOAD'						=> 'محدودیت بارگذاری صفحه جست‌وجو',
@@ -120,7 +120,7 @@ $lang = array_merge($lang, array(
 	'SEARCH_GUEST_INTERVAL'					=> 'محدودیت زمانی جست‌وجو برای مهمان ها',
 	'SEARCH_GUEST_INTERVAL_EXPLAIN'			=> 'تعدا ثانیه هایی که مهمانان باید بین دو جست‌وجو صبر کنند،اگر مهمانی جست‌وجویی را انجام دهد،مهمانان دیگر باید این تعداد ثانیه صبر کنند تا بتوانند جست‌وجوی دیگری را انجام دهند.',
 	'SEARCH_INDEX_CREATE_REDIRECT'			=> array(
-		2	=> 'همه پست‌ها تا id %1$d از بین %2$d پست در این مرحله شاخص بندی شدند.رتبه شاخص بندی کنونی تقریبا %3$در ثانیه می باشد.<br />شاخص بندی در حال اجرا است.',
+		2	=> 'همه پست‌ها تا id %1$d از بین %2$d پست در این مرحله شاخص بندی شدند.رتبه شاخص بندی کنونی تقریبا %3$در ثانیه می باشد.<br />شاخص بندی در حال اجرا است. <br />',
 	),
 	'SEARCH_INDEX_CREATE_REDIRECT_RATE'		=> array(
 		2	=> 'The current rate of indexing is approximately %1$.1f posts per second.<br />Indexing in progress…',
@@ -129,9 +129,10 @@ $lang = array_merge($lang, array(
 		2	=> 'تمامی پست‌های شماره %2$d پاک شدند, که تعداد %1$d پست در مرحله اجراست<br />',
 	),
 	'SEARCH_INDEX_DELETE_REDIRECT_RATE'		=> array(
-		2	=> 'زمان تخمینی حذف پست‌ها % ثانیه به ازاء هر پست است.<br />فرآیند حذف در حال اجرا',
+		2	=> 'زمان تخمینی حذف پست‌ها % ثانیه به ازاء هر پست است.',
 	),
 	'SEARCH_INDEX_CREATED'					=> 'با موفقیت تمامی پست‌ها در پایگاه داده شاخص بندی شدند.',
+	'SEARCH_INDEX_PROGRESS'					=> 'انجام شد: %1$d | در حال انتظار: %2$d | مجموع: %3$d',
 	'SEARCH_INDEX_REMOVED'					=> 'با موفقیت شاخص این مرجع جست‌وجو حذف شد.',
 	'SEARCH_INTERVAL'						=> 'محدودیت زمانی برای جست‌وجوی کاربران',
 	'SEARCH_INTERVAL_EXPLAIN'				=> 'تعداد ثانیه هایی که کاربر باید بین دوجست‌وجو صبر کند،این زمان برای هر کاربر مستقل می باشد.',

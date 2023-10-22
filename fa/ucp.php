@@ -120,7 +120,7 @@ $lang = array_merge($lang, array(
 	'BIRTHDAY'				=> 'تاریخ تولد',
 	'BIRTHDAY_EXPLAIN'		=> 'لطفاً روز، ماه و سال تولد خود را انتخاب کنید.',
 	'BOARD_DATE_FORMAT'		=> 'فرمت تاریخ ها',
-	'BOARD_DATE_FORMAT_EXPLAIN'	=> 'برای اطلاعات بیشتر از توابع تاریخ <a href="https://secure.php.net/manual/function.date.php">date()</a> را مشاهده فرمایید.',
+	'BOARD_DATE_FORMAT_EXPLAIN'	=> 'برای اطلاعات بیشتر از توابع تاریخ <a href="https://www.php.net/manual/datetime.format.php">date functions</a> را مشاهده فرمایید.',
 	'BOARD_LANGUAGE'		=> 'زبان',
 	'BOARD_STYLE'			=> 'قالب انجمن',
 	'BOARD_TIMEZONE'		=> 'موقعیت زمانی',

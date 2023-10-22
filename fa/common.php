@@ -3,7 +3,7 @@
 *
 * phpBB 3.3.X Project - Persian Translation
 * Translators: PHP-BB.IR Group Meis@M Nobari
-* Version: 3.3.5 - 1400/06/20
+* Version: 3.3.11 - 1402/07/30
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
@@ -171,6 +171,11 @@ $lang = array_merge($lang, array(
 		1	=> '%d نویسه',
 		2	=> '%d نویسه',
 	),
+	// Special version to be used when describing ranges e.g. "min x characters and max y characters"
+	'CHARACTERS_XY'			=> array(
+		1	=> '%d نویسه',
+		2	=> '%d نویسه',
+	),	
 	'COLLAPSE_VIEW'			=> 'نمای کشویی',
 	'CLOSE_WINDOW'			=> 'بستن پنجره',
 	'CODE'					=> 'کد',
