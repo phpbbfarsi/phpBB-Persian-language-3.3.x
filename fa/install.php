@@ -581,6 +581,7 @@ $lang = array_merge($lang, array(
 	'CONTINUE_CONVERT_BODY'		=> 'قبلا فرایند تبدیل انجام گرفته است. حال می‌توانید فرآیند تبدیل جدیدی را شروع کنید و یا فرآیند انجام شده را ادامه دهید.',
 	'CONVERT_NEW_CONVERSION'	=> 'تبدیل جدید',
 	'CONTINUE_OLD_CONVERSION'	=> 'فرآیند تبدیل قبلی را ادامه بده',
+	'POST_ID'					=> 'ID پست',	
 
 	// Start conversion
 	'SUB_INTRO'					=> 'مقدمه',
