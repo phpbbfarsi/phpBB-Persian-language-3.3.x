@@ -576,7 +576,7 @@ $lang = array_merge($lang, array(
 	'CHECK_TABLE_PREFIX'		=> 'لطفاً پیشوند جداول را کنترل کرده و دوباره امتحان کنید',
 
 	// Conversion in progress
-+	'CATEGORY'					=> 'دسته',	
+	'CATEGORY'					=> 'دسته',	
 	'CONTINUE_CONVERT'			=> 'ادامه تبدیل',
 	'CONTINUE_CONVERT_BODY'		=> 'قبلا فرایند تبدیل انجام گرفته است. حال می‌توانید فرآیند تبدیل جدیدی را شروع کنید و یا فرآیند انجام شده را ادامه دهید.',
 	'CONVERT_NEW_CONVERSION'	=> 'تبدیل جدید',
