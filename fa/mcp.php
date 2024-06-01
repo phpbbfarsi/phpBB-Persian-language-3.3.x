@@ -262,7 +262,7 @@ $lang = array_merge($lang, array(
 	'ONLY_TOPIC'			=> 'فقط موضوع “%s”',
 	'OTHER_USERS'			=> 'سایر کاربرانی که از این آی‌پی استفاده میکنند.',
 
-	'QUICKMOD_ACTION_NOT_ALLOWED' => "%s به عنوان ابزار سریع مجاز نیست.",
+	'QUICKMOD_ACTION_NOT_ALLOWED' => '%s به عنوان ابزار سریع مجاز نیست.',
 
 	'PM_REPORT_CLOSED_SUCCESS'	=> 'گزارش پیام خصوصی انتخاب شده با موفقیت بسته شد.',
 	'PM_REPORT_DELETED_SUCCESS'	=> 'گزارش پیام خصوصی انتخاب شده با موفقیت حذف نشد.',

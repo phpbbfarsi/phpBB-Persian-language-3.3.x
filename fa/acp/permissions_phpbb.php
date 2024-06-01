@@ -163,9 +163,9 @@ $lang = array_merge($lang, array(
 	'ACL_M_MERGE'	=> 'توانایی ادغام موضوعات',
 
 	'ACL_M_INFO'	=> 'توانایی مشاهده جزئیات پست',
-	'ACL_M_WARN'	=> 'توانایی صادر کردن اخطار ها<br /><em>این تنظیم سراسری می باشد و وابسته به انجمن نیست</em>', // This moderator setting is only global (and not local)
-	'ACL_M_PM_REPORT'	=> 'میتواند گزارش های پیام‌های خصوصی را حذف  یا ببندد<br /><em>این تنطیمات در بخش سراسری خواهد بود.</em>', // This moderator setting is only global (and not local)
-	'ACL_M_BAN'		=> 'توانایی اداره کردن تحریم ها<br /><em>این تنظیم سراسری می باشد و وابسته به انجمن نیست</em>', // This moderator setting is only global (and not local)
+	'ACL_M_WARN'	=> 'توانایی صادر کردن اخطار ها', 	
+    'ACL_M_PM_REPORT'	=> 'میتواند گزارش های پیام‌های خصوصی را حذف یا ببندد',
+ 	'ACL_M_BAN'		=> 'توانایی اداره کردن تحریم ها', 
 ));
 
 // Admin Permissions
