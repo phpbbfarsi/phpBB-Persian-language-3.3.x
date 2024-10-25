@@ -115,6 +115,7 @@ $lang = array_merge($lang, array(
 	'VIEW_INFO'				=> 'جزئیات پست',
 	'VIEW_NEXT_TOPIC'		=> 'موضوع بعدی',
 	'VIEW_PREVIOUS_TOPIC'	=> 'موضوع قبلی',
+	'VIEW_QUOTED_POST'		=> 'مشاهده نقل قول',
 	'VIEW_RESULTS'			=> 'نمایش نتیجه',
 	'VIEW_TOPIC_POSTS'		=> array(
 		1	=> 'تعداد پست‌ها:%d',

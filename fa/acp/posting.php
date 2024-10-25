@@ -91,6 +91,21 @@ $lang = array_merge($lang, array(
 		'LOCAL_URL'		=> 'URL محلی،“%s” فقط باید در صفحات داخلی سایت استفاده شود و حاوی هیچگونه پروتکل و پیشوند نیست.',
 		'RELATIVE_URL'	=> 'A relative URL. You can use this to match parts of a URL, but be careful: a full URL is a valid relative URL. When you want to use relative URLs of your board, use the LOCAL_URL token.',
 		'COLOR'			=> 'رنگ HTML که میتواند به صورت عددی نوشته شود <samp>#FF1234</samp> و یا <a href="http://www.w3.org/TR/CSS21/syndata.html#value-def-color">کلمات کلیدی رنگ‌های CSS</a> مانند <samp>سرخابی</samp> یا <samp>مرز غیرفعال</samp>'
+		'ALNUM'			=> 'نویسه هایی از الفبای لاتین (A-Z) و اعداد.',
+		'CHOICE'		=> 'انتخابی از مقادیر مشخص شده، به عنوان مثال. <samp>{CHOICE=بیل، قلب، الماس، باشگاه</samp>. مقادیر به‌طور پیش‌فرض به‌عنوان حساس به حروف بزرگ و کوچک در نظر گرفته می‌شوند و می‌توان با تعیین گزینه <samp>caseSensitive</samp> با آنها رفتار کرد: <samp>{CHOICE=Spades,Hearts,Diamonds,Clubs;caseSensitive}</samp>',
+		'FLOAT'			=> 'یک مقدار اعشاری، به عنوان مثال. <samp>0.5</samp>.',
+		'HASHMAP'		=> 'رشته ها را به جای آنها به شکل <samp>{HASHMAP=string1:replacement1,string2:replacement2}</samp> نقشه می‌دهد. حساس به حروف کوچک و بزرگ. مقادیر ناشناخته را به طور پیش فرض حفظ می کند.',
+		'INT'			=> 'یک مقدار صحیح، به عنوان مثال. <samp>2</samp>.',
+		'IP'			=> 'یک آدرس IPv4 یا IPv6 معتبر.',
+		'IPPORT'		=> 'یک آدرس IPv4 یا IPv6 معتبر با شماره پورت.',
+		'IPV4'			=> 'یک آدرس IPv4 معتبر.',
+		'IPV6'			=> 'یک آدرس IPv6 معتبر.',
+		'MAP'			=> 'رشته ها را به جای آنها به شکل <samp>{MAP=string1:replacement1,string2:replacement2}</samp> نقشه می‌دهد. حساس به حروف کوچک و بزرگ. مقادیر ناشناخته را به طور پیش فرض حفظ می کند.',
+		'RANGE'			=> 'یک عدد صحیح را در محدوده داده شده می پذیرد، به عنوان مثال. <samp>{RANGE=-10,42}</samp>.',
+		'REGEXP'		=> 'مقدار آن را در برابر یک regexp معین اعتبار می دهد، به عنوان مثال. <samp>{REGEXP=/^foo\w+bar$/}</samp>.',
+		'TIMESTAMP'		=> 'مهر زمانی مانند <samp>1h30m10s</samp> که به چند ثانیه تبدیل می‌شود. یک عدد هم قبول میکنه',
+		'UINT'			=> 'یک مقدار صحیح بدون علامت. مانند <samp>{INT}</samp>، اما مقادیر کمتر از 0 را رد می کند.',
+
 	),
 ));
 

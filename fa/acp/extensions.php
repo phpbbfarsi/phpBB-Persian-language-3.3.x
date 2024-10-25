@@ -51,6 +51,7 @@ $lang = array_merge($lang, array(
 
 	'DETAILS'				=> 'جزئیات',
 
+	'EXTENSIONS_AVAILABLE'	=> 'افزونه های در دسترس',
 	'EXTENSIONS_DISABLED'	=> 'افزونه‌های غیرفعال',
 	'EXTENSIONS_ENABLED'	=> 'افزونه‌های فعال',
 
