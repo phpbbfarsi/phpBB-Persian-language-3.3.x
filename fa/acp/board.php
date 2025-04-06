@@ -496,8 +496,8 @@ $lang = array_merge($lang, array(
 	'SMILIES_PATH_EXPLAIN'		=> 'مسیری در دایرکتوری phpBB شما. برای مثال <samp>images/smilies</samp>.',
 	'UPLOAD_ICONS_PATH'			=> 'مسیر ذخیره افزونه آیکون‌های گروه',
 	'UPLOAD_ICONS_PATH_EXPLAIN'	=> 'مسیری در دایرکتوری phpBBb شما.  برای مثال <samp>images/upload_icons</samp>.',
-	'USE_SYSTEM_CRON'		=> 'اجرای دوره ای سیستم cron',
-	'USE_SYSTEM_CRON_EXPLAIN'		=> 'هنگامیکه این گزینه غیرفعال باشد phpBB به صورت وظایف دوره ای را انجام میدهد. و هنگامیکه این گزینه فعال باشد phpBB هیچ وظیفه دوره را به تنهایی انجام نخواهد داد; و می‌توانید آنرا تنظیم کنید که وظیفه آن در فایل <code>bin/phpbbcli.php cron:run</code> خواهد بود. می‌توانید بر حسب دقیقه مثلا 5 دقیقه سیستم را به دلخواه تنظیم کنید.',
+	'USE_SYSTEM_CRON'		=> 'اجرای خودکار وظایف زمان‌بندی‌شده با استفاده از cron در سیستم‌عامل',
+	'USE_SYSTEM_CRON_EXPLAIN'		=> 'وقتی این گزینه غیرفعال باشد، phpBB به‌صورت خودکار وظایف دوره‌ای را اجرا می‌کند. اما زمانی که فعال شود، phpBB دیگر این وظایف را خودش زمان‌بندی نمی‌کند؛ بلکه مدیر سیستم باید اجرای دستور <code>bin/phpbbcli.php cron:run</code> را به کمک ابزار cron سیستم‌عامل در فواصل منظم (مثلاً هر ۵ دقیقه) تنظیم کند.',
 ));
 
 // Security Settings

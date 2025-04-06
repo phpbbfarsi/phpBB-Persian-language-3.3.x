@@ -360,6 +360,7 @@ $lang = array_merge($lang, array(
 	'HIDE_ME'						=> 'آنلاین بودن من را نشان نده',
 	'HOURS'							=> 'ساعت',
 	'HOME'							=> 'خانه',
+	'HTTP_HANDLER_NOT_FOUND'		=> 'عملیات نمی‌تواند انجام شود زیرا افزونه cURL در PHP غیرفعال است و گزینه allow_url_fopen در تنظیمات php.ini نیز غیر فعال شده، و هیچ کنترل‌کننده HTTP دیگری یافت نشد.',
 
 	'ICQ'						=> 'ICQ',
 	'IF'						=> 'اگر',
