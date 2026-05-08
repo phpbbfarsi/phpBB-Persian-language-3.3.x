@@ -50,14 +50,14 @@ $lang = array_merge($lang, array(
 
 
 	'DETAILS'				=> 'جزئیات',
+	
+    'EXTENSIONS_NOT_INSTALLED'	=> 'افزونه‌های نصب‌نشده',
+	'EXTENSIONS_DISABLED'		=> 'افزونه‌های غیرفعال',
+	'EXTENSIONS_ENABLED'		=> 'افزونه‌های فعال',
 
-	'EXTENSIONS_AVAILABLE'	=> 'افزونه های در دسترس',
-	'EXTENSIONS_DISABLED'	=> 'افزونه‌های غیرفعال',
-	'EXTENSIONS_ENABLED'	=> 'افزونه‌های فعال',
-
-	'EXTENSION_DELETE_DATA'	=> 'حذف کلی اطلاعات',
-	'EXTENSION_DISABLE'		=> 'غیرفعال',
-	'EXTENSION_ENABLE'		=> 'فعال',
+	'EXTENSION_DELETE_DATA'	=> 'حذف داده‌ها',
+	'EXTENSION_DISABLE'		=> 'غیرفعال‌سازی',
+	'EXTENSION_ENABLE'		=> 'فعال‌سازی',
 
 	'EXTENSION_DELETE_DATA_EXPLAIN'	=> 'حذف کلی اطلاعات افزونه به معنی حذف کامل داده‌ها و تنظیمات مربوط به آن است. اما فایل‌ها و پوشه های افزونه همچنان باقیست و میتوان دوباره آن را فعال کرد.',
 	'EXTENSION_DISABLE_EXPLAIN'		=> 'غیرفعال کردن افزونه به معنای حفظ داده‌ها ، فایل‌ها و تنظیمات است اما عملکرد و کارایی افزونه تا فعال کردن مجدد از بین خواهد رفت.',
