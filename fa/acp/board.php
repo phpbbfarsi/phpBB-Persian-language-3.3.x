@@ -47,7 +47,7 @@ $lang = array_merge($lang, array(
 	'BOARD_STYLE'					=> 'قالب انجمن',
 	'CUSTOM_DATEFORMAT'				=> 'سفارشی…',
 	'DEFAULT_DATE_FORMAT'			=> 'فرمت تاریخ',
-	'DEFAULT_DATE_FORMAT_EXPLAIN'	=> 'فرمت تاریخ همان تابع <a href="https://www.php.net/manual/datetime.format.php"> PHP می باشد.',
+    'DEFAULT_DATE_FORMAT_EXPLAIN'   => 'ساختار از همان قالب مورد استفاده در توابع تاریخ PHP <a href="https://www.php.net/manual/datetime.format.php">date functions</a> استفاده می‌کند.',
 	'DEFAULT_LANGUAGE'				=> 'زبان پیش‌فرض',
 	'DEFAULT_STYLE'					=> 'قالب پیش‌فرض',
 	'DEFAULT_STYLE_EXPLAIN'			=> 'قالب پیش‌فرض برای کاربران جدید',
